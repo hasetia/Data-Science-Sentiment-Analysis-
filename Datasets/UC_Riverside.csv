@@ -1,57 +1,1916 @@
-date,word_count,school
-22-Jan-20,141,Riverside
-28-Jan-20,900,Riverside
-29-Jan-20,774,Riverside
-30-Jan-20,337,Riverside
-3-Feb-20,536,Riverside
-4-Feb-20,490,Riverside
-26-Feb-20,436,Riverside
-27-Feb-20,57,Riverside
-28-Feb-20,43,Riverside
-3-Mar-20,262,Riverside
-5-Mar-20,612,Riverside
-5-Mar-20,1047,Riverside
-6-Mar-20,571,Riverside
-8-Mar-20,1143,Riverside
-9-Mar-20,728,Riverside
-10-Mar-20,990,Riverside
-11-Mar-20,222,Riverside
-11-Mar-20,968,Riverside
-11-Mar-20,1428,Riverside
-11-Mar-20,237,Riverside
-12-Mar-20,1239,Riverside
-12-Mar-20,783,Riverside
-12-Mar-20,1163,Riverside
-13-Mar-20,video,Riverside
-13-Mar-20,136,Riverside
-14-Mar-20,1138,Riverside
-14-Mar-20,392,Riverside
-15-Mar-20,611,Riverside
-15-Mar-20,295,Riverside
-16-Mar-20,395,Riverside
-16-Mar-20,858,Riverside
-17-Mar-20,685,Riverside
-18-Mar-20,373,Riverside
-18-Mar-20,101,Riverside
-19-Mar-20,403,Riverside
-19-Mar-20,156,Riverside
-20-Mar-20,369,Riverside
-24-Mar-20,164,Riverside
-25-Mar-20,751,Riverside
-26-Mar-20,432,Riverside
-31-Mar-20,243,Riverside
-2-Apr-20,101,Riverside
-3-Apr-20,372,Riverside
-3-Apr-20,380,Riverside
-4-Apr-20,501,Riverside
-6-Apr-20,404,Riverside
-6-Apr-20,450,Riverside
-7-Apr-20,246,Riverside
-14-Apr-20,462,Riverside
-15-Apr-20,188,Riverside
-16-Apr-20,753,Riverside
-21-Apr-20,354,Riverside
-21-Apr-20,3930,Riverside
-29-Apr-20,188,Riverside
-4-May-20,200,Riverside
-9-May-20,131,Riverside
+date,word_count,school,message
+22-Jan-20,141,Riverside,"As you all may be aware, there have been reported cases of coronavirus from Wuhan City, China.   
+
+According to the Center for Disease Control (CDC), these are a group of viruses that can cause a range of symptoms including a runny nose, cough, sore throat and fever. Some are mild, such as the common cold, while others are more likely to lead to pneumonia. They're usually spread through direct contact with an infected person. 
+
+To that extent, for our UC Riverside students, the treatment is mainly supportive. Standard recommendations to prevent infection spread includes regular hand washing, covering mouth and nose when coughing and sneezing, and thoroughly cooking meat and eggs. 
+
+Additionally, avoid close contact with anyone showing symptoms of respiratory illness such as coughing and sneezing. 
+
+If you have any concerns,  please contact the UCR Student Health Center: (951) 827-3031."
+28-Jan-20,900,Riverside,"To the Campus Community,
+You may have seen news reports on the outbreak of pneumonia caused by a novel
+coronavirus (“2019-nCoV”) originating from Wuhan, Hubei Province, China. Travel-related
+cases have been reported in Japan, Australia, France, Thailand, and the United States. CDC is
+conducting entry screenings of passengers on direct or connecting flights from Wuhan, China
+at 5 major airports, including LAX. Recently the CDC, Los Angeles County Department of Public
+Health and Orange County Health Care Agency have confirmed a positive case of 2019-nCoV.
+The CDC has deployed teams to California to assist in clinical management, contact tracing,
+and communications.
+There are no known exposures in Riverside or the UC Riverside campus. UCR is working
+closely with colleagues, clinical partners, and public health officials to actively monitor the
+situation and prepare for potential cases. We realize there may be many questions about the
+virus and its impact on our community. The FAQ below is intended to help answer basic
+questions about the virus and UCR response.
+If any member of the community suspects they have influenza or the Coronavirus, they should
+stay home. There is some evidence that infected persons may still spread 2019-nCoV even if
+they are not showing symptoms. Students should contact the Student Health Center at (951)
+827-3031. Faculty, staff, and other UCR members should contact their primary medical
+provider.
+The Wuhan coronavirus outbreak comes, unsurprisingly, at a time of year when many of us
+get run down and catch colds or the flu. While we have launched a screening process for the
+novel coronavirus, it is a good time for everyone to refresh their memory on best health
+practices to prevent the spread of any virus:
+Always practice good hand hygiene. Wash your hands with soap and water frequently.
+Avoid touching your eyes, nose, and mouth.
+Cover your coughs and sneezes with a tissue and dispose of tissue in trash immediately.
+Clean and disinfect surfaces and objects that may be contaminated with germs.
+Get your annual flu vaccine.
+The UCR campus will continue to operate as normal. Campus leadership along with public
+health partners will continue to evaluate the situation and provide updates to the UCR
+campus. Health advisories and new information will be shared via email and through the UCR
+Student Health Services and Environmental Health & Safety websites."
+29-Jan-20,774,Riverside,"Travel Restrictions For UCR Personnel
+All non-essential domestic and international travel will be suspended, effective Monday, March 16 and until further notice.
+
+Essential travel must be registered with UC Away. Travel booked through UC Connexxus are automatically registered with UC Away.  However, travel booked through other means (e.g., Expedia or directly through an airline’s website) will need to be manually registered with UC Away.
+We strongly advise students to refrain from personal, non-essential travel (both domestic and international) during spring break. UCR recommends all domestic personal travel be registered with UC Away.
+Outbound Travel Plans
+International Travel
+All non-essential international travel is suspended
+Essential University-related international travel must be registered with UC Away. If you are traveling for university-related business, please consider whether you can participate remotely (e.g., via online platforms or teleconference) or delay travel to a later date.
+All essential university-related international travel to a country at travel warning level 3 or alert level 2 must request and receive advance written approval from within the cognizant organization/unit up to the Vice Chancellor or Dean, with final approval from the Provost and Executive Vice Chancellor. 
+If you decide to travel outside of the United States, please be aware that the CDC may issue new international travel warnings without notice, potentially resulting in limited or delayed flights and possible quarantine upon re-entry.  Please ensure that your family and friends are aware of your travel plans and how to reach you.
+
+Domestic Travel
+All non-essential domestic travel is suspended.
+Essential University-related domestic travel must be registered with UC Away. Travel booked through UC Connexxus are automatically registered with UC Away.  However, travel booked through other means (e.g., Expedia or directly through an airline’s website) will need to be manually registered with UC Away.
+The university strongly recommends that all personal domestic travel be registered with UC Away.
+Inbound/Return Travel Plans
+UC community members who are currently traveling on university-related business in a country designated with a CDC Warning – Level 2 and 3 Travel Notice should plan to immediately leave the area. Upon return, travelers from Level 3 countries, both for university-related business or personal travel, will likely be expected to quarantine for 14 days.  
+
+UCR travelers will not be allowed to return to campus until after the quarantine ends.  Accordingly, faculty and staff should be in touch with their supervisors to determine measures for remote work. Similarly, students should be in contact with their instructors and academic advisors to identify appropriate measures to complete required assignments or tests.
+
+UC Travel Insurance - COVID-19 FAQ's
+The UC has arranged for employees and students traveling on official university business to be covered for a wide variety of accidents and incidents while away from the campus or primary workplace. Review the UC Travel Insurance Coverage for more information.
+
+Who is Covered under the UC Travel Policy?
+University travelers include employees, medical residents, students, fellows, and guests with travel paid by the University.  Personal travel such as vacation travel, is not covered by the UC Travel program.
+
+How can I find out what is covered by the UC Travel policy?
+
+The UC Travel generally covers emergency services, so routine health services would not be covered.  The most frequently used coverage is the accident medical and security extraction coverage.
+
+With the COVID 19 crisis, the most common benefit used is the trip cancellation/interruption coverage. A summary of the benefits is located here: 
+
+Student Travel Insurance Benefits
+Staff/Faulty Travel Insurance Benefits
+
+The benefits summary has an exclusion for “bacterial or viral infection.”  Is there coverage if I get sick due to Coronavirus and have to be hospitalized? 
+
+Coverage decisions are made by the insurance carrier Chubb and we have been informed that Coronavirus is a medical condition, thus if the disease is contracted while traveling overseas under this policy the medical benefit coverage would respond. However, please note that Chubb would have to comply with the local quarantine protocols in such cases.  
+
+How can I cancel my travel my registered trip?                                           
+
+If your registered trip should be canceled and fees are incurred, complete the form below:
+
+Employee Trip Cancellation/Interruption Claim Form
+Student Trip Cancellation/Interruption Claim Form
+What if I am stranded while traveling abroad?
+
+United HealthCare Group (UHCG) can assist stranded travelers wanting to return home. Travelers should first work with travel agent/ airline directly to book a flight. If they are not able to obtain a flight back, UHCG will work directly with travelers: https://www.ucop.edu/risk-services-travel/_files/uc-travel-insurance/travel-assistance-services.pdf . Note, even if travelers did not previously register their UC Trip, they can still obtain assistance from UHCG."
+30-Jan-20,337,Riverside,"As you know, UC is closely monitoring the dynamic developments regarding the 2019 Novel
+coronavirus (2019-nCoV). Today, the United Nations’ World Health Organization declared a
+“global health emergency” as the number of cases has continued to expand to more than a
+dozen countries. Meanwhile, the U.S. Centers for Disease Control and Prevention (CDC) also
+confirmed that the coronavirus has spread between two people in the United States, which is
+the first instance of person-to-person transmission of the virus in this country.
+The health and safety of our UC community is our No. 1 priority. To that end, following
+both CDC and State Department guidance, I am directing the UC community to temporarily
+avoid all non-essential travel to China, while it is designated with a Warning Level 3 Travel
+Notice.
+Each campus and medical center should take immediate steps to develop a review
+and approval process to determine if travel to China is absolutely essential or if it
+can be postponed.
+In order to ensure the well-being and safety of those who must travel during this time, it is of
+utmost importance that all faculty, staff, and students traveling abroad for University-related
+purposes register their international travel with the UC International Travel Registry before
+their expected departure and update this information as changes occur before and during
+travel. Registration is an important step in reducing the risks of travelling abroad and helps
+keeps the University community safe, especially in environments with heightened health risks
+such as the coronavirus."
+3-Feb-20,536,Riverside,"THOMAS SMITH (INTERIM PROVOST AND EXECUTIVE VICE CHANCELLOR) AND GERRY BOMOTTI (VICE CHANCELLOR AND CFO)
+UCR faculty, staff and students should be aware that the U.S. Department of State issued its highest advisory level 4 alerting a “do not travel to China due to the novel coronavirus” on Jan. 31, 2020.
+
+In addition, commercial airline carriers have reduced or suspended routes to and from China.
+
+University of California President Napolitano directed the UC community to temporarily “avoid all non-essential travel” to China on Jan. 30, 2020.
+
+The campus was required to develop a review and approval process to determine if travel to China is absolutely essential or if it can be postponed. UCR’s prior review and approval process for travel to China is provided below.
+
+University of California restrictions do not apply to travel that is solely personal-related, but such travelers should be aware of travel risks and of federal government warnings on any type of travel to/from China.
+
+Approval Process Prior to Travel
+All non-essential travel to China is restricted until further notice. All travelers who would like to engage in essential travel to China (defined in the following categories) must obtain prior approval as follows:
+
+Faculty: Faculty essential travel is defined as that which is required to:
+
+preserve the safety of a research subject and which is not possible to be postponed; or
+preserve the results of a research activity and which is not possible to be postponed.
+By way of comparison, faculty essential travel does not include travel to attend educational conferences. This is just one example of non-essential travel and does not include all other activities that would also be considered non-essential travel.
+
+To request approval to engage in essential travel, faculty should contact their Dean in writing. Such travel may only be approved by one of the school Deans. The Deans may consult with the UCR Risk Management.
+
+Staff: Staff travel is considered non-essential.
+
+To request an exception to the determination that UCR-related travel to China for staff is non-essential, staff should contact in writing one of the following cognizant offices depending on where they are assigned organizationally: Chancellor (for staff in University Advancement, University Communications, Governmental & Community Relations, Office of Diversity, Equity & Inclusion, Office of Legal Affairs, Research and Economic Development, Student Affairs, and Chief Compliance Office); Executive Vice Chancellor & Provost; Deans; UCR Health CEO; or Vice Chancellor Planning, Budget & Administration. Such an exemption may only be approved by one of the University officials listed above. UCR Risk Management is available for consultation.
+
+Students and Trainees (Clinical and Non-Clinical): Student and trainee essential travel is defined as that which is necessary to meet a graduation requirement and which is not possible to be postponed.
+
+To request approval to engage in essential travel, students and trainees should contact in writing the Dean of their respective school or of the Graduate Division. Such essential travel may only be approved by the Dean of the relevant school or the Graduate Division.
+
+Deans of the schools and the Graduate Division are responsible for ensuring that students and trainees are aware of this requirement, and Department Chairs/Directors are responsible for ensuring that their faculty are aware of and adhere to this requirement."
+4-Feb-20,490,Riverside,"Dear Campus Community,
+We would like to take this opportunity to make the campus aware of the university’s
+response to the novel coronavirus (2019-nCoV), which is a situation that is evolving
+daily. University leadership is in frequent contact with the UC Office of the President,
+Riverside County Public Health, our fellow UC campuses, clinical partners, and elected
+officials to monitor the situation, to ensure that all appropriate precautions are taken,
+and to respond quickly and effectively as matters arise.
+There are no confirmed 2019-nCoV cases in Riverside or the UC Riverside campus.
+UCR Response
+The Student Health Center has implemented a thorough screening process, along
+with a dedicated Nurse line for remote consultations. Our Housing and Dining team
+has increased the number of hand sanitizers on campus. Our Environmental Health &
+Safety and Student Health teams are collaborating to raise awareness of best hygiene
+and flu prevention practices. Moreover, our Risk Management team is working with
+registered travelers to ensure their whereabouts and prepare for any needed changes
+in their travel plans.
+Travel Restrictions/Registration
+In response to the U.S. Department of State’s level 4 travel advisory, University of
+California President Janet Napolitano has directed the UC community to temporarily
+avoid all non-essential travel to China. Please take a few moments to review the
+details of UCR’s response to the directive and how we are defining essential travel for
+faculty, staff, and students.
+We strongly recommend that all students and employees register their university
+business travel with UC Away, in order to fully leverage the benefits and protections
+in case an incident arises that requires medical care, evacuation, or other essential
+services.
+Appropriate Treatment of Fellow Students and Employees
+During this critical time, it is imperative that all students, faculty, and staff uphold a
+campus culture of respect. Despite any anxiety we may feel with regard to this health
+scare, there is no justification for unwarranted mistreatment or discriminatory
+behavior against others.
+If any member of the campus community experiences mistreatment or is a witness to
+this inappropriate behavior, students should make a report to
+deanofstudents@ucr.edu, and employees should consult with their direct supervisor.
+Importantly, UCR strives to reinforce a respectful, safe community through our
+Principles of Community and student conduct policies.
+Additional Information and Resources
+Please continue to visit the Environmental Health & Safety website, which is being
+updated often with new information, frequently asked questions, and best practices
+to protect yourself. Please also take a few moments to review this video featuring
+Brandon Brown, epidemiologist in the UCR School of Medicine, where he answers
+common questions about coronavirus.
+We will continue to update the campus community as new information becomes
+available that may impact our students, faculty, and staff."
+26-Feb-20,436,Riverside,"As you are aware, the University continues to monitor closely the continuing developments
+regarding the coronavirus outbreak (COVID-19). This week, the U.S. Centers for Disease
+Control and Prevention (CDC) issued a Warning – Level 3 Travel Notice for South Korea. In
+addition, the CDC has listed other countries in both Asia and Europe where sustained
+transmission of COVID-19 has transpired or where the virus has spread.
+The health and well-being of our community remains our No. 1 priority. To that end, I think it
+is necessary for us to take all of the precautions necessary in this fluid situation, erring on the
+side of safety. Expanding on the directive I issued in late January, I am further directing the
+UC community to temporarily avoid all non-essential, University-related travel to countries
+that are designated with a CDC Warning – Level 3 Travel Notice. This currently includes
+South Korea as well as China (excluding the Special Administrative Regions of Macau and
+Hong Kong). For the latest information on travel warnings and UC-related updates, go to
+ucal.us/coronavirus.
+In addition, UC community members who are currently traveling on University-related
+business in a country designated with a CDC Warning – Level 3 Travel Notice should plan to
+immediately leave the area unless their UC campus or medical center deems their travel to be
+essential. Risk Services units at campuses and Medical Centers can help facilitate safe
+departures and returns to campus as needed.
+Again, it is of utmost importance that all faculty, staff, and students traveling abroad for
+University-related purposes register their international travel with the UC International
+Travel Registry before their expected departure and ensure they update this information as
+changes occur before and during travel. Registration is an important step in reducing
+the risks of traveling abroad while keeping the UC community safe, especially in
+environments with heightened health risks such as COVID-19."
+27-Feb-20,57,Riverside,"The University of California is vigilantly monitoring and responding to new information about the coronavirus (COVID-19) outbreak, which has been declared a global health emergency. UC will act in accordance with all applicable public health directives and UC’s guidance, policies and regulations cannot conflict with public health orders."
+28-Feb-20,43,Riverside,"Travel Health Notices inform travelers and clinicians about current health issues that impact travelers’ health, like disease outbreaks, special events or gatherings, and natural disasters, in specific international destinations.  See types of travel notices."
+3-Mar-20,262,Riverside,"C Riverside Chancellor Kim A. Wilcox and interim Provost and Executive Vice Chancellor Thomas A. Smith shared an update Tuesday on how the campus is responding to the novel coronavirus (COVID-19). An FAQ below provides some additional information and links to resources.
+
+Dear UCR Community,
+
+We write to provide a broad update on UCR’s efforts to address the novel coronavirus (COVID-19).  The health and safety of our community remains our top priority, and we are actively monitoring developments locally and abroad.
+
+Presently, there are no confirmed cases in Riverside County, the city of Riverside, or the UC Riverside campus. The campus continues to operate normally.  
+
+As noted in media coverage of COVID-19, this is a dynamic situation with COVID-19 infections significantly affecting several countries, including China, South Korea, Italy, and Iran.  As a result, the Centers for Disease Control (CDC), along with the UC Office of the President, have instituted travel guidance and proactive measures to prevent further spread of infection.  
+
+Below this message, you will also find information about resources and UCR’s efforts to address COVID-19.  With circumstances that appear to be changing on a regular basis, we ask that each member of the campus community stay informed about measures to prevent infection and regularly check the following website for the most up-to-date UCR information: https://ehs.ucr.edu/coronavirus.
+
+Thank you for your efforts to help prevent infection; and for everyone’s continued commitment to maintaining a safe and respectful environment, consistent with our Principles of Community."
+5-Mar-20,612,Riverside,"UC campuses, health centers, and laboratories continue to work around the clock to combat
+the global outbreak of novel coronavirus, including within the United States. From the earliest
+days of the outbreak, the University of California has been on the front lines of response efforts
+to COVID-19, leveraging the power of UC research to inform and guide our actions and
+providing care for affected patients in our top-ranked hospitals. To date, three of our UC
+medical centers have treated six confirmed cases of COVID-19. All five of our medical centers
+have monitored at least 34 people under investigation (PUI). Each health center has
+comprehensive protocols and significant experience dealing with infectious diseases. Even as
+we care for patients, we are acutely mindful of our responsibilities to our employee
+communities, other patients, and the public at large.
+We must take this threat seriously, and we are. Combatting this virus and effectively caring
+for all patients requires skillful planning and nimbly responding to quickly-evolving
+circumstances. These changes may impact daily operations and the lives of faculty, staff,
+students, and communities across California. In the past few days alone, the number of
+countries and regions experiencing widespread community transmission has dramatically
+increased, thereby increasing the risk of travel to these locations.
+Given the rapidly changing conditions, and out of an abundance of caution, I am expanding
+my Feb. 26 directive to avoid all non-essential, University-related travel to CDC
+Level 2 (sustained community transmission) Travel Health Notice countries, in
+addition to Level 3 (widespread sustained transmission) –Travel Health Notice
+countries. Further, individuals on our campuses with a recent travel history from a CDC
+Level 3 country must self-isolate for 14 days from the time they left the Level 3 country and
+practice social distancing. CDC travel guidance for Level 3 countries applies to all travelers
+returning from a Level 3 country for any purpose, including personal travel. All those traveling 
+Chancellors et al.
+March 5, 2020
+Page 2
+abroad for University-related purposes must register their international travel with the UC
+International Travel Registry.
+In addition, to ensure the University can rapidly respond to ongoing developments and
+continually updated guidance from the CDC and local, state, and federal public health
+authorities, I am formally tasking UC’s systemwide Emergency Operations Management
+Response Team (MRT) with the authority and responsibility to address crisis management
+policy decision-making and provide critical oversight focused on keeping our campuses and
+communities safe. As such, effective immediately, all decision-making authority on
+actions related to limiting the impacts of COVID-19 is, hereby, delegated to Rachael
+Nava, Chief Operating Officer for the UC Office of the President. COO Nava leads the
+MRT, which has been activated to implement our Management Response Plan to manage this
+evolving public health emergency. As President of the University of California, I will continue
+to closely monitor the situation and receive regular reports from COO Nava.
+We will continue to take as many precautions as necessary in order to protect the UC
+community while remaining calm, vigilant, and responsive. The Office of the President will
+continue to provide guidance as warranted. I appreciate your immediate attention and
+cooperation to implement this directive.
+You can find ongoing and updated information on UC’s response to coronavirus here:
+ucal.us/coronavirus."
+5-Mar-20,1047,Riverside,"Faculty Colleagues, 
+
+UCR has been closely monitoring the status of the Coronavirus Disease (COVID-19). It remains impossible to determine if, when, or to what extent our campus might be impacted. However, should the virus continue to spread, it is likely that some faculty, staff and students will be affected and will have to remain quarantined or isolated for a period of time. Although it seems unlikely at this time, it is even possible for disruptions as significant as closing all or part of the campus on short notice for two weeks or more. 
+
+Beyond the immediate health risks of COVID-19, the virus also may pose significant academic risks for students. If you, your teaching assistants, or some or all of your students are unable to meet face-to-face, student learning can be disrupted. While such situations are not unusual at a university as large as UCR, this typically happens to small numbers of people for short durations of time and we are able to make adjustments and continue with business as usual. For example, a colleague can provide a lecture if an instructor is sick, an instructor can spend additional time tutoring students who miss multiple lectures, an office can be provided for a make-up exam, and a small number of grades may be delayed while students complete work missed because of unavoidable absences.
+
+These solutions do not work when many people are impacted for longer periods of time, or if all or part of the campus must close. Postponing instruction at large scales creates very significant problems for students and the campus as a whole. UCSB experienced these problems recently when final exams were canceled due to a wildfire and time was carved out of winter quarter to reschedule fall quarter exams. The ripple effects of such scheduling changes were numerous and problematic for students.
+
+Due to these risks, we are asking every instructor to immediately develop a continuity plan for your winter and spring quarter courses.  Below is a set of actions with links to existing and new resources to help you implement a plan that works best for each of your courses and promotes the welfare of our students.
+
+URGENT ACTIONS FOR INSTRUCTORS 
+
+Establish a complete and regularly updated gradebook in iLearn. If the instructor or other course staff become ill or are under quarantine, this will ensure an accurate record of all assignment scores is accessible so that students can receive their course grades in a timely manner.
+Ensure that remaining assignments, including final exams, can be reliably collected and graded, and the course grades computed and submitted, even if the instructor or other course staff become ill or are quarantined. Consider alternative assessment methods (e.g. online exams and presentations) for students who are ill or quarantined. 
+Talk with your students about their concerns regarding attendance at lectures and final exams. Share campus information about COVID-19 and be clear about your expectations regarding attendance for healthy students.
+Consider how to adjust course policies related to class attendance to avoid penalizing students who become ill or are placed under quarantine.
+Remind students that if they will be unable to attend class for an extended period of time, instructors, academic advisors and Student Affairs Case Management are available to help them get back on track.
+Practice good hygiene in classroom environments and encourage students to do the same.
+HIGH PRIORITY ACTIONS FOR INSTRUCTORS 
+
+Visit https://keepteaching.ucr.edu/ to learn how to make the most of technology-based options for instructional continuity.
+Place all key course documents (e.g., syllabi, assignments, readings, lecture materials) on iLearn, so that instructors and students can access them remotely in case they are unable to come to campus due to illness or quarantine. If the course has a separate website or other online resources, provide links to them from iLearn. 
+Arrange for an alternative method to deliver your lectures to your students. Options include pre-recorded video or audio (podcasting) with distribution through iLearn to ensure safe storage and sufficient bandwidth. Live video or audio also can be used with software such as Zoom. ITS is working to ensure we have sufficient software licenses for the anticipated increased demand.
+Determine whether instructors for similar courses (possibly previous offerings of your course at UCR or the analogous course at another campus) have captured and stored lectures that you might use. Inquire with your department chair and colleagues at UCR and elsewhere. Also check the UC ILTI online course catalog.  
+If you have unique circumstances that would not be adequately addressed by implementing these actions (e.g. laboratory, performance studio or field course), please discuss other options with your department chair and develop an appropriate instructional continuity plan. Consultation with colleagues also is encouraged, especially those who already have experience with the technologies listed above.
+
+In addition, deans, department chairs and program directors must take the following actions to help promote instructional continuity for students.
+
+REQUIRED ACTIONS FOR DEANS, CHAIRS AND DIRECTORS
+
+Work with faculty in your unit to implement the actions described in the sections above.
+Make contingency plans for how your unit will keep courses running if instructors or course staff become ill or are quarantined. This may include identifying alternate instructors who could step in if the instructors of record become ill or must quarantine.
+Plan ahead to meet the ADA needs of quarantined instructors or students who had arranged accommodation for face-to-face instruction.
+Plan to increase summer course offerings for summer 2020 to support the academic advancement of students whose course plans were disrupted and/or who cannot return home during summer 2020. This should include current students and inbound transfers from California community colleges. 
+Inventory courses for which lecture capture exists already. Make faculty aware of the inventory and make the material available as needed to support current courses. Consider building your inventory with newly captured content, and arranging for additional capture in future quarters. 
+Thank you for taking these steps to prepare for possible disruptions and promote continuity of instruction at UCR. Your individual efforts to find solutions that work for our students are an essential part of campus planning and mitigation efforts. Thanks also to the joint administrative-faculty workgroup that developed an initial draft of these guidelines.
+
+Please stay alert for additional updates from the campus."
+6-Mar-20,571,Riverside,"Dear Campus Community: 
+
+The health and safety of UC Riverside faculty, staff, and students are of utmost importance. In light of the ongoing and increased concern regarding novel coronavirus (COVID-19), the university is (1) instituting an interim policy governing university-related international travel and (2) providing updated guidance for all international and domestic travel.
+
+1.    Interim Policy Governing University-Related International Travel
+
+Effective immediately, the interim policy requires the following:
+•    All university-related international travel must be registered with UC Away (also called the “UC International Travel Registry”). UC Away is the University of California’s portal to register university-related and personal travel. Registration enables the university to leverage benefits and protections in case an incident arises that requires medical care, evacuation, or other essential services.
+•    All proposed travel to high-risk countries, including those with a Centers for Disease Control (CDC) Warning Level 3 (widespread community transmission) or Level 2 (sustained community transmission), must be pre-approved in writing by the appropriate Vice Chancellor or Dean, prior to scheduling travel. This is consistent with the UC President Napolitano’s directive to avoid all non-essential travel to CDC Level 3 and 2 countries.
+•    The interim policy will remain in place for six months, during which time campus feedback will be solicited. 
+
+2.    Guidance for All International and Domestic Travel
+
+For international travel:
+•    The university discourages all international, non-essential travel for now; this includes both university-related and personal travel.  
+•    If you are traveling for university-related business, please consider whether you can participate remotely (e.g., via online platforms or teleconference) or delay travel to a later date.
+•    If you decide to travel outside of the United States, please be aware that the CDC may issue new international travel warnings without notice, potentially resulting in limited or delayed flights and possible quarantine upon re-entry.  
+•    For personal travel, faculty, staff, and students are encouraged to register with UC Away.  
+•    Please ensure that your family and friends are aware of your travel plans and how to reach you.
+
+For domestic travel:
+•    The university strongly recommends that all domestic travel be registered with UC Away; this includes both university-related and personal travel.  For university-related, domestic travel booked through UC Connexxus, trips are automatically registered with UC Away.  However, travel booked through other means (e.g., Expedia or directly through an airline’s website) will need to be manually registered with UC Away.
+•    The university recommends limiting domestic, non-essential, university-related travel, if feasible.  For university-related business, please consider whether you can participate remotely (e.g., via online platforms or teleconference) or delay travel to a later date.
+
+We ask that everyone remain informed about measures to prevent infection and regularly check the following website for the most up-to-date UCR information: https://ehs.ucr.edu/coronavirus.  
+
+All members of the UCR community can help limit the spread of infection by washing your hands frequently with soap and hot water for at least 20 seconds, containing coughs and sneezing into a tissue or sleeve, and staying home if you are sick, especially if you have a respiratory illness and fever.
+
+Finally, thank you for your efforts to stay informed and help prevent infection. UCR prides itself on being a safe and inclusive environment, and we are proud of the calm and reasoned manner in which our community has addressed issues related to COVID-19."
+8-Mar-20,1143,Riverside,"Dear Campus Community:
+
+Since our last message to campus, the number of confirmed cases of COVID-19 has increased significantly across the United States and globally. 
+
+Late yesterday (Saturday, March 7th), Riverside County confirmed its first case of COVID-19. To our knowledge, this person is not affiliated with the UC Riverside campus. We further expect that the number of confirmed cases will continue to increase with more widespread testing.
+
+We understand that current circumstances regarding COVID-19 may lead to worry, concern, and anxiety, especially for those who have family in impacted regions or who are in higher-risk populations. We further acknowledge the uncertainty and concern that this virus and its consequences have created for so many in our community. Though there are no confirmed cases of the virus here on our campus or in the city of Riverside, the first infection could very well happen on or near campus at any time. We want to be as prepared as possible so we can move quickly should we need to.
+
+Campus Status
+
+The campus continues to remain open and operational. We are fortunate that no confirmed cases of COVID-19 have been reported at UC Riverside, but we continue to watch the global and regional situation carefully as we assess the local impact. After careful review of our local situation and following consultation with health professionals, we have assessed that the risk of transmission associated with classroom instruction remains low for our campus.
+
+We will continue to monitor and assess the risk, but at the present time, there is no reason for us to suspend ordinary instructional activity. In-person classroom meetings will be under normal operation for the week of March 9th, but this could change as the week progresses.
+
+We are aware that due to their distinct local circumstances, a small number of other universities have suspended normal in-person classroom meetings. Rest assured: we are prepared to do the same should our situation change. We are consulting on a daily basis with the California Department of Public Health, Riverside County officials, university health officials, and UC Office of the President.
+
+To ensure that we are fully prepared, we are calling on all members of our community to take steps now to prepare for the possibility that we may need to shift to working, teaching, and learning remotely and virtually in the near future. 
+
+Last week, the Provost’s Office communicated a memo asking that all faculty and instructors consider, on a voluntary basis, adjusting their practices for the remaining two weeks of the quarter in order to facilitate social distancing and accommodate students who cannot attend in-person classes or take in-person finals. Tomorrow, the Provost’s Office will meet with the Academic Senate’s Executive Council to further review senate policies affecting possible changes to course instruction, assignments, exams, grading, and syllabi.
+
+The keepteaching.ucr.edu website provides a toolkit and resources to ensure academic continuity, in case of emergency campus closures or other disruptions that prevent instructors and students from meeting face to face. Accordingly, if the facts justify additional restrictive steps, we will be prepared to act quickly to adjust our practices to better protect the health of our community, including suspending in-person classroom meetings.
+
+While we are not suspending in-person classroom meetings at this time, we understand the value of increased social distancing as a way of preventing the transmission of the virus; see this link from the San Francisco Department of Public Health for details.
+
+Staff supervisors and managers are asked to assess whether their employees could work remotely, as their individual circumstances warrant and institutional conditions evolve. With these preparations in place, we will be able to scale up measures quickly and broadly across campus, if or when needed.
+
+No decisions have been made yet to cancel or postpone large gatherings such as concerts, sporting events, conventions, or large community events; however, this remains a possibility. As such, organizers should exercise key prevention strategies in your event’s operation plan.
+
+We also advise all campus units to review carefully any visitors coming to campus, including contractors, to help assure they are in good health and have not recently been in any high risk location, domestically or internationally.  Hiring managers might also consider moving on-campus interviews with job candidates to online.
+
+Should UC Riverside need to move to hybrid or fully online campus operations, on-campus housing and dining services will remain open. Plans for managing confirmed cases among on-campus residents have been developed and will be implemented in consultation with local public health officials, should it become necessary.
+
+This situation is fluid, and it could change quickly in the Riverside community, requiring that we alter course at a moment’s notice. We encourage you to stay up to date with the latest information on UCR’s COVID-19 website or the UC Office of the President’s COVID-19 website. We will continue to send frequent updates to the campus as circumstances change.
+
+Travel Considerations
+
+Last Friday, UCR issued updated travel policy and guidance, and further restrictions are anticipated as additional cases of COVID-19 are confirmed. Additionally, students, faculty, and staff should consider seriously whether personal travel is necessary at this time.
+
+Please consider the potential for additional countries to be added to the restricted travel list, which could result in difficulties getting back into the US. Travelers should be prepared or arrange for off-campus accommodations to self-quarantine for 14 days upon your return from a restricted jurisdiction or if you are exposed to an individual suspected positive for COVID-19.
+
+Your Health and Wellness
+
+Finally, and most importantly, your health and wellness are of utmost importance. It is crucial for all members of the UCR community to carefully follow the recommendations for preventative care, which have the greatest likelihood of protecting ourselves as well as the larger community by diminishing the chances of transmission of the virus:
+
+Wash your hands frequently with soap and water for a minimum of 20 seconds, or, as an alternative, use alcohol-based hand sanitizer that contains at least 60% alcohol.
+Avoid touching your eyes, nose, and mouth.
+Clean and disinfect frequently touched objects and surfaces using a regular household cleaning spray or wipe.
+Stay home if you are sick and avoid close contact with people who are sick.
+Cover your cough or sneeze with a tissue, throw the tissue in the trash, and wash your hands.
+In addition, practice healthy habits: get plenty of sleep, be physically active, manage stress, drink plenty of fluids and eat nutritious food. If you have not received your annual flu shot, please schedule one with your provider to help protect yourself against the seasonal flu.
+
+Thank you for doing your part to protect our community. Please continue to look out for each other and to show kindness and support to all members of our campus community. Students, please share this message with your family and any other concerned parties."
+9-Mar-20,728,Riverside,"The University continues to closely monitor the ongoing Novel Coronavirus 2019 (COVID- 19)
+outbreak. The health and well-being of our community remains our number one priority. In response
+to the COVID-19 outbreak the University is enacting the following temporary emergency actions:
+• Employees unable to work due to their own or a family member’s COVID-19 illness should
+use available leave balances (e.g. sick leave, PTO-sick, or other accrued leave), and ifthere
+are no available leave balances the University will provide up to 14 days paid administrative
+leave to cover the absence.
+• Employees unable to come to work due to public health or University-required quarantine or
+self-isolation measures may work remotely if operationally feasible. If remote work is not
+operationally feasible, employees should use available leave balances, and ifthere are no
+available leave balances the University will provide up to 14 days paid administrative leave
+to cover the absence.
+• Employees unable to come to work due to a COVID-l9 day care or school closure that
+requires them to be home with their child may work remotely if operationally feasible; if
+remote work is not operationally feasible, employees may use available leave balances
+including sick leave.
+• Locations may designate certain employees to work from home. If employees are designated
+to work from home, it will be considered paid work status. Employees in positions who are
+directed not to come to work by the University and are unable to work from home due to the
+nature of their work (as determined by the location) may be allowed up to 14 days of paid
+administrative leave. Locations may determine which positions to designate, provided that all
+health care workers are considered exempt from this category of designation.
+• Academic appointees who do not accrue sick and/or vacation leave and who are not
+otherwise eligible for paid medical leave under applicable provisions of the Academic
+Personnel Manual will receive up to 14 days paid administrative leave to cover absences as
+described above.
+These measures are subject to change as the situation evolves, such as if the need to extend the
+availability of paid administrative leave becomes necessary. Additional information regarding
+applicable leave provisions may be found within the Absence from Work policy (PPSM 2.210) that
+apply to eligible policy-covered staff employees ($MG, MSP and PSS), including probationary
+employees, who are impacted by this crisis. Additional information regarding applicable leave
+provisions for policy-covered academic appointees may be found within the 700 Series of the
+-2-
+Academic Personnel Manual (APM). Employees covered by a collective bargaining agreement
+(CBA) should review the leave provisions in their respective CBA.
+Local Catastrophic Leave Sharing Programs
+Locations may consider highlighting existing catastrophic leave donation programs, if applicable, to
+facilitate vacation donations on behalf of impacted employees who have exhausted paid leave. For
+policy-covered staff employees, please see PPSM 2.210.III.B.l0.
+Benefit Considerations
+Generally, an employee granted a leave with pay will continue to receive all benefits related to
+employment. Special limitations or requirements that apply to certain types of leaves are addressed
+in the provisions specific to those leaves in the policy, For policy-covered staff employees, please
+see PPSM 2.210.III.A.6. For policy-covered academic appointees, please see the 700 Series of the
+APM. Employees covered by a CBA should review the leave provisions in their respective CBA.
+Employees should consult their local Benefits office for more information on the continuation of
+benefits during a leave.
+If you have any questions about these leave provisions, please contact:
+For policy-covered staff employees, please contact your local Human Resources Office.
+For academic appointees, please contact your local Academic Personnel Office.
+Thank you for your cooperation and support in keeping our UC community safe."
+10-Mar-20,990,Riverside,"Dear Campus Community:
+
+Thank you for your commitment to providing a safe and healthy environment for everyone at UC Riverside. There are currently no known cases of COVID-19 within the UC Riverside community.
+
+However, as local, national and global public health recommendations shift to include mitigation of transmission, we are proactively taking steps that will help to protect the community. Provided below are important updates regarding UCR’s academic continuity and campus operations. These measures will allow us greater flexibility as we work to prevent further spread of COVID-19. 
+
+ACADEMIC CONTINUITY
+
+Instructors should accelerate their efforts to transition their course materials and instruction online and minimize in-person instruction for the remainder of winter quarter (see this memo for guidance). Additionally, following consultation with the Academic Senate’s Executive Council, we have determined the following changes to instruction:
+
+Winter quarter final exams will not be held in person. Instructors are asked to communicate with students how final exams, if any, will be offered in place of in-person exams (for example: take home, online, or other alternative format).
+Instructors should plan to teach spring quarter courses fully online through April 3, 2020, and prepare to continue online instruction through the remainder of the quarter, as needed. This is a precautionary measure that is being announced early to provide instructors with as much time as possible to prepare. Academic Senate further wishes to emphasize that faculty will retain ownership and control of their online instructional materials.
+Students living on-campus may elect to return home through April 3, 2020. With final exams and early spring quarter instruction moving online, students may choose to return to their permanent place of residence or decide to remain in on-campus housing, where appropriate social distancing and enhanced hygiene measures will be in place. We ask all students to make the choice that is best for their own personal situations, while considering whether they have adequate access to the internet, computers, and textbooks to continue their studies effectively in an online environment.
+The spring quarter measures are meant to be temporary, and will be reviewed and updated regularly. The Provost’s office will continue working with the Academic Senate to provide additional guidance regarding online instruction and resources, as well as considerations for laboratory- and performance-based instruction.  Additional guidance is forthcoming.
+
+The Vice Chancellor for Student Affairs will provide specific guidance to all students, including student employees and on-campus residents.
+
+CAMPUS OPERATIONS
+
+Although spring quarter in-person instruction will be suspended through April 3, 2020, the campus will not be closed. Campus buildings will remain open, and most campus operations will continue. 
+
+Please note, however, that services may be limited as some employees may be allowed to work remotely. Managers and supervisors should immediately assess whether their employees’ job duties can be conducted off-site, at least on a part-time basis if not full-time; and be prepared to implement these work arrangements, pending approval from their direct supervisor and cognizant Dean, Vice Provost, Vice Chancellor, or equivalent organization head.
+
+Human Resources will soon provide additional communication to managers, supervisors, and employees about working remotely, and leave options for those who are ill or may have been exposed to COVID-19.
+
+Similarly, the Vice Chancellor for Research and Economic Development will provide information regarding research support operations.
+
+GATHERINGS AND VISITORS
+
+Going forward, the following guidelines have been adopted for gatherings on campus and university-hosted events:
+
+Large Gatherings (150 people or more): Cancellation, postponement, or moving to an online platform.
+Other Gatherings (Less than 150 people):  Cancellation, postponement, or moving to an online platform. If these options are not feasible, in-person gatherings for less than 150 people require approval from the Provost, in order to proceed; and must include proactive measures for social distancing and hygiene.
+Campus Visits (15 people or more): Cancellation or postponement of non-essential visits to campus by groups of more than 15 people. This would include, for example, campus tours and other events that bring visitors to campus.
+All Other Visits (15 people or less): These visits should be conducted online or via teleconference.
+Athletic Events: All UC Riverside-hosted athletic events are scheduled to continue, however, events will now be “fan-less,” meaning there should be no fans at the events.
+ADDITIONAL MEASURES – SOCIAL DISTANCING AND HYGIENE
+
+To prevent infection, we recommend adhering to the following social distancing practices:
+
+Vulnerable populations should limit outings and not attend large gatherings. Vulnerable populations are people 60 years of age and older; and people with health conditions such as heart disease, lung disease, diabetes, kidney disease, and weakened immune systems.
+If you are sick, stay home. Do not come to school or work, travel, or participate in large gatherings.
+If you have flu-like symptoms or suspect that you may have been exposed to COVID-19: Students should contact Student Health Services or their primary care physician.  Staff and faculty should their primary care physician, and UCR Health will be providing additional resources soon for all UCR employees.
+Important reminders regarding hygiene: (1) regularly wash your hands with soap and water or use an alcohol-based hand sanitizer that contains at least 60% alcohol, (2) cover your mouth with your elbow when you cough or sneeze, and (3) clean and disinfect surfaces often.
+For more information about social distancing and hygiene practices for the workplace and home, please visit the Centers for Disease Control (CDC) website.
+We understand that implementing these changes with such limited notice will have broad impacts and will be challenging and disruptive for many of you, and we appreciate your patience and cooperation.
+
+We are grateful to the staff throughout our campus for their tremendous efforts, especially our front-line staff who serve in health care, custodial, and food service roles. Your work is critically important at this time and we greatly value you and your contributions. 
+
+Please stay up-to-date on the latest communications at the UCR COVID-19 website. We will continue regular updates and provide details about modified campus operations, as new information is available."
+11-Mar-20,222,Riverside,"As part of our commitment to the health of our campus community, UCR Health, the clinical faculty practice of the UC Riverside School of Medicine, has established a new resource for UCR faculty and staff. 
+
+If you have traveled internationally or been in contact with someone in the past 30 days who has COVID-19, plus are experiencing a fever with cough or trouble breathing contact the 24/7 Hotline at 844-827-6827. 
+
+If you are experiencing cold and flu symptoms, but have not traveled internationally or been in contact with someone with COVID-19, contact your primary care physician or healthcare insurance for more information.
+
+This resource is available only to UCR employees, and not the general public. UCR students should continue to contact Student Health Services at 951-827-3031 for assistance.
+
+As a reminder, there are several steps each of us can take to slow or reduce the spread of germs: (1) wash your hands with soap and water or use an alcohol-based hand sanitizer that contains at least 60% alcohol, (2) cover your mouth with your elbow when you cough or sneeze, (3) clean and disinfect surfaces often, and (4) stay home if you are sick.
+
+For more information about social distancing and hygiene practices for the workplace and home, please visit the Centers for Disease Control (CDC) website or UCR’s COVID-19 website."
+11-Mar-20,968,Riverside,"s the situation surrounding the novel coronavirus continues to change rapidly, UC Riverside is taking proactive measures to limit the risk of COVID-19 to the campus community.
+
+Here are some of the latest developments:
+
+Campus is closed
+
+The campus is closed until April 3 . There are no known cases of COVID-19 on the UC Riverside campus or in the city of Riverside.
+
+ Winter quarter final exams will not proceed as in-person classroom exams. Instruction for the entire spring quarter will be remote. 
+
+University leadership is in frequent contact with the UC Office of the President, other UC campuses, Riverside County health officials, clinical partners, and elected officials. Within the campus, a cross-section of university officials is meeting at least daily to discuss updates.
+
+For an up-to-date status of the campus, and links to the latest related COVID-19 communications, visit https://ehs.ucr.edu/coronavirus .
+
+Here is the full announcement by Chancellor Kim A. Wilcox and Interim Provost and Executive Vice Chancellor Thomas M. Smith regarding the measures being taken.
+
+First week of spring quarter classes switch to online
+
+In-person classes will continue for the week of March 9. The provost’s office has requested that faculty and instructors facilitate “social distancing” among students and make accommodations for students who cannot attend class in person. Social distancing refers to limiting proximity among people and exposure to large public gatherings.
+
+Instruction for winter quarter ends on March 13, and the quarter ends on March 20. Spring quarter is scheduled to begin on March 30. The first week of spring quarter classes will be online only. 
+
+Instructors are developing continuity plans for spring quarter, in the event classes remain online-only beyond April 3, and using the resources found at the https://keepteachingucr.edu website and these guidelines developed by the provost’s office and the Academic. Among those resources is information for online instruction.  
+
+The colleges and schools at UC Riverside are developing plans to increase summer 2020 course offerings to offset winter or spring classes that may be disrupted.
+
+Student housing and quarantines
+
+On-campus housing and dining services remain open.
+
+It is extremely unlikely there would be a need for a full residence hall self-quarantine. If a 
+student is ill and a medical provider assesses and determines the student is considered a “person 
+under investigation” for COVID-19, the student will be managed by a health care provider and in and in
+a hospital — not on campus.
+
+Students may be subject to self-quarantine as a result of returning from a Level 3 country (China, Italy, South Korea, and Iran); having been in contact with someone from a Level 3 country; or having been in contact with someone who tested positive for COVID-19. The university will support self-quarantining in campus housing, but will encourage self-quarantine at students’ homes as an alternative.
+
+If the student becomes symptomatic while in the 14-day self-quarantine, the university would 
+contact Riverside County health officials to follow correct protocols, including transport to a 
+medical facility.
+
+UCR students experiencing respiratory illness (fever, cough, shortness of breath) or flu-like symptoms should contact Student Health Services at the 24/7 hotline at  (951) 827-3031 for support and guidance.
+
+Faculty and staff working 
+
+If employees are sick, have recently traveled from a region with COVID-19, or have had contact with someone known or suspected to have COVID-19, they should stay home. 
+ 
+The university is working to identify work-from-home guidance for faculty and staff.
+
+Staff whose family members — spouse or domestic partner, parents, or children — are home sick with COVID-19 may be eligible for leave.  
+
+UCR Health has developed a 24/7 health hotline for UCR faculty and staff experiencing cold and flu symptoms at (844)-827-6827. The resource is for faculty and staff only.  
+
+Information on how UC's health plans cover COVID-19 is available here.
+ 
+
+Research to continue
+
+Research activities are proceeding but researchers are advised to follow new recommendations such as practicing social distancing and safe hygiene. Read here for more details on the guidelines.
+
+Travel discouraged
+
+All university travel must be registered. International travel is discouraged, and travel to high-risk countries must be preapproved in writing by a vice chancellor or dean. Nonessential domestic travel should be limited. 
+
+Travelers returning from the highest-risk (Level 3 Travel Notice) countries should expect to be quarantined for 14 days. The university is working with registered travelers to ensure their whereabouts and prepare for changes in travel plans.  
+
+Large events discouraged
+
+Gatherings of more than 150 people should be canceled, postponed, or moved online. If this is not feasible for in-person gatherings of fewer than 150 people, approval of the provost is required. Campus visits of 15 people or more should be canceled; other visits should be moved online if possible. 
+
+All UC Riverside-hosted athletic events are scheduled to continue, however, events will now be “fan-less,” meaning there should be no fans at the events. 
+
+If you have any questions regarding deleting an event from the UCR events calendar, contact support-ucrevents@ucr.edu.
+ 
+Cleaning protocols 
+
+Hand sanitizers have been made available in university housing and dining areas. A new Centers for Disease Controls-approved chemical disinfectant has been employed. Cleaning has been increased in classrooms and university-owned housing, targeting “high-touch” areas such as restrooms and elevators.  
+
+Environmental Health & Safety has worked with campus departments and identified safe standard operating procedures. This includes identifying proper ventilation, food delivery, access to virtual learning, daily medical checks, and waste collection.
+
+Ombuds Office
+
+The Ombuds Office is planning to stay fully operational and available to the campus over the coming weeks.  However, the office plans to shift to interacting primarily via phone, Zoom, and email.
+
+Zoom use
+
+Instructors seeking additional information on how to conduct classes using Zoom, can find additional information here. A faculty member at the Marlan and Rosemary Bourns College of Engineering prepared a tutorial."
+11-Mar-20,1428,Riverside,"Dear UCR research community,
+
+I would like to follow up on the Chancellor’s message this afternoon about academic continuity and campus operations.  As mentioned in the message, we are NOT suspending research activities at this time but want to share several actions and recommendations.
+
+Despite many uncertainties about how the COVID-19 epidemic will affect the research enterprise in the intermediate and longer term, now it is time to start planning for potential serious disruptions. We are not alone in facing these uncertainties and have been in communication with other universities about their plans of action. I am thankful to the dynamic collaboration among research leaders and administrators in the academic community who are sharing best practices about how to confront this unprecedented situation. In particular, I want to acknowledge our colleagues at Yale University and the University of California, Berkeley for their research community communications from which we have borrowed and adapted to our campus in the guidelines below.
+
+We would like to remind you that per UC policies, in no event should researchers take materials other than secure laptops, data storage devices, and other similar devices offsite (e.g., to their homes) to maintain research continuity during a curtailment. All essential research must continue within the confines of appropriate laboratory space. Please exercise extreme care when transporting data storage devices or accessing data remotely and contact Information Technology Solutions if you need assistance. If in doubt about these restrictions, please contact the relevant RED office for further assistance.
+
+RED has arranged for all essential functions, such as vivarium care, to continue as usual (similar to the holiday breaks).  All other functions will also continue as usual except that most meetings of compliance committees will take place via Zoom or by phone. We anticipate minimal impact to our services.
+
+Each individual researcher, lab, and/or research facility is best positioned to create a continuity plan to meet their unique needs, but we strongly encourage you to consider the following guidelines.
+
+Immediate Measures
+
+To reduce the potential transmission of the COVID-19 coronavirus (or other colds and flu) in the coming weeks, I ask that all campus labs and research facilities put in place the following measures:
+
+Require that all personnel who are feeling unwell stay home until they no longer have symptoms. Further guidance on personnel policies will be distributed to campus later today
+Remind all personnel to practice sanitary measures such as washing hands with soap and water frequently and for at least 20 seconds, using hand sanitizer if handwashing sinks are not available, avoiding touching their face, and covering coughs and sneezes with your elbow
+Explore and implement measures to reduce density and allow “social distancing” of lab/research personnel. For example, when possible increase spacing between researchers or have personnel come to the lab in shifts
+Review opportunities for lab personnel and support staff to work remotely, even consider modifying and conducting research activities fully remotely in the short term
+Increase proactive cleaning and disinfecting of laboratory and communal spaces, including lab benches and chairs, equipment, common spaces, etc.
+Many scientific conferences and other research community meetings are being cancelled or are permitting remote participation. Limit your research group travel according to the UCR guidelines for travel (https://ehs.ucr.edu/coronavirus#information_for_travelers)
+Consider cancelling or postponing field research trips, as they present unique risks because of shared housing, eating meals together, and challenges of “sending someone home” should they become ill during an extended trip
+Longer Term Planning for Research Continuity
+Principal Investigators and Research Managers should begin scenario planning now for the potential continuation of research and campus operations with reduced or remote staffing if significant numbers of research or research support personnel become ill or large-scale self-isolation is required.  
+
+PIs should plan for the following possibilities:
+
+Be prepared for some of your laboratory workforce to fall ill or be required to self-isolate
+Be prepared to decontaminate the workspace of an ill researcher in your laboratory. If assistance is needed please contact Facility Services (FS), which has implemented new cleaning protocols. While FS can take care of common areas and areas outside the lab, decontamination of the actual research surfaces will need coordination with the lab personnel to make sure no experiments are affected and lab chemicals are not accidentally mixed with cleaning products
+Be prepared for core facilities and other fee-for-service resources to become unavailable 
+Be prepared for critical supply orders, including controlled substances, to be delayed. PIs should work with their building manager to coordinate essential deliveries.
+Be prepared for building or laboratory access to be curtailed. The campus will notify the affected communities as soon as possible. Assume that essential access for equipment maintenance and critical laboratory experiments will continue.
+Be prepared that repairs performed by Facilities Services and other campus and non-campus service providers may be delayed
+Be prepared that processing of visas by the federal government may be delayed, resulting in delayed appointments
+Steps you can take now to ensure continuity of critical functions in case of a severe outbreak:
+
+Identify procedures and processes that require regular personnel attention (e.g., cell culture maintenance, animal studies, etc.).
+Assess and prioritize critical laboratory activities. Create an inventory of laboratory chemicals and sensitive laboratory instrumentation and equipment, and share this information with your building manager and EH&S. You can update your chemical inventory by accessing UC Chemicals
+(https://ehs.ucr.edu/laboratory/chemical/chemical-inventory)
+Identify any research experiments that can be ramped down, curtailed, or delayed
+Identify key personnel able to safely perform essential activities to insure the continuity of your laboratory’s research capability
+Ensure that you have access to up-to-date email and telephone contact information (including cell phones) for your critical staff
+Cross-train research staff to substitute for others who may be out sick or unable to come to work
+Ensure that staff have the appropriate, up-to-date training
+Document critical step-by-step instructions for laboratory procedures
+Encourage all researchers to be familiar with each other’s work if an absence would threaten the loss of experiments (such as which cells need transferring to new media, etc.)
+Coordinate with colleagues who have similar research activities to identify ways to ensure mutual support and coverage of critical activities
+Review contingency plans and emergency procedures with researchers and staff
+Maintain a sufficient inventory of critical supplies that may be affected by global shipping delays. Inform your building manager if your lab relies on regularly scheduled supplies such as liquid nitrogen, dry ice, or compressed gasses.
+Contact your departmental leadership, building manager, and Office of Emergency Management staff if you need assistance in reviewing your business continuity plans 
+Other safety considerations:
+
+Ensure that individuals performing critical tasks have been adequately trained and understand whom to contact with technical or safety questions. If you need assistance in developing Standard Operating Procedures for research processes, contact EH&S for guidance (www.ehs.ucr.edu), ehs@ucr.edu or by phone (951) 827-5528.
+Avoid performing high-risk procedures alone. When working alone is necessary, exercise extreme caution.
+Ensure that research team members notify colleagues of their schedule when working alone for an extended period of time
+Ensure that hazardous materials (e.g., radioactive, biohazards, chemicals) are properly secured
+ 
+Contract- and Grant-related questions:
+
+Sponsored Programs Administration (SPA) is reviewing questions relating to the allowability of costs associated with any disruptions to sponsored projects stemming from COVID-19
+Send questions to your departmental business offices about who should coordinate with SPA
+For a cost to be allowable, it will require consistent treatment across all funding sources
+The federal funding agencies are working on a unified message in this regard, and once published, SPA will share it with the UCR community
+Coronavirus research on campus:
+
+Note that all PIs must have all the necessary compliance approvals prior to performing any coronavirus-related research or work on campus (including helping state and federal agencies screen patient samples). This includes requesting or accepting COVID-19 samples (patient or otherwise).
+Finally, I would like to echo the Chancellor’s message that it is imperative that all members of UCR’s community uphold and respect campus culture and our Principles of Community during this time.  Employees are reminded not to stigmatize anyone based on national origin. Students who experience any mistreatment or witness inappropriate behavior can make a report to deanofstudents@ucr.edu. Employees should consult with their direct supervisor if they witness or experience inappropriate behavior."
+11-Mar-20,237,Riverside,"Based on the guidance and direction from our leadership at the University of California, Riverside and the expertise provided from public health officials and medical professionals, the decision has been made to conduct our home athletics competitions without fans in attendance. The decision to host competitions free of spectators will be in place for the immediate and foreseeable future.
+ 
+Only essential personnel will be permitted at UC Riverside Athletics home events during this time period. Essential personnel consists of our student-athletes, coaches, athletic trainers and medical staff, officials, operational and administrative staff, along with approved media covering the event.
+ 
+Our primary focus is the health and safety of all involved and we will continue to monitor closely all developments specific to COVID-19. We will continue to evaluate this situation daily and operate accordingly, following the guidance of public health officials and medical experts.
+ 
+For fans who have purchased tickets in advance for any of our scheduled events during this time period, please contact our Ticket Office at 951-827-4653 or via email at highlandertickets@ucr.edu to receive a refund.
+ 
+For official Athletics updates, please visit our official website, gohighlanders.com.
+ 
+For all official UC Riverside updates on COVID-19 and for more information on the University's response, be sure to visit https://ehs.ucr.edu/coronavirus.
+ 
+Thank you for your understanding during this challenging time and your commitment to the health and safety of our entire Highlander community.
+ "
+12-Mar-20,1239,Riverside,"Dear Colleagues,
+
+I first want to thank all of you for your efforts as we respond to the challenges related to the many impacts of the quickly evolving COVID-19 situation.  There are currently no known cases of COVID-19 within the UC Riverside Community.
+
+It is important for all of us to remember that as a school of medicine, we serve not only students, but our patients and community.  We must continue to uphold our responsibility to all of these components of our mission, and the health and safety of our SOM and broader community is our number 1 priority.  The steps we are taking outlined below are aligned with those of our UC medical school colleagues and we will continue to review and update as this situation continues to evolve.
+
+We will are also creating a web site to supplement the UCR site on COVID-19, and will provide an update once this is available.
+
+ACADEMIC CONTINUITY
+
+The campus and School of Medicine remain open.  While the undergraduate campus has elected to move to full remote education through the end of the quarter (April 3), there are aspects of medical and graduate biomedical education that require a different approach.
+
+For medical students: Dr. Brig Willis announced on Monday, March 9 a plan for continuing education for medical students.  These guidelines will be in place immediately and will be regularly updated:
+
+In general, all non-clinical group activities for students will be replaced by online or distance learning options.
+
+All required in-person activities (gross anatomy lab functions, in-person proctored assessments such as OSCEs and NBME Shelf exams, etc.) will be postponed until the curtailment is finished.
+
+All student clinical rotational duties will continue as scheduled, and students will follow the policies and procedures of their clinical sites. The only exception to this is the guidance that students should not participate in the care of patients diagnosed with COVID-19 until further notice.
+
+No travel to international sites or sites with known outbreaks will be approved for student rotations.
+
+We will post the full action plan for Medical Education and Subunits on the website as soon as we can.  You can also reach out to Dr. Willis for questions.  He is also scheduling town halls today and tomorrow to address questions.
+
+For graduate students: Dr. Willis and Dr. Byron Ford announced a joint plan for graduate education as noted below.  
+
+The changes to classroom delivery do not affect lab attendance or small group lab meetings.
+
+Research activities will not be suspended during this time.  
+
+BMSC 252 seminars have been postponed until further notice.
+
+Block 4 will begin as scheduled on March 16, but could be replaced by online or distance learning options, if indicated.
+
+Review/grant writing courses (BMSC 260A-C) may be replaced by online or distance learning options if indicated by the course instructors or when the quarter begins.
+
+BMSC 254/Pizza Friday will continue as scheduled at this time but may be replaced by online or distance learning options if indicated by the course instructors.
+
+SOM OPERATIONS
+
+Working from home or remotely:  In line with other UC schools of medicine, at this time, the option to work remotely should be reserved for those who are ill, may have been exposed to the COVID-19 virus, or who are caring for family members.   However, all staff members should check with their respective supervisor directly regarding concerns and/or required accommodations, in order to obtain the official approval to work remotely.  In addition, please keep in mind that we are the medical school and have many units which need to continue operations.  To the best or our ability, we will need to ensure necessary support.   Please see below for UCOP and UCR guidelines on remote work and instructions for those who have roles where remote work is not operationally feasible:
+
+Paid leave
+
+Staff and faculty unable to work due to their own or family members’ COVID-19 illness should use their available leave balances (e.g. sick leave, vacation, paid time off or other accrued leave). Employees without sufficient leave time will be granted up to 14 days of paid administrative leave.
+
+Staff and faculty unable to work due to a COVID-19 day care or school closure that requires them to be home with their child may work remotely if operationally feasible; if remote work is not operationally feasible, employees should use their available leave balances (e.g. sick leave, vacation, paid time off or other accrued leave).
+
+Staff and faculty unable to come to work due to public health or University-required quarantine or self-isolation measures may work remotely if operationally feasible.  If remote work is not operationally feasible, employees should use their available leave balances (e.g. sick leave, vacation, paid time off or other accrued leave).  Employees without sufficient leave time will be granted up to 14 days of paid administrative leave.
+
+Academic appointees who do not accrue sick and/or vacation leave and who are not otherwise eligible for paid medical leave under applicable provisions of the Academic Personnel Manual will receive up to 14 days paid administrative leave to cover absences as described above.
+
+Employees and supervisors who have questions may contact SOM Human Resources at 951-827-7954 or at human.resources@medsch.ucr.edu.
+
+Operations planning: All units are asked to create a continuity plan should it become necessary for more employees to work remotely to insure ongoing business operations.  This may include plans for staggered hours, partial telecommuting and other social distancing strategies and applies to both our clinical and non-clinical operations.
+
+UCR HEALTH
+
+UCR Health clinics remain open and are serving our Inland Empire community. 
+
+In addition, UCR Health has established a hotline for UCR faculty and staff who have questions about COVID-19: 844-827-6827. 
+
+If you have traveled internationally or been in contact with someone in the past 30 days who has COVID-19, plus are experiencing a fever with cough or trouble breathing contact the 24/7 Hotline.
+
+If you are experiencing cold and flu symptoms, but have not traveled internationally or been in contact with someone with COVID-19 contact your primary care physician or healthcare insurance for more information. 
+
+CHANGES TO UPCOMING EVENTS
+
+In line with campus guidance, the SOM has made the following changes to upcoming large events that bring visitors to campus:
+
+Match Day – March 20: This event will still take place, but only the Class of 2020 and the select core faculty will be allowed in-person attendance at  this celebration. Students are asked not to bring anyone with them to the event as they will not be allowed to enter, but will be encouraged to FaceTime/share virtually their news with family and supporters.   Students may also opt out of attending Match Day celebrations and receive their residency placement privately.  Student Affairs will be sending out updated RSVPs in the near future.
+
+Mol Med Conference – March 24: This event has been postponed and information about rescheduling will be forthcoming.  For information contact: Pica Preston, pica.preston@medsch.ucr.edu or at 951-827-6087.
+
+Open House – April 4: This event has been cancelled.  For information, contact Kate Dorff, kate.dorff@medsch.ucr.edu or at 951-827-7794.
+
+At this time, all other regular meetings of SOM employees are not restricted by the campus directives on large gatherings and may occur in person or using video conferencing at the discretion of the unit director or manager.
+
+Thank you again for your support and commitment to our mission."
+12-Mar-20,783,Riverside,"Dear students, 
+
+By now you’ve probably seen the announcement from Chancellor Kim A. Wilcox regarding new campus measures designed to help limit coronavirus (COVID-19) risk on the UC Riverside campus. If you have not read the announcement, I encourage you to do so. Please continue to visit the university’s COVID-19 website for frequent updates, as circumstances are changing rapidly. The information section below is meant to provide additional guidance and answer questions about key student services. 
+
+Student Health Services
+
+•    Will I be able to access health care at Student Health Services? Yes. Student Health Services and Counseling & Psychological Services (CAPS) will remain open for students who are local or remaining on campus. If for any reason, you need to speak with a counselor during this time, please call UCR’s CAPS at 951-826-5531. 
+
+•    What should I do if I’ve recently traveled internationally and need to return to campus? Please refer to the current UCR interim travel policy regarding international and domestic travel. Additionally, please reach out to Student Health Services at 951-827-3031 to begin communication and receive guidance on a possible self-quarantine protocol if you are returning from a country that has been designated high risk.
+
+Remember, if you suspect any flu-like or cold symptoms (coughing, fever, respiratory illness), please contact Student Health Services at 951-827-3031. For students experiencing symptoms, you MUST CALL AHEAD OF TIME to make sure the proper protocols are in place and the medical staff is available. 
+
+Student Support Services
+
+If you need emergency food resources, R’Pantry is accessible to all registered students and can provide basic supplementary foods and hygiene products. R’Pantry will remain open for regular distribution hours for the remainder of this week: 
+•    Thursday, March 12 from 1-5 p.m. 
+•    Friday, March 13 from 1-5 p.m.
+•    Graduate student-only hours Thursday, March 12 from 5-7 p.m.  
+
+During finals week and spring break, R’Pantry can be accessed by appointment only from 10 a.m.-4:30 p.m. For further questions or more direct support, please email at rpantry@ucr.edu.
+
+To set an appointment at R’Pantry please visit: https://rpantry.youcanbook.me/
+
+For off-campus resources, please visit: https://basicneeds.ucr.edu/resources
+
+CARE will be open to provide direct services and support to students. CARE Advocates will accommodate and work with students via phone, Zoom, etc. 
+
+Please note, residence hall housing will close for spring break, but residents may remain for an added fee. Apartment and family housing will remain open during the break. There will be some campus dining open over spring break.
+
+Check dining.ucr.edu to see modified hours. If you are able to return to your permanent place of residence during this time, be sure to take items that you will need through at least April 3, including for participation in class instruction remotely.  
+
+International Students
+
+Please contact International Affairs for guidance on requirements for maintaining your visa status, current program options, student employment, and for additional questions at 951-827-4113. 
+
+UCR Student-Athletes
+
+•    Please pay close attention to all communication coming from campus and your faculty members. This information is critically important and should not be overlooked. 
+•    Specific to Athletics, you have the option to remain in place at UCR or head home. Either way, please contact your respective head coach and inform your head coach of your specific plans - whether you are staying here or traveling and if you are traveling, to where, when, for how long and when you plan to return. 
+•    In the event you remain on campus, the following Athletics Departmental resources are still available to you:
+•    Academic Support 
+•    Compliance
+•    Sports Medicine 
+•    Weight Room 
+•    Please expect a separate and more detailed communication from Athletics administration via Jump Forward later this evening. 
+
+Transportation Services
+
+In response to the campus efforts to mitigate the potential for transmission of the COVID-19 virus, UCPD and UCR Transportation Services have suspended the Point 2 Point shuttle service effective March 12, 2020 and at least through April 3 or until normal in-person instruction resumes. As an alternative, UCPD will divert the staffing resources from the shuttles to night time on-campus walking escorts available 7 days a week. A walking escort can be requested by calling UCPD dispatch at 951-827-5222. UCPD will notify the community when the Point 2 Point shuttle service resumes normal operations.
+
+University officials are gathering information about issues related to student employment, work study, and financial aid in coordination with the UC Office of the President. Information will be shared as it becomes available. 
+
+We will continue to provide regular updates as this unprecedented situation evolves. Please refer to the latest advisories  and FAQs on the UCR COVID-19 website."
+12-Mar-20,1163,Riverside,"This message is intended for all UCR employees, including but not limited to faculty, staff (non-represented and represented), undergraduate student employees, graduate teaching assistants, and graduate research assistants.
+
+The University remains open and operational, albeit with some adjustments to normal activities.
+
+Effective immediately and pending approval from your supervisor, employees may have the option to work remotely. 
+
+No campus office, unit, or department can be closed (i.e., no employees physically working on campus), without prior approval from the cognizant Vice Chancellor or Provost/EVC.
+
+Please read this entire email carefully and consult with your supervisor, before making any changes to your individual work situation or within your office, unit, or department.
+
+We continue to closely monitor the ongoing Novel Coronavirus 2019 (COVID-19) outbreak. The health and well-being of our community remains our number one priority. We encourage all managers and supervisors to think creatively about how to support their employees in caring for their health — and reducing their risk of exposure to COVID-19 — while still enabling them to continue to perform the important work they do. Therefore, UC is enacting the following temporary emergency provisions:
+
+UC SYSTEM-WIDE PROVISIONS
+
+1.  Employees unable to work due to their own or a family member's COVID-19 illness should use available leave balances (e.g. sick leave, PTO-sick, or other accrued leave), and if there are no available leave balances, the University will provide up to 14 days paid administrative leave to cover the  absence.
+
+2.  Employees unable to come to work due to public health or University-required quarantine or self-isolation measures may work remotely if operationally feasible. If remote work is not operationally feasible, employees should use available leave balances, and if there are no available leave balances, the University will provide up to 14 days paid administrative leave to cover the  absence.
+
+3.   Employees unable to come to work due to a COVID-19 day care or school closure that requires them to be home with their child may work remotely if operationally feasible; if remote work is not operationally feasible, employees may use available leave balances including sick leave.
+
+4.   If remote work is considered to be operationally feasible, the employee will be considered to be on paid work status. Employees in positions who are directed not to come to work by the University and are unable to work from home due to the nature of their work (as determined by the location), may be allowed up to 14 days of paid administrative leave. Locations may determine which positions to designate, provided that all health care workers are considered exempt from this category of designation.
+
+5.    Benefits – Generally, an employee granted a leave with pay will continue to receive all benefits related to employment.  Special limitations or requirements that apply to certain types of leaves are addressed in the provisions specific to those leaves in PPSM 2.210.III.A.6.
+
+UC RIVERSIDE GUIDANCE
+
+The following guidance is provided to assist you with using the UC Provisions noted above. We recognize that we are operating in a fast moving and fluid environment, but we wanted to get out some key information to everyone as soon as possible.  We expect we will have to augment this information in the near future:
+
+1.  The UCR campus is remaining open at this time.  However, as staff participate in telecommuting and/or use some or all of the 14 day paid administrative leave provision, departments/units may be only partially staffed at their physical location (and may find some reasonable rotation of staff workable).  If for some reason a department needs to physically close completely, the department/unit head should seek prior approval from the cognizant Vice Chancellor or Provost/EVC (and from the appropriate Dean for the schools and colleges).
+
+2.   Consult your supervisor if you would like to pursue telecommuting or request to use the up to 14 days paid administrative leave option if you are eligible. This administrative leave is a single allocation of up to 14 work days at the current FTE level, but these days do not need to be consecutive.   The allocation of these 14 days is based on the employee being directed not to come to work AND the University/Supervisor determination that they are unable to work from home due to the nature of their work. This determination will need to be documented in writing.  If these criteria are met, the allocation of the 14 days will be granted.  Note that all health care workers are exempt from this category of designation.
+
+3.  To assess whether remote work is operationally feasible, refer to the Assessing the Feasibility of Remote Work during the Novel Coronavirus 2019 (COVID-19) Outbreak Guidelines.
+
+4.  To indicate you are using some of the 14 day paid administrative leave in the UCR Time & Attendance Reporting System (TARS), select “other leave” and choose the Administrative – Paid (PA) Leave type.
+
+5.  For all staff, TAs and Graduate Research Assistants, the same policy considerations will apply, including the option for up to 14 days of paid administrative leave (if they qualify).  Graduate Research Assistants should consult with their supervisor/PI on their eligibility for paid administrative leave, as we expect there will be on-campus research work for them as campus research work will not be restricted. TAs should consult with their supervisor particularly how they can fulfill their role when courses are not being taught in person. UCR will provide more details for TAs prior to the start of Spring quarter. We understand that some TAs and Graduate Assistants may have more than one supervisor, for separate appointments, and therefore they will need to check with each appropriate supervisor.
+
+6.   For employees who are undergraduate students the same policy considerations apply, including the option of up to 14 work days of paid administrative leave (which do not need to be consecutive), if they qualify. Some undergraduate student employees may have their duties impacted by the campus actions relative to in person class meetings, and UCR will work to provide additional guidance for these individuals prior to the start of Spring quarter.
+
+We recognize that the COVID-19 outbreak and our decisions in response to the outbreak affect our entire community, including the staff, students and faculty who work and study here. Please accept our thanks for your continued cooperation, patience, and understanding while we adjust and provide guidance to this fluid and unprecedented situation.
+
+Please anticipate additional email communications and guidance in response to the outbreak. In addition, the UCR COVID-19 Outbreak website will continually be updated.  We will have additional communications to supervisors and staff, specifically prior to the start of the Spring quarter. 
+
+Represented Staff should contact Labor Relations at Labor.Relations@ucr.edu with any questions or concerns.
+
+Staff not covered by a collective bargaining unit should contact Human Resources at HRPolicy@ucr.edu with any questions or concerns.
+
+Graduate student employees should contact graddiv@ucr.edu with any questions or concerns. 
+
+Thank you again."
+13-Mar-20,video,Riverside,
+13-Mar-20,136,Riverside,"In response to the March 13 public health order from the Riverside County Public Health Officer, UC Riverside is making immediate adjustments to our operations in order to protect the health and safety of our community.
+
+The university will continue to expand its transition to remote work staffing and instruction. We are working to determine essential personnel who may continue to work physically on site to support critical functions. Employees will receive more information from their department, unit, or college heads prior to Monday. 
+
+Residence Halls remain open and residents can elect to remain on campus if they choose.
+
+Winter quarter final exams, along with instruction the first week of spring quarter (through April 3), will continue remotely as planned.
+
+Thank you for your continued understanding and patience in light of this rapidly changing COVID-19 situation."
+14-Mar-20,1138,Riverside,"Effective Date:  March 16, 2020
+
+To:  All UCR Employees
+
+This message is intended for all UCR employees, including but not limited to faculty, staff (non-represented and represented), undergraduate student employees, graduate teaching assistants, and graduate research assistants.
+
+The University has been ordered “closed” by the Health Officer of the County of Riverside, effective March 16, 2020 through April 3, 2020. “Closed” in this context means all offices, units or departments will not have staff on campus unless they are essential personnel, and many staff may be working remotely.
+
+We are working with supervisors to define all essential personnel required to support critical campus functions.  Some essential personnel will need to continue to work physically on site. We expect that supervisors will alert all staff regarding our interim plans for Monday.  These plans may well be adjusted as we move further into this closure period. 
+
+All individuals who are not essential personnel will first be asked to work remotely, if feasible. If remote work is not feasible a paid leave option is available, as noted below.
+
+All campus offices, units, or departments will be closed (i.e., no employees physically working on campus), unless they are designated as essential to support critical campus functions.
+
+Please read this entire email carefully and consult with your supervisor, as there are specific situations we are working to provide guidance on for all employees.  We are also working with the University System Office.
+
+The health and well-being of our community remains our number one priority and we believe the most effective communications for individual situations with each employee is through our network of supervisors. 
+
+UC RIVERSIDE GUIDANCE
+
+The following guidance is provided to assist you with planning your work related responsibilities. We recognize that we are operating in a fast moving and fluid environment, but we wanted to get out some key information to everyone as soon as possible after the closure notice from the Heath Officer of the County of Riverside.  It is critical that all employees coordinate with their supervisors to verify work assignments and responsibilities.  We expect we will have to augment this information in the near future:
+
+At this time the University of California has granted use of up to 14 days of paid administrative leave for all employees.  This benefit was put in place before the campus closure by the Health Officer of the County of Riverside and may well be adjusted, but in the near term will provide flexibility for us to use until further guidance is provided.  Those individuals that do not continue to work either on campus as essential personnel, or remotely, may use this benefit to cover their time away from campus. This paid administrative leave is a single allocation of up to 14 work days at the current FTE level, but these days do not need to be consecutive.
+ 
+Essential personnel required to support critical campus functions will need to continue working.  Our goal will be to rotate these staff, to the extent feasible, such that we limit any that remain full-time physically on campus during the full extent of this closure.  Some essential personnel may be able to continue their work remotely.  Some essential personnel may be impacted by illness (them or their family) and/or the closure of day care and schools.  We will work with supervisors to assure we accommodate those situations.  All essential personnel and staff working remotely will be considered on paid work status. Note that all health care workers are designated as essential personnel.   
+Employees unable to come to work due to a COVID-l9 day care or school closure that requires them to be home with their child may work remotely if operationally feasible. If remote work is not operationally feasible, the University will provide up to 14 days paid administrative leave to cover the absence.
+ Consult with your supervisor relative to telecommuting is feasible for your duties. To assess whether remote work is operationally feasible, refer to the Assessing the Feasibility of Remote Work during the Novel Coronavirus 2019 (COVID-19) Outbreak Guidelines. Please note that at this time we are not requiring the telecommuting form to be filled out by the supervisor and employee.
+To indicate you are using some of the 14 day paid administrative leave in the UCR Time & Attendance Reporting System (TARS), select “other leave” and choose the Administrative – Paid (PA) Leave type.
+For all staff, TAs and Graduate Research Assistants, the same policy considerations will apply, including the option for up to 14 days of paid administrative leave.  Graduate Research Assistants should consult with their supervisor/PI (who will be carefully coordinating with the appropriate Dean) on their work assignments and also their eligibility for paid administrative leave. We expect there will be some on-campus research work continuing even during this closure. TAs should consult with their supervisor particularly how they can fulfill their role when courses are not being taught in person. UCR will provide more details for TAs prior to the start of Spring quarter. We understand that some TAs and Graduate Assistants may have more than one supervisor, for separate appointments, and therefore they will need to check with each appropriate supervisor.
+ For employees who are undergraduate students the same policy considerations apply, including the option of up to 14 work days of paid administrative leave (which do not need to be consecutive). Some undergraduate student employees may have their duties impacted by the campus actions relative to the campus “closure” and the elimination of in person class meetings, and UCR will work to provide additional guidance for these individuals prior to the start of Spring quarter. For any students schedule to work next week please contact your supervisor for direction.
+Benefits – Generally, an employee granted a leave with pay will continue to receive all benefits related to employment.  Special limitations or requirements that apply to certain types of leaves are addressed in the provisions specific to those leaves in PPSM 2.210.III.A.6.
+Please accept our thanks for your continued cooperation, patience, and understanding while we adjust and provide guidance to this fluid and unprecedented situation.   
+
+Please anticipate additional email communications and guidance in response to the outbreak and campus closure, as the situation is fast changing . In addition, the UCR COVID-19 Outbreak website will continually be updated.  We anticipate additional communications relative to essential personnel for critical campus functions early next week.   We will also have additional communications to supervisors and staff, specifically prior to the start of the Spring quarter. 
+
+Represented Staff should contact Labor Relations at Labor.Relations@ucr.edu with any questions or concerns.
+
+Staff not covered by a collective bargaining unit should contact Human Resources @ HRPolicy@ucr.edu with any questions or concerns.
+
+ Graduate student employees should contact graddiv@ucr.edu with any questions or concerns. 
+
+Thank you again."
+14-Mar-20,392,Riverside,"UPDATE: The closure has been extended to April 30.
+
+Following the Riverside County Public Health order, we are required to minimize the number of people on campus as much as possible while maintaining the critical functions of the university.
+
+Effective Monday, March 16, the UCR campus will be closed, with only critical operations continuing.
+
+There are three important domains for continuing university operations, as outlined below.
+
+1.     Academic Instruction and Student Support
+
+Winter quarter final exams will proceed remotely as planned.
+
+All instruction (including but not limited to labs, studios, and directed studies) will be delivered remotely for the entirety of the spring quarter. This is a change from the April 3 end date for remote instruction. 
+
+On campus housing and residential dining services remain open and residents can elect to remain on campus if needed.
+
+To facilitate remote instruction and learning, ITS is identifying solutions for those instructors, teaching assistants, and students who are in urgent need of laptops and internet access. 
+
+2.     Research Operations
+
+Many research operations are critical campus functions, and those deemed critical will be allowed to continue their work on campus, following important social distancing and hygiene measures. Deans and department chairs will be working with principal investigators to determine critical research functions that must continue on campus, with guidance from the Provost and the Vice Chancellor for Research and Economic Development.
+
+3.     Health Services
+
+All clinical and health services, including Student Health Services, will continue as critical campus functions. 
+
+Employees will work remotely if feasible, and only essential personnel supporting critical campus functions will be allowed continue their work on campus. 
+
+Deans, chairs, and supervisors will be identifying critical campus functions, and we expect that employees will be updated before Monday.
+
+Moreover, all non-essential domestic and international travel will be suspended, effective Monday, March 16 and until further notice.
+
+Please anticipate additional communications and guidance in response to the outbreak and campus closure, as the situation is rapidly changing. Major campus-wide updates will continue to be posted to the COVID-19 website.
+
+Finally, many of you have heard me say that a university is more than a set of classrooms, buildings, or facilities. At its core, a university is about people. As we work together to confront these unprecedented challenges, I am tremendously grateful to each of you for your continued patience, flexibility, and commitment to UCR."
+15-Mar-20,611,Riverside,"Dear UCR Students,
+
+I am writing as a follow-up to Chancellor Wilcox’s email sent on March 14, 2020, regarding the campus closure. As the Chancellor mentioned in his message, our efforts are driven by concern for the public’s health and safety. We recognize that this is a disruptive time and appreciate your understanding as we navigate this rapidly evolving situation.
+
+As a reminder, all instruction will be delivered remotely for the entirety of the spring quarter. This is a change from the April 3 end date for remote instruction.
+
+Student Housing and Meal Plans 
+
+Students in all campus housing are strongly encouraged to go to their permanent place of residence if they are able. If you are a financial aid recipient residing in an on-campus residence and decide to leave campus, please notify the financial aid office immediately via financial aid’s self-service through R’Web. The financial aid office will ensure that all proper expenses are included in your cost of attendance to include an allowance for living at home. 
+
+Campus housing will remain open, and dining services will be provided to those with meal plans.  Students can stay or go home, based on their individual circumstances. If students wish to cancel their housing contracts for spring quarter they need to submit a housing contract cancellation request online at MyHousing. Students will be financially released from their contract if they cancel. If you are a financial aid recipient, your financial aid award status may change.   
+
+Student Life
+
+All events and student activities scheduled on campus are cancelled until further notice.
+
+Student Health Services, Counseling & Psychological Services (CAPS), Residential Life, Dining, and R’Pantry remain available to support students. Students should know that offices will implement procedures to minimize contact, such as providing telehealth services (e.g., Live Health Online) and social distancing measures to minimize in-person contact. We recommend that students visit websites first for information on accessing services.
+
+Please note, R’Pantry will offer a limited supply of gift cards to the grocery store at Student Health Services, CAPS, and Residential Life.
+
+R’Pantry can be accessed by appointment only from 10 a.m.-4:30 p.m. For further questions or more direct support, please email at rpantry@ucr.edu. To set an appointment at R’Pantry please visit: https://rpantry.youcanbook.me/.
+
+Please refer to the Keep Learning website for additional online resources. It will be updated accordingly. Computer labs in Watkins 2117 and 2111 and laptop kiosks remain available during finals week.
+
+UCR Commencement 
+
+There has been no decision made about 2020 commencement ceremonies. We advise families not to make arrangements at this time to come to the campus for commencement celebrations pending further guidance from Riverside County Public Health. We are actively looking at alternatives to celebrate our graduates in an appropriate manner. We understand that commencement is an important part of the UCR experience and we want to honor our students while still keeping our community safe. Graduating students should look for a separate message from the UCR Commencement office with details and information in the coming weeks.
+
+Given the dynamic nature of travel restrictions and quarantine requirements, we advise students leaving campus for spring break to take course materials they would need to keep up with classes that are being taught remotely from an off-campus location. We strongly advise students to refrain from personal, non-essential travel (both domestic and international) during spring break.
+
+Thank you for your patience and understanding during these difficult times. I’d like to wish everyone a successful finals week and to remember our staff and faculty are here to support you in any way possible.
+
+Please refer to UCR’s COVID-19 website for the latest information. "
+15-Mar-20,295,Riverside,"The Riverside County Public Health order requires UC Riverside to minimize the number of people on campus while maintaining the critical functions of the university. This is an unprecedented global pandemic with rapidly changing circumstances that require the campus to make all efforts to comply with this public health declaration.
+
+The campus closure is intended to remove UCR employees from the physical campus through April 3 unless they are identified as essential personnel who perform critical functions that can only be conducted on-site. All others will either remote work or, if their jobs cannot be done remotely, are eligible for 14 days of administrative leave, as indicated in yesterday’s message.  
+
+For essential personnel supporting critical campus functions on campus, the CDC recommends social distancing measures, which include but are not limited to:
+
+1. Supervisors implementing flexible work hours (e.g., staggered shifts) to minimize person-to-person contact.
+
+2. Maintaining distance (approximately 6 feet or 2 meters) from others when possible.
+
+This closure also affects campus gatherings and events. All in-person, non-essential gatherings on campus are suspended, until further notice. In addition, Governor Newsom has advised all Californians aged 65 and older to isolate at home.
+
+Employees wishing to briefly return to campus to retrieve materials needed to work remotely must contact their department head/chair for approval in advance. They should also contact their supervisor to secure access to their office if needed.
+
+If this approach is not feasible for some reason, supervisors may contact the Central Plant at 951_827_4677 between the hours of 7:00 a.m. – 2:00 p.m. to provide access to offices/labs for personnel to retrieve personal items. After March 17 or after-hours, UCR Police may be contacted at 951_827_5222 for service.
+
+Thank you in advance for your cooperation."
+16-Mar-20,395,Riverside,"INSTRUCTIONAL TECHNOLOGY TASKFORCE
+This message contains important updates for both students and faculty taking and administering exams during winter quarter, and planning for remote learning in spring quarter.
+
+Important updates for UCR students
+
+Computer labs in Watkins 2111 and 2117 are open and available for students in need of a computer to take a final exam. The labs will be open from 7:30am - 10:00pm during finals week. 
+Laptop kiosks in Orbach library, Rivera library and the HUB (first floor lobby) also are available for students during finals week.
+For students without home internet service, several companies have announced plans to offer free internet service to students for 60 days. UCR shared this information via email on March 14 (Remote Network Connectivity Recommendations). 
+For students with technology, consider helping a friend in need by sharing your device when you don’t need it during finals week.
+Remember to check https://keeplearning.ucr.edu for help navigating remote learning environments. This website is being updated regularly. 
+Important updates for UCR faculty
+
+Please use only UCR-recommended platforms for administering online exams and hosting materials for remote learning. iLearn (Blackboard) is an approved platform that will satisfy most instructors’ needs. Other recommendations can be found on the KeepTeaching website. Using these recommended platforms ensures both security and accessibility for our students. 
+Remember to check https://keepteaching.ucr.edu for help navigating remote learning environments. The KeepTeaching website adds new information for faculty every day, and there are numerous live webinars this week to help faculty make effective use of Zoom and iLearn. 
+Instructional Technology Taskforce
+
+Access to instructional technologies (computers, software, wireless internet, etc.) is critical for remote teaching and learning. UCR staff from ITS, Undergraduate Education (XCITE), the Library, Procurement and other units have been working hard to ensure that UCR faculty and staff have the access they need. Going forward, we are formalizing this group as the Instructional Technology Taskforce and augmenting the membership to include members from the Academic Senate and the Provost’s Office. The taskforce will meet daily to address ongoing and evolving needs of UCR students and faculty. Taskforce members already have been identifying equipment that is currently available or that can be acquired on short notice to help lecturers, TAs and students who do not have adequate technology for spring quarter remote instruction. More information about requesting and checking-out equipment for spring quarter is forthcoming. "
+16-Mar-20,858,Riverside,"University of California
+Executive Order
+March 16, 2020
+Background and Findings
+As of this date, the world is facing a severe health crisis in which COVID-19, a new respiratory illness
+caused by a novel coronavirus, places millions of people at risk of serious illness or death. The World
+Health Organization has declared that the disease is a pandemic.
+Declarations of Emergency have been issued by the President of the United States, the Governor of
+California, and many California counties and other local jurisdictions, including many of the jurisdictions
+where the University of California maintains campuses or other significant operations.
+In the United States, where the virus was detected only weeks ago, several thousand people have
+already been stricken ill by the disease. The disease is spreading rapidly in our communities and,
+accordingly, protecting the capacity of our health care systems is imperative.
+Many governmental offices, school districts and universities, and private businesses have suspended inperson operations and/or directed employees to work remotely in an effort to slow the spread of the
+disease, and to conserve our limited health resources. The Governor of California has called for bars,
+wineries and nightclubs to temporarily cease operation and for restaurants to reduce capacity by 50% in
+order to allow for social distancing.
+Health officials have placed a limit on mass gatherings and have restricted and/or advised against all
+travel except that which is deemed essential.
+The University of California holds as its highest priority the health, safety and wellbeing of its students,
+faculty, clinicians, administrators and employees, and all other members of its communities.
+The University holds as an additional priority the effective functioning of its health systems, which will
+serve as critical state assets in the state’s response to the COVID-19 pandemic, and must be able to
+maintain sufficient staffing resources to meet operational needs.
+As President of the University, I have concluded that critical steps must be taken to limit the exposure of
+members of our community to the disease within our community, to care for those who have fallen ill or
+otherwise been exposed, and to assure the continued functioning of critical operations, including most
+particularly the health systems that we will rely on to meet the challenge posed by COVID-19.
+Executive Order
+WHEREFORE AS PRESIDENT OF THE UNIVERSITY OF CALIFORNIA I DECLARE:
+On the authority vested in me by Bylaw 30, Bylaw 22.1, Regents Policy 1500 and Standing Order
+100.4(ee), and based on the foregoing circumstances, I hereby issue the following order, to be effective
+for the period March 1, 2020 through December 31, 2020, and direct the following:
+On March 9, 2020, the University authorized a grant of up to 14 days of paid administrative leave for
+employees unable to work for COVID-19 related reasons. In order to address the extraordinary
+demands placed on our employees in seeking and providing health care for COVID-19, and otherwise
+responding to this pandemic, that guidance shall be modified as follows:
+_ All employees shall be eligible to receive a one-time allotment of up to 128 hours of paid
+administrative leave, subject to the following conditions
+o All hours must be used by December 31, 2020, or the allotment shall expire;
+o The hours may be used at any time during the period of this Executive Order, including
+intermittently, either before or after the use of any accrued leave or other paid leave, at
+the request of the employee, in consultation with the supervisor, provided that such use
+shall not adversely affect the delivery of essential university services, including in
+particular, the clinical services delivered by UC Health;
+o The number of hours for employees who work less than full-time shall be prorated
+according to the percent of the appointment;
+o Exempt employees who do not accrue sick or vacation leave are eligible for the onetime allotment of the paid administrative leave.
+o The paid administrative leave hours may only be used for the following purposes:
+_ When an employee is unable to work due to the employee’s own COVID-19-
+related illness or that of a family member;
+_ When an employee is unable to work because the employee has been directed
+not to come to the worksite for COVID-19-related reasons and/or the work site
+has implemented a COVID-19-related remote-work program or is under a
+shelter in place order and it is not operationally feasible for the employee to
+work remotely;
+_ When an employee is unable to work because a COVID-19-related school or
+daycare closure requires the employee to be at home with a child or dependent,
+and it is not operationally feasible for the employee to work remotely or in
+conjunction with the childcare commitment.
+All University policies contrary to the provisions of this Executive Order, except those adopted by the
+Regents, shall be suspended to the extent of the conflict, during the period of this Order.
+The Vice President – Systemwide Human Resources and the Vice Provost – Academic Personnel and
+Programs shall have the authority to issue further guidance about the parameters and use of this paid
+administrative leave, in consultation with the Executive Vice President – UC Health."
+17-Mar-20,685,Riverside,"Dear Faculty Colleagues,
+
+ As you have been hearing on the news and seeing on social media, state and local authorities are closing schools, restaurants and bars, and in the Bay Area ordering people to stay at home.  In a very short period of time here at UCR, we have gone from “continue research to the extent possible” to “substantially limit research to critical activities.”    ALL of the research, scholarly and creative activities we do are of immense value to the university mission, but we are quickly moving towards an unprecedented disruption and must now strictly curtail on-campus research activities to those that cannot be postponed or restarted; and prepare for a possible complete shutdown of research on campus.
+
+ Thus, we are revising our directives to faculty PIs and graduate students under their supervision regarding on-site research as follows (i.e., research that cannot be conducted remotely):
+
+ All on-campus research must halt by 5 p.m. on Tuesday, March 17, until and unless granted an exception from the cognizant dean. Deans may authorize specific projects or experiments to proceed if 1) the only place the research activity can be conducted is on campus; and 2) delaying the research activity would seriously undermine the project and have severe consequences for the future of the UCR research enterprise.
+
+Your dean will inform you, if they have not already, of their process for receiving requests to continue research during the shutdown. Please submit your request by 5 p.m. on Wednesday, March 18. Your dean, in consultation with the Interim Provost and VCRED, will take into consideration the consequences of stopping or delaying your research in the larger context of the current pandemic situation and will inform you accordingly. We anticipate that approved exceptions will be rare.
+Curtailment of operations is not a reason to take shortcuts, risks, or suspend our usual safety and research compliance protocols. Research will continue to be subject to the same existing compliance regulations.  Moreover, we will all need to be extra vigilant about surface hygiene, social distancing, and general lab safety during this time.
+We remind you that in no circumstance should researchers take materials other than secure laptops, data storage devices, and other approved materials offsite (e.g., to their homes) to maintain research continuity during a curtailment.
+We will prioritize our future research capacity, including expensive instrumentation and facilities, unrecoverable biological materials, data, and artifacts. This will take precedent over current research that could eventually be restarted.
+For those of you working with animals, even if you are allowed to continue current experiments, no new animals should be ordered or new studies initiated if they could be delayed. Keep in mind that supply of PPE may be interrupted soon and for an extended period of time.
+No undergraduate students will be allowed in any on-campus labs or research facilities during spring quarter.
+Assistant professors whose research is seriously curtailed can apply for “stop the clock” through their department and the Academic Personnel Office.
+ To prepare for the possibility that all research activities may be shut down, PIs of approved research activities are required to submit a shutdown plan by Friday, March 20 at 5pm to their dean. Guidelines  for developing such plan for wet-labs and labs with animals will be distributed soon.
+
+ This is the time to be reflective and creative about our intellectual work, to complete data analysis, and draft manuscripts. We encourage you to write that papers that you have never had time to start and to begin work on your next grant application.  We understand that closing down your lab will be hard, but the extreme conditions of the current pandemic justify it.
+
+Thank you for your understanding and cooperation and for all what you continue to do for our University and community. We believe in our faculty, staff, and students and that we will come out of this crisis stronger and more resilient.  There will be many new opportunities that we cannot even imagine about future research and we are committed to help you take advantage of them
+
+Please let us know if you have any questions."
+18-Mar-20,373,Riverside,"PAID ADMINISTRATIVE LEAVE
+
+The University has modified the special paid administrative leave policies. The initial UCR COVID-19 Staff Guidelines were issued on March 12, 2019, but have been revised in accordance with the Executive Order issued by President Napolitano on March 16th. These new guidelines are attached and include the following key changes:
+
+A single allocation of up to 128 hours (16 days) vs. 112 hours (14 days)
+Part-time employees receive paid leave based on their appointment percentage – i.e., 50% employee can receive up to 64 hours of paid administrative leave
+Must be used by 12/31/20
+Paid administrative leave can be used in hour increments, as well as full day increments, and does not need to be consecutive days.
+Given the campus closure there is no need to use other leave accruals before using the paid administrative leave provision
+TRACKING PAID ADMINISTRATIVE LEAVE IN TARS
+
+The UCR Time and Attendance system (TARS) has been modified to accept new take codes to accommodate the up to 16 days or 128 hours Paid Administrative Leave taken due to the COVID-19 issue. Previous guidance was to select the TARS “Administrative - Paid” take code for employees on their timesheets. We now determined that the current code was insufficient and did not meet all requirements, therefore a new code have since been modified to specifically address the COVID-19 16 days/128 hours paid administrative leave option granted by the university. The changes to TARS are listed below:
+
+New Admin Codes for Biweekly and Monthly timesheets labeled “Administrative – Paid Special”
+The code is listed under the Sick Leave column for Monthly
+The code is listed under the Sick Leave time/leave type dropdown for biweekly
+The 16 day (128 hour) balance is reduced whenever there is an entry of one or more hours in one day
+Employees should select this option for all days where administrative leave was taken per campus guidance.
+
+Questions regarding the Paid Administrative Leave should be sent to hrpolicy@ucr.edu
+
+Questions or issues regarding TARS & Paid Administrative time entries should be sent to Timesheetfeedback@ucr.edu."
+18-Mar-20,101,Riverside,"Dear Campus Community:
+
+The Riverside County Public Health Officer has issued a revised public health order, extending the physical closure of the UC Riverside campus for all but the most critical university functions. The closure was originally scheduled to end on April 3, and has now been extended to April 30.
+
+The university will continue with its transition to remote instruction for the entire spring quarter.
+
+Please continue to monitor UCR’s COVID-19 website, email, and social media channels for additional updates.
+
+Thank you for your continued hard work, patience, and flexibility during this extraordinary time.
+
+Stay Healthy,"
+19-Mar-20,403,Riverside,"The COVID-19 situation has required continuous response and accommodation, resulting in rapid changes. As such, many campus administrators may not have had the opportunity to ensure staff were prepared to work remotely. ITS is working diligently to provide the technical support required to keep campus operating, however, there are business protocol and decisions that rest solely with individual unit leaders.
+
+Please note that the following must be true in order for a staff member to use the “Remote Desktop Connection” application to remote into a device on campus:
+
+1.       The campus device must currently be powered ON 
+
+2.       The user must know the name OR IP address of the device
+
+3.       The campus device must be configured to allow Remote Desktop Connection OR the device must operate on a managed desktop (managed by ITS)*
+
+4.       The user must connect to a campus Virtual Private Network (VPN) on their home device
+
+5.        The user must have the “Remote Desktop Connection” application installed on their home device
+
+If the above criteria are not met, your staff will be unable to remote into their workstation computer and your unit will need to develop your remote work plan accordingly.
+
+*ITS has updated its systems so that all managed desktops are currently configured for Remote Desktop Connection. 
+
+Please also note that staff will not need the ability to remote into a workstation if they have taken their campus laptop or desktop home. In this event, they will need to connect to their home internet and a campus VPN (see instructions above) in order to access secured campus resources, such as files and applications that must be accessed via the UCR network.
+
+Resources to help staff work remotely, including instructions on remote desktop connection and VPN connection, can be found at https://keepworking.ucr.edu/.  
+
+As with all other campus organizations, most ITS employees are working remotely and only a small number of essential personnel remain on-site. As such, ITS does not have the capacity nor means to enter locked buildings and configure devices. We thank you for your understanding and look to unit leaders and administrators to develop a plan of action specific to the needs and circumstances of their staff.
+
+If you require additional technical support for remote work outside of the resources provided on the Keep Working site, please submit a remote work support ticket. Instructions can be found here.
+
+Thank you for your continued partnership."
+19-Mar-20,156,Riverside,"Dear Campus Community,
+
+This evening, Gov. Gavin Newsom issued a stay-at-home order which goes into effect at midnight, March 19, 2020, and remains in effect until further notice.
+
+This order is consistent with the measures UC Riverside has taken following the order from the Riverside County Public Health Officer.
+
+We have been working closely with public health officials in recent weeks and as you know, we have made substantial adjustments to campus operations.
+
+We are grateful to the clinicians, health care workers, and counselors who continue to support our community’s needs.
+
+Students may contact Counseling & Psychological Services (CAPS) at 951-826-5531 to speak with a counselor.
+
+Staff and faculty can contact Faculty and Staff Assistance Program at (951) 781-0510 or (800) 266-0510 for confidential counseling, referral, or other resources.
+
+This is an unprecedented event. Additional changes might need to be made as the situation continues to evolve. Please refer to UCR’s COVID-19 website for the latest information."
+20-Mar-20,369,Riverside,"Dear Colleagues,
+
+Due to the campus closure, the following interim guidance regarding delivery location is effective through 4/30/2020; all other standard procurement policies still apply. 
+
+Normally, goods purchased by the University should be delivered to Central Receiving located at 3401 Watkins Drive, Riverside, CA 92521. 
+
+In response to the COVID-19 and the campus closure, many UCR employees have been required to work remotely.  Various needs have arisen where low value items must be ordered to facilitate the remote work and delivered to an off-campus location (e.g. the employee’s home). 
+
+To document these exceptions to policy, please obtain the Department Head’s (or designee’s) approval before requesting items be delivered to a non-University location. 
+
+The approval can be obtained via e-mail and should be retained for audit purposes (e.g. uploaded into eBuy as an attachment to the DAPO attachment, retained with PCard supporting documentation, etc.). 
+
+Departments should ensure appropriate internal controls are in place to track these purchases, their location, and the approval. A copy of the packing slip should be uploaded to the eBuy PO for audit purposes. If purchased with PCard, the packing slip should be retained with other supporting documentation.  
+
+Please note:
+
+If ordering through eCatalog, some suppliers will only ship to the department delivery address on file.   In situations where an alternate delivery address is required, a standard DAPO should be created.
+The following university owned items are not permitted to be sent to homes:
+Chemicals of any kind
+Inventorial Equipment (i.e. items costing $5K including tax)
+Lost, stolen, or damaged goods should immediately be reported to your department financial manager.
+Please consult with the Vice Chancellor of Research & Economic Development (VCRED) before taking any research materials off- campus (e.g. to homes).
+All items delivered to off-campus locations must be returned to regular place of business once the campus closure is lifted.
+Receiving Services continues to receive inbound packages and deliveries between 8am to 4pm. Although regular campus delivery service will be modified during the campus closure, critical items and research related items will be delivered to campus departments as needed. Departments are encouraged to cancel/postpone non-essential deliveries to campus during the closure. For additional information, please contact Receiving Services. "
+24-Mar-20,164,Riverside,"Attention Valued Student: 
+
+If you do not have off-campus access to a device and/or internet that supports remote teaching and learning – such as a laptop, desktop, or tablet – we request that you take time now to apply to UCR’s Loan2Learn (L2L) Program.
+
+The L2L Program was launched in response to the University’s transition to remote instruction for the entire spring quarter, in accordance with the revised Riverside County Public Health order. UC Riverside recognizes that the shift to remote learning is more burdensome to some students than others due to the inability to access campus resources, including laptop kiosks and student computer labs. 
+
+We strongly urge you to take advantage of this program while it is available. If you believe you qualify for a complimentary loaner device, please fill out the UCR L2L Application Form (click here).
+
+For more resources and information that support your academic success during this unprecedented time, please visit https://keeplearning.ucr.edu/.   
+
+Enabling Your Continued Success"
+25-Mar-20,751,Riverside,"Dear UCR Students:
+
+We hope you are staying safe and getting needed rest after a challenging end to winter quarter. 
+
+Over the past two weeks, we have collectively transformed the university into a primarily remote working and learning environment. This change has been nothing short of remarkable; and while there will be some bumps along the way, our campus community’s resiliency has helped make this unprecedented change possible. 
+
+Despite our present circumstances, UCR will not be taking any shortcuts with the change to remote instruction: the same standards that define UCR’s excellence will continue during these challenging times, and all of us remain focused on your continued academic progress. Your faculty is working around the clock to prepare and adjust spring quarter courses, while remaining committed to their groundbreaking research activities. In fact, several faculty members and students in the School of Medicine and across the university are on the frontlines treating patients and advancing research in the fight against the novel coronavirus.
+
+We recognize that you have many questions and concerns as you head into the spring quarter, and we hope to address many of them below.
+
+Tuition and Fees
+
+We have been asked if spring quarter tuition and fees will be adjusted, so we write to clarify the University of California’s approach. Consistent with this letter issued by the UC Office of the President, all tuition and fees remain unchanged for students enrolled during spring quarter. 
+
+We recognize there are continued concerns about campus-based fees during this period of uncertainty. While the current situation is unprecedented, students enrolled in off-campus instructional programs such as the Education Abroad Program or UCDC, for example, are assessed campus-based fees even if they are not physically present on the campus. Thus, remote instruction is determined to be analogous to those off-campus arrangements.
+
+Separate from the tuition and fees described above, UCR is reviewing course materials and services fees to determine if these can be waived for the spring quarter. We plan to finalize those decisions next week so student billing can be appropriately adjusted.
+
+Faculty and Teaching Assistants
+
+Faculty members and TAs will hold virtual office hours and implement a range of approaches that foster communication and promote opportunities for student/faculty collaboration that are the heart of the academy. While the “classroom experience” will be different this spring, your instructors will prioritize academic enrichment; meaningful interaction, connections, and mentorship; and a strong focus on academic rigor. Additionally, academic support services such as tutoring and supplemental instruction will remain available through the spring quarter.
+
+Laboratories and Performance-Based Courses
+
+Developing remote laboratories and performance-based courses is a significant challenge, and faculty members are working with campus experts to satisfy learning objectives. We are consulting with peer universities across the nation to apply best practices in planning remote labs and courses. Each course will develop the academic and technical skills necessary for the growth and development of our students. 
+
+Instructional Quality 
+
+We are making substantial new investments in technology and other tools to support remote learning at a scale never seen before at UC and to ensure that the courses you take in spring quarter will achieve their learning objectives, as they would in any other quarter. The same UCR faculty, lecturers and teaching assistants who deliver in-person instruction will evaluate your work in spring 2020. 
+
+On-Campus Housing and Other Services
+
+Consistent with state and county public health orders, we strongly encourage students to return home, if it is safe to do so. We understand that some of you must remain on campus for various reasons. You are welcome to stay and we will continue to provide services in a modified manner to protect healthy and safety.
+
+Student Health, Counseling and Psychological Services, R’Pantry, and other functions remain available for all students even through the closure.
+
+Financial Aid
+
+The Office of Financial Aid remains committed to supporting you during the spring quarter. The office will continue its operations remotely and is available to serve students by email. If you make any changes to your course schedule or living arrangements, you may submit a revision request in R’Web for your spring financial aid package to be adjusted accordingly.
+
+Finally, we will continue to monitor conditions to ensure that every student has the ability to persist under these challenging and unprecedented circumstances, and we will share further adjustments as information becomes available. In the meantime, please take care of yourselves and stay healthy."
+26-Mar-20,432,Riverside,"Dear UCR Student,
+
+As we continue to navigate the impact of COVID-19 and the challenges each of you might be feeling at this time, UCR will be implementing additional changes to the spring 2020 late payment penalties and additional fees. Please read the following carefully:
+$100 Late Payment Fee will not be assessed to any student for spring 2020.
+Students utilizing the Deferred Payment Plan (DPP) will not be charged a late fee for March, April, or May (spring 2020 quarter).
+Students with non-tuition and housing charges (i.e. parking, library, etc.) will not be charged the Student Business Services late fee for March, April, or May (spring 2020 quarter).
+Students in housing will not be charged a housing payment late fee for March, April, or May (spring 2020 quarter).
+Students in housing will not be charged the spring 2020 housing activity fee.
+New registration holds for delinquent accounts will not be placed until April 16, 2020. Students with outstanding charges for the Spring 2020 quarter only will be able to make registration adjustments for spring 2020 through the end of drop/add via self-service. Delinquent Holds for outstanding charges from a previous quarter will remain in place.
+Course material fees will be adjusted for courses that, in this new learning environment, do not require the equipment or other educational resources traditionally covered by the fee. Of the approximately 280 course material fees typically assessed, 8 courses will retain these fees because the educational resources will still be provided to support the student-learning experience. Please allow the first week of instruction for these adjustments to be made to your student account. The Registrar’s website will be updated to reflect which course material fees remain in effect for spring.
+All changes are in effect for spring 2020 only.
+
+For guidance on tuition and fees beyond those listed above, please reference the communication released March 25, 2020, to all students.
+
+
+If you find you are in a position that you cannot continue attendance for spring 2020, please ensure to follow standard graduate and undergraduate cancellation and withdrawal procedures, which can be found on the respective websites:
+Graduate students, please reference the Graduate Division’s website.
+Undergraduate students, please reference the Registrar’s website.
+
+
+Additionally, please contact the following departments or individuals for information or assistance on any loan, billing, or enrollment questions you may have:
+
+For loan questions, contact Financial Aid.
+Email: finaid@ucr.edu
+Website: financialaid.ucr.edu
+
+For billing questions, contact Student Business Services.
+Email: sbsofc@ucr.edu
+Website: sbs.ucr.edu
+
+For enrollment questions, contact your academic adviser.
+
+Your Highlander Family
+UC Riverside"
+31-Mar-20,243,Riverside,"Dear Highlanders,
+
+As many of you know, registration for UCR Summer Sessions begins on April 1. Normally UCR hosts around 600 in-person classes during multiple sessions that run from June to September, helping to make our campus a vibrant place to be in summer.
+
+This year, campuses like ours are facing the risk and uncertainty posed by the COVID-19 crisis – including the possibility that we will be unable to return to in-person instruction for summer. With registration now upon us, and being aware of the advanced planning that both faculty and students must make to participate in summer session classes, UCR and other UC campuses must decide now whether to continue remote instruction into summer.
+
+After consulting with campus leadership, including the Chair and Vice Chair of the Academic Senate, and checking in with colleagues at other UC campuses, we have decided to continue remote instruction through summer 2020. 
+
+Making this decision now will enable students to register for classes with the knowledge they need to make related plans for summer, including residential and employment decisions, and will give faculty substantial lead time to plan for remote instruction. We believe this is the best way to support our students after spring quarter, especially those whose progress to degree may be affected by their ability to access summer courses.
+
+Summer Sessions will be working with the academic departments during the next week to update the summer schedule of classes to accommodate remote instruction. "
+2-Apr-20,101,Riverside,"Dear Campus Community:
+ 
+
+The Riverside County Public Health Officer has issued a revised public health order, extending the current physical closure of the UC Riverside campus for all but essential personnel supporting critical university functions through June 19, 2020.
+ 
+As announced earlier this week, we are continuing with remote learning through the Spring quarter and summer session.
+ 
+Please continue to monitor UCR’s COVID-19 website, email, and social media channels for additional updates.
+ 
+Thank you for your continued patience and flexibility as we continue our educational mission while prioritizing the health and safety of our community."
+3-Apr-20,372,Riverside,"Dear UCR Community,
+
+On April 1st, Riverside County extended the school closure order through at least June 19th. Unfortunately, this will preclude any of our commencement exercises from taking place as currently scheduled and configured. While we share the disappointment of our students and their families, we appreciate the County’s leadership and share their commitment to protect the health and safety of our community.
+
+Last year, Chancellor Wilcox asked us to co-chair a broadly representative working group on commencement (see membership below) to address capacity, resource demands, and a desire to make graduation a memorable, enjoyable experience for all. The Chancellor has asked the working group to discuss how we might honor and celebrate our graduates while complying with the amended County closure order.
+
+We will convene the working group next week to review the current situation, discuss options, and submit recommendations to Chancellor Wilcox by April 15th. As UCR adjusts to the instructional, operational, and financial challenges of our new reality, we remain committed to stakeholder consultation and open communication. Ultimately, our goal is to appropriately recognize the accomplishments of our graduating students and we welcome your input on how to achieve this goal.
+
+Please take this online survey if you’d like to provide input or feedback to the Commencement Working Group."
+3-Apr-20,380,Riverside,"Dear Campus Community,
+ 
+We are writing to inform all students that we are taking immediate action to protect our classes from what is called “Zoombombing,” which, unfortunately, is taking place in organizations around the world, including our own campus. 
+ 
+Online Zoom classes and other community virtual spaces have been disrupted by both people who hack into these spaces from outside the campus, as well as people who exist within these spaces, who use racist, sexist, homophobic, ablist, and other vile discriminatory language that interrupts our learning experience and social psychological wellbeing. 
+ 
+We are deeply saddened whenever our students and faculty have to witness such despicable acts anywhere on campus, but particularly in this virtual classroom space that is so new to many in our community. You have all worked tirelessly to successfully make the transition to remote learning and have done so quickly to maintain our students’ academic progress.
+ 
+We thank the wonderful faculty, students, and staff who have already skillfully and immediately disabled such presence in real time as it occurs. We have been working diligently with faculty on remote learning issues, and will inform instructors with any new protocols to prevent this type of disruption and disturbance while attending classes online. We will also be vigilant in determining who was responsible for these actions and applying appropriate disciplinary action.
+ 
+XCITE is working to update teaching and student resources on the keepteaching.ucr.edu and keeplearning.ucr.edu sites as well as provide faculty, instructors, and TAs with tools to keep unwanted users out of the virtual classroom environment. 
+ 
+However, we know that across campuses, including our own, these actions are not limited to hackers and occasionally come from within the student population.
+ 
+If you come across this type of conduct in a virtual classroom, please refer it immediately to Student Conduct & Academic Integrity Programs (conduct@ucr.edu).
+ 
+Even in a remote environment we have a shared responsibility to retain our full commitment to UCR’s Principles of Community. Please take the time to review the UC’s Principles of Equity and Inclusion during COVID-19, available here. 
+
+Thank you for your continued support, patience, and collaboration during such a disruptive time in our community. "
+4-Apr-20,501,Riverside,"Order
+On Saturday, April 4, 2020 Riverside County health officials issued
+an order requiring that all persons wear fabric face coverings
+(without holes) to cover their nose and mouth in public places
+(indoor and outdoor) to help prevent Coronavirus (COVID-19)
+transmission. The Centers for Disease Control and Prevention has
+issued similar guidance.
+The face covering does not have to be hospital grade. Acceptable
+examples include bandanas, fabric masks, and neck gaiters, also
+known as neck warmers. The county is discouraging N-95
+respirators and surgical masks for non-medical reasons.
+Face Coverings
+Environmental Health & Safety (EH&S) placed an order of
+bandanas for limited distribution to employees working on
+campus. The expected delivery date is Monday, April 6, 2020.
+The bandanas are white 22 x 22 inches, and 100% cotton cloth
+fabric. The coverings may help reduce exposure to droplets in
+the air that contain the COVID-19 virus. Bandanas will be
+available on a first-come, first-served basis. For more information
+about face coverings, refer to California Department of Public
+Health guidance.
+The campus has initiated other activities to get face coverings,
+including use of the Theatre department’s Costume Shop to
+produce masks, and acquisition of materials by UCPD and Dining
+Services. The University has several other initiatives to be examined in efforts to comply with this very recent and fast changing
+requirement.
+Distribution
+DEPARTMENTS
+EH&S will work with unit heads from departments with essential functions including Police, Facilities Services, Housing, Dining, Student
+Affairs, and others to determine the number of covers needed and will coordinate distribution to those units first. A maximum of two
+face coverings per person will be instituted.
+INDIVIDUALS
+If you would like to obtain a bandana, but are not from a department that EH&S is working with, complete the form
+https://tinyurl.com/ug65je4. An email confirmation will be sent if supplies are available. Bandanas may be picked up on Tuesdays and
+Thursdays from 1:00 pm – 3:00 pm at Environmental Health & Safety, 295 W. Linden St, Riverside, CA 92507. At EH&S, you will be
+asked to follow social distancing guidelines, reinforced by floor markings.
+Use
+Refer to the EH&S “Bandana Face Covering” handout. In addition, you may follow the CDC guidance for “How to wear a cloth face
+covering” and “How to make a mask” (video). For more information contact ehsPublicHealth@ucr.edu or (951) 827-5528.
+Wash
+before using your
+bandana
+What to Wear
+Provided bandanas
+are 100% cotton.
+They provide a layer
+of protection against
+COVID-19 droplets.
+Care
+Handwash after use
+using soap or
+machine wash. Wear
+a new, clean bandana
+each day. Wash your
+hands before and
+after wearing.
+Face covering
+Fold
+diagonally
+Wrap
+around your face
+covering your nose
+and mouth
+Secure
+by tying a knot or
+using a safety pin
+Wear
+in public (indoor and
+outdoor) and do not
+touch your face
+Wash
+when it gets dirty,
+and reuse"
+6-Apr-20,404,Riverside,"Dear UCR Faculty, Students, and Staff,
+
+ UC Riverside is moving into uncharted territory as we begin our first-ever Spring quarter with all remote instruction. Your UCR Library staff have been working diligently to provide support, services, and remote access to resources, which are outlined in this new LibGuide on Expanded / Free Access during the COVID-19 closure.
+
+ Additionally, UCR affiliates can access electronic copies of most library materials from off-campus locations through the HathiTrust Emergency Temporary Access Service.
+
+ The Emergency Temporary Access Service (ETAS) permits special access for HathiTrust member libraries located in the U.S. that suffer an unexpected or involuntary, temporary disruption to normal operations, such as closure for a public health emergency, requiring the library to be closed to its patrons, or otherwise restrict print collection access services.
+
+ The service makes it possible for member library patrons to obtain lawful access to specific digital materials in HathiTrust that correspond to physical books held by their own library. The Emergency Temporary Access Service will enable many HathiTrust member libraries to continue supporting the teaching, learning, and research mission of their institutions during said disruption in service.
+
+Through the HathisTrust ETAS, UCR faculty, staff, and students now have:
+
+ Continued access to the scholarly record of print collections held by their home institution with a digitized copy in HathiTrust.
+
+Reading access to the book online, within a web browser. There is no option to download the work in full. 
+Ability to “check out” a copy for a limited period of time with an auto-renew feature for books still in use. Access to items is 1-1; 1 copy on the member library shelf, 1 individual access to the digital copy; 2 copies, 2 concurrent users of the digital item.
+ 
+
+How to Access UCR Print Materials via HathiTrust
+
+To use the HathiTrust ETAS, go to http://hathitrust.org and select the yellow “LOG IN” button.
+Find and select University of California, Riverside from the list of partner institutions. Select “Continue”.
+You will arrive at UCR’s Central Authentication Service. Enter your UCR NetID and Password.
+When you have successfully logged in, you will be returned to the HathiTrust website.
+Review the HathiTrust FAQ and Use Guide before you get started.
+
+ Remember, your library staff are still available to answer questions and provide support, even in this remote-working situation. You can always Ask a Librarian if you need additional guidance."
+6-Apr-20,450,Riverside,"Who should self-monitor for Novel Coronavirus (COVID-19)?
+
+• Essential staff performing non-healthcare duties on the UCR campus (including School of Medicine and UCR Health personnel not performing healthcare duties on campus)
+• Any UCR members on campus who may come in close contact (within 6 ft) of other persons
+• Anyone who has been exposed (personal contact or within 6 ft) to a suspected or confirmed COVID-19 patient. For example, if you are a family member or caregiver of a suspected/confirmed COVID-19 patient. Employees who are well but who have a sick family member at home with COVID-19 should notify their supervisor.
+• Contact with anyone returning from travel to areas with Level 2 or 3 CDC travel alerts for COVID-19 in the last 14 days
+
+I’ve been told I should self-monitor for COVID-19 symptoms - what do I do?
+
+1. Monitor yourself twice daily to track any signs of fever or symptoms (cough, shortness of breath, difficulty breathing). When checking for fever, it is recommended to do so without the use of fever-reducing or other symptom-altering medicines (e.g. cough suppressants).
+2. A self-monitoring form is provided on the following page for your convenience. Here are the symptoms you need to look out for:
+• Fever: temperature > 100.4°F (38.0°C)
+Please consult with your supervisor if you do not have access to a thermometer.
+• New cough
+• New shortness of breath
+• New difficulty breathing
+3. Adhere to hand hygiene, respiratory hygiene, and cough etiquette in CDC’s interim infection control guidance (e.g., wash your hands often with soap and water for at least 20 seconds, cover nose and mouth when coughing or sneezing, dispose of tissues in waste receptacles).
+
+What should I do if I develop COVID-19 symptoms?
+
+If symptoms appear, you should:
+• Stay home and call your supervisor to report symptoms.
+o UCR will keep this information confidential and limited to only those with a need-to-know to address the situation. This information will not be maintained in your personnel file.
+• If you seek medical treatment, contact the hospital or physician’s office prior to going in.
+
+What are the campus's guidelines for face coverings?
+
+On April 4, 2020, Riverside County Health issued an order requiring that all people wear fabric face coverings to cover their nose and mouth in public places, both indoors and outdoors. The campus has ordered all-cotton bandanas for limited distribution to employees working on campus. These bandanas are not hospital-grade face coverings, but rather will help reduce exposure to droplets in the air that contain the COVID-19 virus. For more information, including on how to obtain a face covering and properly wear it, visit https://ehs.ucr.edu/document/face-covering-requirement. "
+7-Apr-20,246,Riverside,"Dear Colleagues:
+Throughout UC hospitals, clinics and health centers, the continued safety of our employees and patients is
+our paramount priority.
+The following guidance applies to UC health care personnel (HCP) - defined as all paid and unpaid
+personnel at UC medical centers, clinics, student health and counseling centers who have the potential for
+exposure to patients and/or infectious materials.
+1. To better protect employees and patients, HCP who test positive for COVID-19 at an outside facility (e.g.,
+Kaiser) are required to immediately self-report the positive COVID-19 test result to their location’s
+Occupational Health program. This information must be kept separate from employees’ personnel files.
+The information may be used exclusively to perform contact tracing or other activities as directed by
+Occupational Health or Infection Prevention teams to address employee and patient safety; and to perform
+other permissible health care operations.
+2. UC Health will follow the Centers for Disease Control and Prevention’s (CDC) non-test-based strategy to
+determine when HCP with confirmed or suspected COVID-19 can return to work in a healthcare setting.
+HCP working in high risk patient care areas (e.g., transplant, cancer) may be subject to additional criteria
+before returning to work in those settings. HCP should check with their local Occupational Health for
+additional details on specific work practices (including self-monitoring) and/or work restrictions.
+As situations evolve, we will update this guidance as needed. "
+14-Apr-20,462,Riverside,"In an ongoing effort to adhere to the Riverside County request for social distancing with essential workers on-campus, Facilities Services (FS) continues to have limited staff on-campus. Below is an overview of current maintenance-focused services during the campus closure. 
+
+Campus Custodial Services: Custodial services are limited to cleaning/sanitizing restrooms and common areas within the buildings reported to campus leadership as currently supporting essential business on campus. Services can range between 1 to 3 times per week based on the number of essential individuals identified by organizations within each building. To see the list of buildings on the Campus Custodial cleaning list, click here. Custodial Services continues to use a chemical disinfectant recommended by Environmental Health & Safety (EH&S) and is on the official Centers for Disease Control (CDC) approved list of products. 
+
+Limited Campus Custodial & Refuse Services: Trash in offices and most building common areas will not be picked up. All essential workers in occupied buildings will need to dispose of all food refuse and other materials by utilizing the building dumpsters at the end of their day. We ask that all dumpster lids are closed after use. Campus landfill dumpsters are emptied every Tuesday and Thursday and recycling dumpsters are checked or emptied every Wednesday. 
+
+Landscape Services: Services are limited to mowing on-campus grounds every other week. Housing location are mowed on alternate weeks (weather permitting). Emergency weather-related debris removal also continues to be supported. 
+
+Minor Renovation Project Work Halted: All minor renovation projects remain on hold during the campus closure, currently through June 19, 2020. As campus prepares for reopening, previously prioritized minor renovation projects and projects currently in process will be assessed for next steps. Additional information related to minor renovation projects will be communicated by Facilities Services upon return to normal business operations. 
+
+Contact Information for Facilities Services
+•    Service requests for maintenance concerns must be submitted by visiting us at facilities.ucr.edu/requests. Please do not request service by emailing shop supervisors or FS leadership directly as this is delaying service support - this includes concerns in essential research locations. Administrative staff is working remotely to support all incoming issues via our work order and email system.
+•    For general inquiries about Facilities Services or work orders, please email facilities@ucr.edu. Administrative staff continues to work remotely Monday-Friday and will respond to all inquiries. 
+•    For emergency issues such as flood, major leaks, plumbing, or electrical problems, the campus may contact the Central Plant at (951) 827-4677. 
+
+For more information
+Stay up-to-date with the most recent emails and announcements regarding the campus closure through UCR's COVID-19 page. This page is the official campus webpage and provides real-time updates on statewide mandates, the status of the campus and coronavirus FAQs. You may visit the site here."
+15-Apr-20,188,Riverside,"Dear Campus Community, 
+
+As many of you know Highlander Orientation hosts more than 7,000 new students and their family members each July through September. It’s an opportunity to welcome our new class to the campus community as they prepare for their academic careers at UC Riverside. This year, with the uncertainty of COVID-19, we have made the decision to move to a remote orientation program for our incoming first-year and transfer students. Today’s decision will allow us to work with our academic partners and campus departments to provide the most robust and informative program as possible. We will be working closely with all of our campus partners in the upcoming weeks to accommodate for the online program.
+
+If you have any questions, please visit our website at https://orientation.ucr.edu or send us an email at orientation@ucr.edu. We will continue to share programmatic updates. We look forward to welcoming our new class of Highlanders.
+
+Thank you all for your support and flexibility during this time. Go Highlanders!"
+16-Apr-20,753,Riverside,"Dear Campus Community:
+ 
+First, I’d like to offer a sincere thank you for all you’re doing and for your patience as we work through the myriad of issues that are confronting the university at this unprecedented time.  We hope that this guidance on staffing is final and complete at this time, and at least will provide a clear direction through June 30, 2020.
+ 
+As a follow on to the April 2, 2020, job protection letter from President Napolitano and the ten Chancellors, I write to provide additional job protection details and information on the three COVID-19 related leave options.  
+
+This information below is based on details provided by the UC Office of the President. 
+ 
+JOB PROTECTION
+1.       The UC job protection provision applies to all policy-covered and represented career staff employees and results in no COVID-19 related layoffs through the fiscal year ending on June 30, 2020.
+Note:  The UC job protection does not apply to Casual/Restricted, Contract, Floater, Limited, or Per Diem employees. 
+2.       Employees with appointments or employment contracts that expire before June 30 will be subject to the current terms and conditions of their appointments or employment contracts.
+3.       Employees on research contracts or grants will be subject to the current terms and conditions of their appointments or employment contracts if the contract or grant funding expires or is depleted before June 30, 2020.
+4.       There may be reductions in hours, and in some cases staff, as a part of the University’s typical career employee summer staffing and clinical workforce adjustments. For example, if an employee’s work hours or pay are typically seasonally adjusted before June 30, 2020, those adjustments will still occur.
+5.       Academic appointees should refer to the UCOP Academic Personnel & Programs Guidance Regarding COVID-19 Related Leaves and Job Protections.
+ 
+COVID-19 RELATED PAID LEAVES
+1.       Employees are expected to work to the fullest extent they can, whether working on-site or remotely in healthcare or other critical and essential operations.
+Note:   If employees are unable to work, either because of illness or the need to care for others, they should talk with their supervisor for information regarding appropriate leave options.
+2.       Standard leave options may include sick leave, vacation leave, and Family and Medical Leave (FMLA/CFRA), and depending upon the circumstances, an employee may qualify for special COVID-19 leaves.
+3.       COVID-19 related leaves include:
+a.       UC Expanded Paid Administrative Leave – Up to 128 hours (prorated by appointment percentage)
+           i.      Exempt employees must track their time in full-day increments
+           ii.      Non-exempt employees may track their time in hourly (or even 15 minute) increments
+b.       FFCRA Emergency Paid Sick Leave (EPSL) – A new option from the Federal CARES legislation: Up to 80 hours (two-week equivalent for part-time employees)
+           i.      Exempt employees must track their time in full-day increments
+           ii.      Non-exempt employees may track their time in hourly (or even 15 minute) increments
+c.       FFCRA Expanded Family and Medical Leave (EFML) – Up to 12 workweeks (first two weeks unpaid unless other available paid leaves are used) - A new option from the Federal CARES legislation.
+            i.      Health care workers and emergency responders are not eligible for EFML
+d.       Information on how to track the new leaves from the Federal CARES legislation in TARS is forthcoming
+4.       For the most part, employees can choose the order in which they use UC Expanded Paid Administrative Leave, EPSL, EFML, and any other paid leave accruals.
+5.       A current career staff employee not able to work remotely and not able to be assigned any specific duties on campus may be eligible for pay continuation through June 30, 2020, if they satisfy all of the necessary requirements listed below:
+a.       The employee must not be able to work on site or remotely in any capacity, as verified by their supervisor; and
+b.       The employee must have used all of the COVID-19-related paid leave options that may have been available to them (i.e., UC Expanded Paid Administrative Leave, EPSL, and EFML); and
+c.       The employee has used 40 hours of their accrued vacation leave and/or similar leave accruals, such as PTO or CTO, but not accrued sick leave. If the employee has fewer than 40 hours remaining of such leave accruals, the employee must exhaust their remaining leave accruals.
+d.       If a, b, and c above are satisfied, pay continuation through June 30, 2020, occurs. 
+
+RESOURCES
+·        Information on the University of California Leave Obligations under the Families First Coronavirus Response Act (FFCRA).
+·        Forward any questions or concerns to your supervisor.
+ "
+21-Apr-20,354,Riverside,"Dear UCR Community,
+ 
+As announced on April 3, 2020, I asked the Commencement Working Group to convene and discuss our existing plans for this year’s graduation activities in light of Riverside County’s extended school closure order. Last week the Working Group submitted to me three recommendations that apply to all graduates except those in the School of Medicine, which will have an online graduation ceremony on May 29th:
+ 
+1.    Postpone in-person Commencement 2020 events until it is safe to reschedule them.
+2.    Hold online June 2020 celebrations.
+3.    Communicate approved recommendations to students and their families in a timely manner (approximately 3 months for the in-person ceremonies when rescheduled) so that they can plan accordingly.
+ 
+Honoring the spirit of the third recommendation, I write to announce that in-person commencement ceremonies previously scheduled for May and June of this year are being postponed until they can be safely rescheduled. We will continue to follow guidelines established by the United States Centers for Disease Control and Prevention and abide by orders from California Governor Gavin Newsom and the Riverside County Public Health Officer.
+ 
+Student leaders on the Working Group engaged with their respective undergraduate and graduate constituencies to discuss their hopes and goals for the online celebrations: recognizing their accomplishments, creating a sense of community, and enabling graduates to acknowledge those who supported their success.
+ 
+The creative staff members who organize commencement each year are evaluating technology platforms that will meet those criteria, and details will be announced soon. My heartfelt gratitude goes out to more than 3,000 students, faculty and staff who made their voices heard through the Working Group’s survey.
+ 
+I thank Working Group co-chairs Vice Chancellor Brian Haynes and Dean Kathryn Uhrich, and the students, faculty, staff, and administrators who ensured that this important decision was informed by thoughtful conversation and sound data.
+ 
+I look forward to the point where we can welcome our community back to campus, where the quiet and solitude belie the energy of a typical spring quarter filled with excitement for completing yet another academic year. Please stay healthy and take care of yourself and those you love."
+21-Apr-20,3930,Riverside,"Page 1 of 6
+A. Summary of COVID-19 Related Paid Leaves
+The following table is a brief summary of the three COVID-19 related paid leave provisions applicable to policy-covered and
+represented staff employees. Additional guidance regarding the University’s obligations under the FFCRA:
+https://ucnet.universityofcalifornia.edu/news/2020/04/uc-leave-obligations-under-ffcra.pdf
+UC Expanded Paid
+Administrative Leave (PAL)
+FFCRA Emergency Paid Sick Leave
+(EPSL)
+FFCRA Expanded Family and
+Medical Leave (EFML)
+Maximum potential entitlement:
+FTE: Up to 128 hours
+Part-Time EE: Prorated by appointment
+percentage
+One-time allotment
+Maximum potential entitlement:
+FTE: 80 hours
+Part-Time EE: Two-week equivalent
+Maximum potential entitlement:
+Up to 12 workweeks for any eligible EE
+• First 2 weeks unpaid unless
+EE elects to use other
+available paid leave
+Health care workers and emergency
+responders are not eligible for EFML
+Mar 1, 2020 – Dec 31, 2020 Apr 1, 2020 – Dec 31, 2020 Apr 1, 2020 – Dec 31, 2020
+No prior service requirements No prior service requirements On UC payroll for the 30 calendar days
+immediately prior to the leave
+Exempt EE: Must be taken in whole day
+increments but may be taken
+intermittently
+Non-Exempt EE: Can take in increments of
+less than a whole day and may be taken
+intermittently
+Must be taken in blocks (Revised 5/4/20) Must be taken in blocks of a minimum
+of two weeks
+Used for the following purposes:
+1. EE unable to work due to own or
+family member’s COVID-19 related
+illness.
+2. EE unable to work because directed
+not to come to worksite for COVID19 related reasons and/or worksite
+implemented COVID-19 related
+remote work or is under shelter in
+place order and it is not
+operationally feasible for employee
+to work remotely.
+3. EE unable to work due to COVID-19
+related school or daycare closure
+which requires EE to be at home
+with a child or dependent and not
+operationally feasible for EE to work
+in conjunction with childcare
+commitment.
+The use of UC Expanded Paid
+Administrative Leave “shall not adversely
+affect the delivery of essential university
+services, including in particular, the clinical
+services delivered by UC Health.”
+Used for the following qualifying reasons:
+EE unable to work or telework because of:
+1. Quarantine or isolation order
+2. Told by health care provider to selfquarantine
+3. Experiencing COVID-19 symptoms and
+seeking diagnosis
+4. Caring for individual subject to
+quarantine/isolation order or who was
+told by health care provider to selfquarantine*
+5. Caring for child whose school/place of
+care is closed or child care provider
+unavailable due to COVID-19*
+6. Other substantially similar condition
+specified by HHS Secretary
+* Health care workers and emergency
+responders are not eligible to take EPSL for
+reasons 4 or 5.
+Used for the following qualifying
+reason:
+EE unable to work or telework because
+of caring for child whose school/place
+of care is closed or child care provider
+unavailable due to COVID-19 (same as
+reason #5 under EPSL)
+Any prior use of Family & Medical Leave
+Act (FMLA) entitlement in 2020 reduces
+EE’s entitlement under EFML. Any use
+of EFML also reduces FMLA entitlement
+in 2020 assuming EE is eligible for
+FMLA. First two weeks of EFML are
+unpaid unless EE elects to use other
+available paid leave. An EE’s maximum
+potential paid entitlement under
+expanded family and medical leave is
+10 workweeks.
+COVID-19 Related Leaves and Job Protections Guidance for
+Policy-Covered and Represented Staff Employees
+April 13, 2020: Original Issuance
+April 27, 2020: Second Issuance
+May 4, 2020: Third Issuance
+May 15, 2020: Fourth Issuance
+Page 2 of 6
+B. Summary of COVID-19 Related Communication Pertaining to Policy-Covered and Represented Staff Employees1
+
+• On March 16, 2020, President Napolitano issued an executive order whereby eligible employees would receive a “onetime allotment of up to 128 hours of paid administrative leave,” subject to specific conditions.
+• On March 18, 2020, the Families First Coronavirus Response Act (FFCRA), which created two new emergency paid leave
+requirements – the Emergency Paid Sick Leave Act (EPSLA) and the Emergency Family and Medical Leave Expansion Act
+(EFMLEA) – was signed into law by President Trump.
+• On March 20, 2020, COVID-19 related leave guidance was issued to the Chief Human Resources Officers (CHROs)
+• On April 2, 2020, President Napolitano and the ten Chancellors issued a job protections letter indicating that there
+would “no COVID-19 related layoffs for all career employees through fiscal year ending on June 30, 2020.”
+• On April 17, 2020, the UC Employee Request for EPSL/EFML forms were issued.
+C. Frequently Asked Questions
+April 2, 2020 Job Protections Letter
+1. Does the April 2, 2020 letter from President Napolitano and the Chancellors regarding job protections apply to all UC
+staff, or are there exceptions?
+This applies to all current career staff employees. Career staff employees are defined as working a fixed or variable
+percentage of time at 50 percent or more of full-time, and the position is expected to continue for a year or more. This
+does not apply to the following types of staff positions: Casual/Restricted, Contract, Floater, Limited, and Per Diem
+employees. Academic appointees should refer to the APP Guidance Regarding COVID-19 Related Leaves and Job
+Protections.
+2. Does this letter apply to student employees in staff positions?
+This applies to student employees in career staff positions. Students on work study will continue to receive financial aid
+during this time, and campuses will do all they can to find work study jobs for these students. Students employed in
+academic positions should refer to the APP Guidance Regarding COVID-19 Related Leaves and Job Protections
+3. What does this letter mean if employees are unable to work?
+Employees are expected to work to the fullest extent they can, whether working on-site or remotely in healthcare or
+other critical and essential operations. If employees are unable to work remotely, they must talk to their supervisor to
+determine if they can be redeployed to another assignment they are capable of doing. If employees are unable to work,
+either because of illness or the need to care for others, they should talk with their supervisor for information regarding
+appropriate leave options. Employees can also be reassigned in accordance with applicable PPSM and CBAs. If an
+employee refuses to work when work is available, the supervisor should consult with their local Human Resources.
+4. Does this letter provide for pay continuation for staff employees through June 30, 2020? (Revised 5/4/20)
+In some circumstances, yes. Under this letter, a staff employee may be eligible for pay continuation through June 30,
+2020 if they satisfy all of the necessary requirements listed below.
+i. The employee must be a current career staff employee.
+ii. Because of facility closures, curtailed operations, or other University-related disruptions (e.g. cancellation of a
+series of concert events on a UC campus) due to COVID-19, the employee must not be able to work on site or
+remotely in any capacity.
+iii. The employee must have used all of the applicable COVID-19-related paid leave options that may have been
+available to the employee (i.e., UC Expanded Paid Administrative Leave, EPSL, and EFML).
+iv. After the employee satisfies the third requirement above, that employee must use 40 hours of their accrued
+vacation leave and/or similar leave accruals, such as PTO or CTO, but not accrued sick leave. If the employee
+has fewer than 40 hours remaining of such leave accruals, the employee must use their remaining leave
+accruals. If the employee has used all such leave accruals, the employee may be eligible for pay continuation.
+ 1 This guidance does not apply to Lawrence Berkeley National Laboratory employees. Berkeley Lab employees with questions should refer to Berkeley Lab’s COVID-19 website or
+status.lbl.gov
+Page 3 of 6
+Employees will not be eligible for pay continuation under this question 4 if they do not satisfy all of the necessary
+requirements above. (Please see question 5 for employees who have been advised to self-quarantine due to concerns
+related to COVID-19.)
+In some situations, pay continuation may end sooner than June 30, 2020. These are generally situations related to the
+normal course of business. For example:
+• Employees with appointments that expire before June 30 will be subject to the current terms and conditions of
+their appointments.
+• Employees on research contracts or grants will be subject to the current terms and conditions of their
+appointments if the contract or grant funding expires or is depleted before June 30, 2020.
+• There may be reductions in hours, and in some cases staff, as a part of the University’s typical career employee
+summer staffing and clinical workforce adjustments. For example, if an employee’s work hours or pay are
+typically seasonally adjusted before June 30, 2020, those adjustments will still occur.
+5. If an employee has been advised to self-quarantine by their health care provider due to concerns related to COVID19, is the employee eligible for pay continuation? (Added 5/4/20)
+The University understands there may be situations where an employee’s health care provider has advised the
+employee to self-quarantine because (a) the employee has COVID-19 or may have COVID-19; or (b) the employee is
+particularly vulnerable to COVID-19. If such employees cannot work remotely (either because it is not operationally
+feasible or because their health care provider has advised against it) , the employee may be eligible for pay continuation
+if requirements i, iii, and iv in question 4 above are satisfied, even if requirement ii is not met. To request pay
+continuation in a situation like this, the employee should contact their supervisor. Locations should request that the
+employee provide documentation from their health care provider confirming that the health care provider has advised
+the employee to self-quarantine due to concerns related to COVID-19. If the health care provider has advised against
+working remotely, the documentation should state that.
+General
+6. Who is considered a health care worker? What leaves do health care workers have available? (Added 4/27/20)
+A “health care worker” is a “health care provider” as defined by the FCCRA implementing regulations: “For the purposes
+of this definition Employees who may be exempted from Paid Sick Leave or Expanded Family and Medical Leave by their
+Employer under the FFCRA, a health care provider is anyone employed at any doctor’s office, hospital, health care center,
+clinic, post-secondary educational institution offering health care instruction, medical school, local health department or
+agency, nursing facility, retirement facility, nursing home, home health care provider, any facility that performs
+laboratory or medical testing, pharmacy, or any similar institution, Employer, or entity. This includes any permanent or
+temporary institution, facility, location, or site where medical services are provided that are similar to such institutions.”
+Although employers may exempt health care workers from taking both EPSL and EFML, following extensive consultation
+with UC health center and campus leadership, health care workers at UC are eligible to take EPSL for Reasons 1, 2, and
+3. The following health care workers at UC are not eligible to take EPSL for Reasons 4 or 5 and are not eligible to take
+EFML: everyone employed at an entire medical center and the related health professional schools, student health
+centers, and counseling and psychological services. This includes schools of dentistry, pharmacy, nursing, and the UCLA
+school of public health.
+Health care workers are still able to access other leaves that they may be eligible for including UC Expanded Paid
+Administrative Leave, vacation and sick leave, PTO, and CTO, and career health care workers are covered by the April 2,
+2020 letter from President Napolitano and the Chancellors regarding job protections.
+7. Will UC health benefits continue for employees on any of these paid leaves?
+Yes, employees will continue to have any existing health benefits while on paid leave. 
+Page 4 of 6
+8. If an employee is or gets sick, from COVID-19, will the employee be required to use their accrued sick or vacation
+leave, paid time off, or other paid medical leave? What if the employee doesn’t have enough accrued sick or vacation
+leave — will they still receive their full pay?
+Employees who are unable to work due to their own illness or because they must care for an ill family member may
+have several different leave options available, including Family and Medical Leave (FMLA/CFRA), sick leave, vacation
+leave and PTO (paid time off).
+Depending upon circumstances, an employee may qualify for EPSL or UC Expanded Paid Administrative Leave. If an
+employee does not have enough accrued sick or vacation leave available, they should work with their supervisor about
+the situation and to accurately record non-work time.
+9. Will employees on paid leave related to COVID-19 (i.e., UC Expanded Paid Administrative Leave, EPSL and/or EFML)
+continue to accrue service credit for purposes of UCRP and continue to accrue vacation and sick leave, if applicable?
+Yes, employees on paid leave will continue to accrue vacation and sick leave, as well as service credit for purposes of
+UCRP, as they normally would while on pay status.
+10. What are appropriate leave options?
+Standard leave options may include Family and Medical Leave (FMLA/CFRA), sick leave, vacation leave, and paid time off
+(PTO). Depending upon the circumstances, an employee may qualify for special COVID-19 leaves (see table above
+regarding COVID-19-related leave).
+11. Can a department or supervisor ask if an employee foresees COVID-19 related childcare issues that will preclude
+them from working?
+Yes, as a planning tool, departments or supervisors can inquire if leave for COVID-related childcare is anticipated. It is
+best if such inquiries be made of everyone in the department or team so as not to single out individuals.
+12. Will COVID-19 related leaves need to be tracked?
+Yes. The University is tracking and reporting the amount of COVID-19 leave taken and the associated payroll expense.
+The UCPath Center is working on mechanisms to track the type of leaves taken, including the Reason. Not all entry and
+calculations will be automated in UCPath or PPS – locations will need to process some manual entry and upload of
+leaves.
+13. Where can I find additional University resources/information regarding COVID-19?
+The University has developed a COVID-19 website with updates and information on all things COVID-19. The website
+also includes links to location’s COVID-19 sites as well as to the CDC and WHO sites.
+UC Expanded Paid Administrative Leave
+14. Will an employee need to use UC’s Expanded Paid Administrative Leave or the new federal COVID-19- related leaves
+during this time period if they are unable to work for COVID-19-related reasons?
+Employees can choose the order in which they use UC Expanded Paid Administrative Leave, EPSL, EFML, and any other
+paid leave accruals.
+15. An exempt employee who does not accrue vacation or sick leave has requested to take UC Paid Administrative Leave
+(PAL) because they are unable to work due to their own COVID-19 related illness (Criterion 1). Is the employee
+eligible to take PAL? (Added 4/27/20)
+All employees shall be eligible to receive a one-time allotment of up to 128 hours of paid administrative leave subject to
+the following conditions of the President’s Executive Order
+• All hours must be used by December 31, 2020, or the allotment shall expire;
+• The hours may be used at any time during the period of the Executive Order, including intermittently in whole
+day increments, either before or after the use of any accrued leave or other paid leave, at the request of the
+employee, in consultation with the supervisor, provided that such use shall not adversely affect the delivery of
+essential university services, including in particular, the clinical services delivered by UC Health;
+• The number of hours for employees who work less than full-time shall be prorated according to the percent of
+the appointment; 
+Page 5 of 6
+• Exempt employees who do not accrue sick or vacation leave are eligible for the onetime allotment of the paid
+administrative leave.
+FFCRA Emergency Paid Sick Leave (EPSL) & Expanded Family and Medical Leave (EFML)
+16. Who is eligible for leave under the EPSL and EFML?
+All employees are eligible for EPSL, regardless of their length of employment at the University or appointment type.
+However, health care workers and emergency responders are not eligible to take EPSL for Reasons 4 or 5 listed in the
+table above.
+With the exception of health care workers and emergency responders, employees of any appointment type who have
+been on UC’s payroll for the 30 calendar days immediately prior to the day their leave would begin are eligible for EFML.
+17. Does EPSL/EFML need to be taken in one continuous block of time or can it be used intermittently? (Revised 5/15/20)
+EPSL must be taken in blocks. Locations have the discretion to define “block” when teleworking employees use EPSL for
+Reason 1-6 and when employees working onsite use EPSL for Reason 5. The FFCRA regulations do not allow employees
+working onsite to use EPSL intermittently if EPSL is being taken for Reasons 1-4 or 6. In those circumstances, the
+employee must continue using EPSL in full-day increments until the employee either uses the full amount of EPSL or no
+longer has a qualifying reason for using EPSL.
+EFML must be taken in blocks of a minimum of two weeks.
+18. Will employees be asked to complete a form to request EPSL or EFML provided under FFCRA? (Revised 4/27/20)
+Yes, employees will be asked to complete the UC Employee Request for EPSL and/or EFML form to provide pertinent
+information regarding eligibility for EPSL and/or EFML and to certify that the information provided is correct.
+19. Will an employee qualify for EPSL or EFML even if they have already used some or all of their leave entitlement under
+the Family and Medical Leave Act (FMLA) during 2020?
+An eligible employee is entitled to EPSL under the Emergency Paid Sick Leave Act regardless of how much leave they
+have taken under the FMLA.
+However, the employee’s eligibility for EFML depends on how much leave the employee has already taken during 2020
+for FMLA leave. An employee may take a total of 12 workweeks for FMLA or EFML reasons during 2020. If the employee
+has taken some, but not all, of their 12 workweeks of leave under FMLA during 2020, the employee may take the
+remaining portion of leave available as EFML. If the employee has already taken 12 workweeks of FMLA leave during
+2020, the employee may not take EFML.
+For example, assume an employee was eligible for preexisting FMLA leave and took two workweeks of such leave in
+January 2020 to undergo and recover from a surgical procedure. The employee therefore has 10 workweeks of FMLA
+leave remaining. Because EFML is a type of FMLA leave, the employee would be entitled to take up to 10 workweeks of
+EFML, rather than 12 workweeks. And, any EFML the employee takes would count against their entitlement to
+preexisting FMLA leave, but not against their leave entitlement under the California Family Rights Act (CFRA).
+20. When can an employee who has been advised by a health care provider to self-quarantine due to concerns related to
+COVID-19 (Reason 2) elect EPSL? (Added 4/27/20)
+The implementation guidelines issued by the U.S. Department of Labor provide that to be eligible for EPSL in this
+situation the “advice to self-quarantine must be based on the health care provider’s belief that the employee has COVID19, may have COVID-19, or is particularly vulnerable to COVID-19. And self-quarantining must prevent the employee
+from working. An employee who is self-quarantining is able to telework, and therefore may not take paid sick leave for
+this reason, if (a) his or her employer has work for the employee to perform; (b) the employer permits the employee to
+perform that work from the location where the employee is self-quarantining; and (c) there are no extenuating
+circumstances, such as serious COVID-19 symptoms, that prevent the employee from performing that work.”
+21. If an exempt employee is unable to work as they are caring for an individual subject to quarantine/isolation order
+(Reason 4), is the employee eligible for EPSL? (Added 4/27/20) 
+Page 6 of 6
+Yes the employee would be eligible for EPSL. The implementation guidelines issued by the U.S Department of Labor
+provide that this qualifying reason applies only if “but for a need to care for an individual, the employee would be able to
+perform work for his or her employer…. Furthermore, the employee must have a genuine need to care for the individual.”
+Accordingly, the employee will need to identify the individual for whom care is being provided and their relationship to
+that individual.
+22. An employee has requested paid leave (i.e., UC Expanded Paid Administrative Leave, EPSL and/or EFML) because they
+are unable to telework due to a lack of childcare as a result of COVID-19. How can I determine whether the employee
+is eligible for paid leave and which leave they are eligible for? (Added 4/27/20)
+An employee who is unable to work or telework because they are caring for their child whose school or place of care has
+closed (or whose child care provider is unavailable) due to COVID-19 reasons is eligible to take UC Expanded Paid
+Administrative Leave, EPSL (Reason 5) and/or EFML (assuming they meet the 30 days’ service requirement). To be
+eligible for EPSL and/or EFML for this purpose, the employee must confirm that there is no other suitable person to care
+for their child during the period for which the employee is requesting paid leave. If their child is older than 14 and the
+employee will be caring for the child during daylight hours, the employee will need to explain the special circumstances
+that make it necessary for the employee to provide care to that child during that period. If the child is 18 years or older,
+the child must be incapable of self-care due to a mental or physical disability. Health care workers and emergency
+responders are not eligible to take EPSL for this reason or to take EFML. The use of UC Expanded Paid Administrative
+Leave must not adversely affect the delivery of essential University services, which includes the clinical services
+delivered by UC Health.
+An employee who has already utilized leave under the Family and Medical Leave Act (FMLA) this calendar year, will have
+their EFML entitlement reduced by their FMLA use.
+Similarly, any EFML use will count against an appointee’s total 2020 FMLA entitlement. The first two workweeks of
+EFML are unpaid. However, the employee may receive pay during these two workweeks by electing to use their EPSL
+entitlement for Reason 5 during this period. Alternatively, the employee may elect to use any other paid leave option
+available to the employee, such as UC Expanded Paid Administrative Leave or accrued paid leave (such as vacation or
+PTO) that an employee may use to take care of a child when the child’s school is closed or their child care provider is
+unavailable. If an employee utilizes other paid leave accruals during the first two workweeks of EFML that would
+otherwise be unpaid, such use would run concurrently with the employee’s EFML entitlement.
+23. Can an employee receive pay during the first two workweeks of EFML?
+The first two workweeks of EFML are unpaid, but the employee may receive pay during these two workweeks by
+electing to use their EPSL entitlement for Reason 5 during this period. Alternatively, the employee may elect to use any
+other paid leave options available to the employee, such as UC Expanded Paid Administrative Leave or accrued paid
+leave (such as vacation or PTO) that an employee may use to take care of a child when the child’s school is closed or
+their child care provider is unavailable.
+24. Can an employee take 80 hours of EPSL for their own self-quarantine and then another amount of EPSL for another
+reason provided under the Emergency Paid Sick Leave Act?
+No. The total number of hours for which an employee can take EPSL is capped at 80 hours for full-time employees and
+the two-week equivalent for part-time employees.
+25. If an employee doesn’t use all of their UC Expanded Paid Administrative Leave, EPSL and/or EFML entitlements in
+2020, can they use those entitlements 2021?
+No. Those entitlements must be used by December 31, 2020."
+29-Apr-20,188,Riverside,"Clarification of local health officer orders
+The County of Riverside issues the following clarification for today’s amended public health
+officer order:
+The County’s current health order prohibiting gatherings outside the home expires April 30.
+Beginning May 1, the county will fall solely under the governor’s stay at home order as it
+pertains to gatherings. The governor’s order states that all California residents must stay home
+unless they are engaged in an essential business or activity, such as grocery shopping or visiting
+the doctor.
+The governor’s order does not have an expiration date. As soon as the governor releases the
+stay at home order, Riverside County will be ready to move into the governor’s second phase of
+reopening businesses.
+The newly amended health order continues to allow for certain recreational activities in
+Riverside County, including the use of trails and parks for hiking, biking and equestrian uses.
+Golf is also permitted in Riverside County with certain limitations.
+This amended health order continues to require face coverings and a six-foot social distance
+through June 19. "
+4-May-20,200,Riverside,"The effects of the campus closure due to the COVID-19 pandemic have resulted in decreased workloads for staff and students in many campus units. Human Resources has developed UCR’s Talent Match Program to pair staff and students with diminished workloads with temporary job assignments. Specifically, the program strives to identify reassignment opportunities for UCR staff and current student employees from areas where operations have scaled-down, in other departments that have a need for additional staff/student capacity.
+ 
+Participation is voluntary; however, employees and campus departments are encouraged to take advantage of this program to the fullest extent possible, to keep our valuable staff/student resources working in support of the University’s mission, during this unprecedented time.
+ 
+There are two options available:
+1.    Departments may submit & post a temporary job assignment that is available in their department.
+2.    Staff and current student employees with diminished workloads may submit an availability and interest form to be considered for a temporary job assignment.
+ 
+For additional information on the Talent Match program visit the HR website at: https://hr.ucr.edu/about-us/coronavirus-covid-19-hr-information-and-resources/ucr-talent-match-program#ucr_talent_match_job_opportunities_form.
+ 
+If you have questions or need additional assistance, please contact the UCR Talent Acquisition Team at: UCRTalentMatch@ucr.edu."
+9-May-20,131,Riverside,"Dear Campus Community: 
+
+On Friday, the Riverside County Board of Supervisors asked the Public Health officer to rescind the order mandating the closure of universities in the county.
+
+This action will not result in any immediate changes to UC Riverside’s campus operations or our plans for remote instruction this spring and summer. These actions essentially move us under the State of California requirements.
+
+Governor Gavin Newsom’s stay-at-home order remains in place until further notice. We will continue to ask employees who are currently working on campus to wear face coverings and to practice physical distancing to the maximum extent possible.
+
+UCR leaders are meeting with Riverside County health officials to help inform our planning for future adjustments to campus operations, and we will update the campus as more details become available. "
