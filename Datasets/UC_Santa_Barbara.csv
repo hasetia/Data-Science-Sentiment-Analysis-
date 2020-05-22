@@ -1,18 +1,548 @@
-date,word_count,school
-14-May-20,1546,Santa Barbara
-18-Apr-20,498,Santa Barbara
-13-Apr-20,395,Santa Barbara
-07-Apr-20,484,Santa Barbara
-02-Apr-20,74,Santa Barbara
-31-Mar-20,1262,Santa Barbara
-26-Mar-20,603,Santa Barbara
-19-Mar-20,380,Santa Barbara
-18-Mar-20,452,Santa Barbara
-17-Mar-20,428,Santa Barbara
-15-Mar-20,284,Santa Barbara
-14-Mar-20,1338,Santa Barbara
-12-Mar-20,1226,Santa Barbara
-12-Mar-20,472,Santa Barbara
-10-Mar-20,896,Santa Barbara
-07-Mar-20,1052,Santa Barbara
-07-Feb-20,684,Santa Barbara
+date,word_count,school,content,link
+14-May-20,1546,Santa Barbara,"Dear Members of Our Campus Community,
+
+It is hard to believe that two months have passed since we made the initial decision to transition to remote instruction for our spring quarter, ramped down our research endeavors, and asked staff and faculty to work and teach from home. By working together, applying our creativity and adaptability, and making sacrifices, we have achieved a number of successes under these extraordinarily challenging circumstances. We have continued to uphold the excellence of a UC Santa Barbara education, and conducted limited but life-saving research. Most notably, our collective efforts to stay at home and practice social distancing have helped reduce the number of COVID-19 infections and protected countless lives.
+
+In responding to what has become the most significant public health crisis of our time, our UC Santa Barbara community has shown tremendous compassion, ingenuity, and self-sacrifice. The abrupt changes have also come at a cost – from significant disappointments to great personal loss. We will face many more challenges in the months ahead, but our strength and resilience will come from our support for one another.
+
+Our Path Forward – Planning for Campus Research and Instruction
+We are undertaking extensive planning for a measured and phased return of our campus research operations, and, looking further ahead, to a carefully managed, phased return of staff to campus and resumption of on-campus instruction. We are consulting with our administrative and Academic Senate colleagues, faculty, researchers, staff, and students to help us understand our community’s needs, and we have also received important feedback from alumni, parents, Trustees, and friends. Our deans and administrative colleagues have been working with faculty in every department to prepare for and explore all options for fall quarter.
+
+Given the inherent uncertainties the State and our country are still facing, we are planning for a range of scenarios for our research, instruction, and operations.
+
+We have heard from our parents and students about how important the campus experience is, and we are planning for scenarios that allow some in-person instruction on campus, but still require varying levels of remote instruction, even for students in residence on campus. These hybrid scenarios will be guided by limits and restrictions imposed by public health authorities and by the recommendations of our local and campus health experts, as well as input from other members of our community.
+We are also preparing for the possibility that our campus may be allowed to largely return to normal instruction. This is our ultimate hope and goal, but the timeline is uncertain, with current guidance indicating such a possibility is unlikely for the fall quarter. Even if we are able to resume most campus activities, we are committed to offering a full curriculum and to accommodating students who may need remote access.
+If public health requirements and safety concerns prevent us from resuming in-person instruction, our campus is preparing for the possibility of continuing with full remote instruction for the fall quarter, ramping up some approved on-campus research, and operating predominantly with a remote workforce.
+Our Office of Research is planning for a ramp-up of campus research starting as early as June, and held a town hall to discuss how to safely resume research in stages as conditions allow. Our Library is developing scenarios that would allow access for faculty and graduate student researchers, and eventually for a limited number of undergraduates, in coordination with the resumption of instruction in the fall.
+
+We are also working on plans for our campus working environment that reduce density and allow for physical distancing in office and workplace settings. Our staff – who, along with our faculty, have worked from home in improvised conditions, often while taking on childcare and homeschooling responsibilities – make our teaching, counseling, and research possible, with uncompromising quality, and care for our buildings and beautiful campus. They are crucial to our ongoing operations, and to a gradual resumption of our in-person campus activities.
+
+We are meeting daily with our colleagues from every UC campus, at every administrative level including chancellors and our UC President, to exchange information and share expertise. Additionally, we are working closely with state and local officials as they determine policy directives that will affect our future decisions and actions. Our goal is to make key decisions on fall operations in June.
+
+Testing and Surveillance Planning
+While we are eager to have our university life return to normal, the health and safety of our campus and regional communities are our highest priority and guide every decision we make. In the absence of proven medical interventions and treatments, we will need to rely on comprehensive testing, contact tracing, health monitoring, and quarantine protocols as we ramp up research, welcome students back to our residence halls, and start in-person instruction when we can safely do so. Our administrative colleagues, staff, faculty, and researchers have been working tirelessly to develop these plans. This approach is in line with California Governor Gavin Newsom’s reopening plans and UC systemwide guidelines.
+
+Many of our faculty members and researchers have put aside their current research projects and redirected their efforts to address the COVID-19 crisis. One of the many projects may have a significant impact on our campus planning efforts. A team of campus researchers has been developing a fast and practical COVID-19 test that can be deployed in the field. The approach shows great promise, and an initial research program was recently approved by an external Institutional Review Board. Our researchers are working closely with our administrative colleagues and campus health experts to implement testing in a research-oriented launch over the summer. In anticipation of its success, we are also working in coordination with our local public health office to build the infrastructure capable of testing all symptomatic campus community members, as well as methodically testing a sample of individuals on campus, independent of symptoms. We have launched a fundraising campaign to support our testing program.
+
+Physical Distancing and Face Coverings
+Physical distancing will continue to play a critical role in mitigating the spread of the virus until proven medical interventions are developed. As such, we are in the process of a comprehensive review to evaluate how our students can safely be housed in existing campus residences, including quarantine spaces to isolate any students who are diagnosed with or exposed to COVID-19. We are looking closely at how physical distancing requirements will affect classroom, housing, dining hall, library, office, and laboratory settings, and everywhere on campus. We are also assessing our capacity to provide the frequent and thorough cleaning services that will be required to mitigate the risks posed by COVID-19.  
+
+Thanks to generous gifts from our donors, our campus has acquired and distributed cloth face coverings for most of the faculty and staff currently providing essential services on campus. Associated Students and the Graduate Student Association also have obtained face coverings for students who remain on campus. If we are eventually able to return to in-person instruction, we will find ways to supply face coverings to our entire campus population.
+
+We have and will continue to carry forward our strong commitment to public health and safety for our students, faculty, staff, and campus community.
+
+Support for Our Undergraduate and Graduate Students
+Our undergraduate and graduate students are the reason we are all here. To support our undergraduate students who qualify for financial aid and our graduate students who need additional support, we are distributing $12.5 million in additional financial aid that was made available through the federal CARES Act. We are committed to raising additional resources to support our students, faculty, and staff through philanthropy and by working with state and federal officials.
+
+Despite the significant amount of work and research we have already undertaken in a relatively short period of time, there is still much we do not know, and likely will not know for some time. We wish we could offer more definite timelines and information. The uncertainty surrounding the coming academic year is a source of anxiety and stress for all of us, and we deeply regret that we don’t have precise answers at this time. We will keep our community informed of our planning efforts throughout the process, and will announce decisions as they are consulted and finalized.
+
+We are committed to providing our students with the quality education and research opportunities they have come to expect, and the support and services they need to be successful. At the same time, we are committed to creating safer learning, working, and living conditions for our students, staff, and faculty, which we all deserve. We are mindful of the differential impacts of this pandemic on members of our community and society, and the importance of considering issues of equity as we work together to find solutions and uphold our principles of community.
+
+During this beautiful springtime on campus, Dilling and I miss all the daily interactions among our dynamic academic community, and the smiles and vibrancy each of you brings to our campus. We look forward to the moment we can welcome our students, faculty, and staff back to campus, and to an eventual return to the community that makes UC Santa Barbara so important to us all.
+
+Take good care, and be well.
+
+Sincerely,
+
+Henry T. Yang
+Chancellor",https://chancellor.ucsb.edu/memos/2020-05-14-covid-19-update-planning-efforts-our-path-forward
+18-Apr-20,498,Santa Barbara,"Dear Members of Our Campus Community,
+
+We were informed today by a private company with access to our Nanofabrication facility in the Engineering-Sciences Building, that one of their employees who was in our facility on April 8 and 9, carrying out approved essential research, may have had COVID-19. The person did not have symptoms until April 10 and was tested several days later, and then informed their employer of testing positive. We wish them a fast, healthy recovery.
+
+The company reported that the individual, who is not affiliated with UC Santa Barbara, was only in our Nanofabrication facility and has not been back to campus since April 9, which was prior to the onset of symptoms. We were also informed that the individual followed all of the Nanofabrication facility’s safety and health protocols while in the building.
+
+This facility, which provides access to both campus and outside users, has strict physical distancing requirements and requires the use of masks and gloves at all times while in the facility. As a cleanroom facility, the Nanofabrication facility protocols also include regular extensive cleanings and large air exchange volumes.
+
+While there is a low risk that anyone in our community was exposed, out of an abundance of caution and concern for our community, the facility area where the individual was working will be deep cleaned, and we will follow all CDC procedures. Individuals who may have been in the area at the same time as this person are being contacted and the campus is issuing a timely warning as required by the Clery Act. To keep our community informed, we will be posting information about future confirmed COVID-19 cases on our COVID-19 information page.
+
+Our highest priority is the health and well-being of our community. Our campus facilities will continue to follow strict laboratory safety protocols and existing guidance allowing access only to individuals conducting approved essential research or providing essential services.
+
+This case reminds us of just how important it is continue to follow longstanding public health recommendations: 
+
+Individuals who feel sick should stay at home.
+If you develop flu-like symptoms, contact your healthcare provider for medical advice.
+If you have flu-like symptoms and you are a member of the UC Santa Barbara community providing essential services, notify your supervisor and self-quarantine for 14 days in consideration of your health and that of others.
+Most campus employees continue to telework. Only specific individuals who have been notified that they are designated as providing essential services are authorized to be on campus.
+Continue to follow the California “Shelter-in-Residence” order, practice physical distancing, wash your hands frequently and thoroughly, and cover your face when you must be away from your residence.
+We care deeply about our community and visitors to our campus. We will continue to keep our campus community updated through email messages and posting information to our COVID-19 information page.
+
+Please stay safe and look out for each other.
+
+Sincerely,
+
+Henry T. Yang
+Chancellor",https://chancellor.ucsb.edu/memos/2020-04-18-covid-19-update-case-nanofabrication-facility
+13-Apr-20,395,Santa Barbara,"Dear Members of Our Campus Community,
+
+With our spring quarter now well underway, I would like to take this opportunity to thank our students, faculty, and staff for the extraordinary efforts and sacrifices you have made, and for your steadfast commitment to upholding the values and mission of our university. We are absolutely amazed by the adaptability, resilience, and creativity of our UC Santa Barbara community in responding to the abrupt changes we are all being asked to make.
+
+In order to give members of our community as much time as possible to plan for summer instruction at UC Santa Barbara, we have made the decision, in consultation with faculty, students, and staff and with the agreement of our Academic Senate, that all Summer Sessions courses scheduled to begin in June and July (sessions A, C, D, and E) will be delivered by remote instruction. 
+
+It is likely that Summer Sessions courses and programs scheduled for August (sessions B, F, and G) will also be delivered remotely, if the State and County orders promoting physical distancing have not been revised. We will continue to consult with our Academic Senate, our health experts, and members of our community, and to work with State and County health officials to make a final determination for August instruction and communicate it to our campus community as soon as possible.
+
+Summer Sessions has posted information about the schedule/calendar and FAQs online, and asked that questions be directed to info@summer.ucsb.edu.   
+
+Being part of a campus community like ours naturally includes the opportunity for academic instruction and inquiry, but it also has intangible benefits. Much of our strength as a community comes from the relationships we make, the opportunity we have to learn from our peers, and the support we offer to each other. It is important that even while we are physically apart, we are finding ways to remain connected during these difficult times. While we know there are still challenges ahead and that we must continue to protect our community and those we love by practicing physical distancing, we are uplifted by hope and the prospect of welcoming everyone back to campus when it is safe to do so. We eagerly await the return of our entire community — our students, staff, and faculty — so that we can continue our journey together.
+
+ 
+
+Sincerely,
+
+Henry T. Yang
+Chancellor",https://chancellor.ucsb.edu/memos/2020-04-13-covid-19-update-summer-sessions
+07-Apr-20,484,Santa Barbara,"Dear Members of Our Campus Community,
+
+I am writing to share that our campus has been informed of what seems to be the first case of COVID-19 among our student population. A student who left campus on Tuesday, March 17, for spring break has reported testing positive for COVID-19. During the break, the student reported experiencing symptoms consistent with COVID-19. Following two weeks of self-quarantine and over a week with no symptoms, the student returned to campus on Friday, April 3, for about two hours in order to remove personal belongings from their room in Santa Cruz Residence Hall. After returning home, the student received notice that they tested positive. 
+
+The student’s visit to campus on April 3 was brief, and they reported not interacting with or coming into contact with anyone from our campus. The student, whose roommates left campus prior to spring break, reported spending time in their residence only, wearing a face covering, diligently practicing social distancing, washing and sanitizing hands frequently, and touching only their own personal belongings. We are cleaning and sanitizing both the student’s room and the common areas, and we have contacted public health officials.
+
+According to Santa Barbara County public health officials and our campus health experts, the risk of any exposure to members of our campus community from this student’s brief visit is extremely low.
+
+Our thoughts and warm wishes are with our student and their family, and we are grateful to them for following health and safety protocols that are in place to protect our community.
+
+This student case further illustrates the critical importance of social distancing, frequent hand washing, and face coverings. We want to make sure our campus community is aware of the new recommendations regarding the use of cloth face coverings. These are issued by the Centers for Disease Control, the California Department of Public Health, and our own Santa Barbara County Public Health officials. 
+
+Our campus health experts also are now recommending face coverings for people who come to campus to perform essential university functions. Face coverings can keep people who have the virus but are asymptomatic from spreading it to others. Evidence shows that covering the mouth and nose can be effective in reducing the release of airborne respiratory droplets that can infect others.
+
+The new guidance recommends bandannas, scarves, and simple homemade cloth versions as coverings for the general public. Health experts continue to stress the need to maintain the much-needed supply of N-95 and surgical masks for doctors, nurses, and other frontline personnel. 
+
+We will continue to send updates to our campus community or post updates to our COVID-19 website as information becomes available. 
+
+And as we navigate these difficult times, I hope you will continue to take care of yourselves and each other. Our strength, both individually and collectively, is rooted in our support for one another. 
+
+Sincerely,
+
+Henry T. Yang
+Chancellor",https://chancellor.ucsb.edu/memos/2020-04-07-covid-19-update
+02-Apr-20,74,Santa Barbara,"Dear Members of Our Campus Community,
+
+I am writing to share a joint message from UC President Janet Napolitano and the ten UC Chancellors. We will continue to send updates as the situation develops.
+
+I am deeply grateful to our entire campus community for your patience, courage, and sustained dedication during this unprecedented situation.
+
+Sincerely,
+
+Henry T. Yang
+Chancellor",https://chancellor.ucsb.edu/memos/2020-04-02-message-president-napolitano-and-uc-chancellors
+31-Mar-20,1262,Santa Barbara,"Dear Members of Our Campus Community,
+
+We write to share two important COVID-19 related developments. 
+
+Santa Barbara County Public Health Department has deployed GIS mapping to more precisely identify locations of confirmed cases. As a result, a previously confirmed case of COVID-19 was found to be located within the boundaries of the Isla Vista community. We have no indication that this case involves anyone affiliated with UC Santa Barbara, but given the proximity of Isla Vista to campus, the number of our students who live in Isla Vista, and our faculty and staff who live in Isla Vista or adjacent communities, we wanted to notify our campus community of this development. We send our best wishes to this individual as they recover. 
+
+We would like to use this opportunity to remind our students, especially those who remain in campus housing and who live in Isla Vista, of the actions we can all take to save lives by helping slow the spread of COVID-19. In addition to the preventative actions recommended by the CDC, we strongly urge everyone to follow Governor Gavin Newsom’s stay-at-home order and the IV Community Services District’s state-of-emergency declaration that directs everyone to stay inside, avoid social gatherings with anyone other than those who share your living space, and practice social/physical distancing. Please read a new message from our faculty health experts, our Associated Students president, and our Student Health medical director that I have included as an attachment below. Every one of us has an important role to play in battling this pandemic.
+
+In addition to the case in Isla Vista, we were informed by two members of our UC Santa Barbara community who live together that they both tested positive for COVID-19 after one of the individuals returned from travel to Europe on Friday, March 13. Both individuals have not been on campus and have been in self-quarantine since March 13. They currently remain in self-quarantine off campus and are recovering. Our thoughts and well-wishes are with our two colleagues.  
+
+These confirmed cases in our community will raise concerns and questions. Our highest priority is protecting the health of each and every one of you, but we also are committed to ensuring everyone’s privacy. Santa Barbara County Public Health conducts thorough investigations of positive cases and notifies any individuals they believe may have had contact with the confirmed cases. We will work closely with public health officials to follow notification procedures and guidelines and to keep our community informed.
+
+For our community members who may be feeling anxiety and stress, we urge you to reach out and contact campus support services. Students in need can reach out to Counseling and Psychological Services (CAPS) and Mental Health Peers, and faculty and staff can contact the Academic & Staff Assistance Program (ASAP). Additional information and assistance are available at our Office of International Students and Scholars and our Student Health Service (SHS) as well.
+
+We are thankful to everyone in our community for playing their part to slow the spread of this virus. We also want to express our deepest appreciation to all of those individuals who are on the frontlines, here on campus and across the nation and globe – risking their own health and safety to protect us and to support the daily life of our communities. We are grateful for their heroism. 
+
+Please take good care of yourselves and each other. 
+
+Sincerely, 
+
+Henry T. Yang
+Chancellor
+ 
+
+Letter to Our UC Santa Barbara Students
+
+Students at UC Santa Barbara — We are now at a critical moment.
+
+We are writing to inform you that the number of cases is increasing rapidly in Santa Barbara County. There are 88 cases as of today, 14 of which are in individuals younger than 29, and one confirmed case in Isla Vista. If we can slow the spread of the disease throughout IV by minimizing contact with each other, every one of us — but especially you, our students — will be the heroes of our community. By standing strong in adherence with strict social distancing, we can beat this disease.
+
+To the people who have been taking their social responsibilities seriously, we thank you. Thank you for being strong and accepting the challenge of staying at home and taking these precautions. 
+
+Our message remains simple: We need your help now more than ever. With the rapidly mounting case numbers of COVID-19 in our communities, we have reached a tipping point. If we fail to act decisively at this moment, this disease will extract a terrible toll on our community. It is not an exaggeration to say that without maintaining social distance, our community will very likely lose lives to this invisible virus. In a very short time, COVID-19 could spread within the close quarters of Isla Vista, leaving no one untouched. 
+
+We understand there are many temptations: socializing with friends you do not live with, gathering at the beach, having Deltopia. We ask each of you to be a leader and to communicate to your friends that the social proximity of large parties and gatherings, especially one like Deltopia, is dangerous. This is the time to be mindful and smart. Doing the right thing now will give you the gift of another day, in the not too distant future, to enjoy with your friends and family. We know this isn’t easy, but we can overcome this together.
+
+Please remember how COVID-19 spreads. It begins with a small number of cases. Some people may not even know they have the virus, because sometimes its symptoms are mild. During this time, the virus is silently working its way through the community, and before long, the number of cases will increase dramatically. Large numbers of people will become infected. Young people are not exempt. You can suffer for weeks and weeks with the illness and sustain lifelong damage to your lungs or kidneys. You can infect others including your parents and grandparents for whom the disease has a high risk of mortality. In a crowded place like Isla Vista, the virus will spread quickly, so we must strictly adhere to social distancing.
+
+What is social distancing? Deliberately increasing the physical space between people to avoid spreading illnesses. Staying at least 6 feet from others reduces your risk of catching COVID-19. Six feet is about the length of a pool table. 
+
+How can I practice social distancing? Avoid gatherings and parties, avoid handshakes and hugs, and limit contact with people. 
+
+Does it work? YES! 
+• Without social distancing, one person can infect 2.5 people on day one and a total of 460 people over 30 days. 
+
+• By reducing social contacts by 50%, one person can infect 1.25 people on day one and a total of 15 people over 30 days. That is a reduction of over 30-fold!
+
+Remember COVID-19 does not discriminate. It can come from any person, at any time, in any place. Do not treat those you believe may have COVID-19 with acts of racism or hate. There is no room for that behavior in our community. Let us come together during this tough time. We thank you all again for your continued cooperation in doing your part.
+
+Kenneth S. Kosik, MD
+Co-Director, Neuroscience Research Institute
+Harriman Distinguished Professor of Neuroscience
+Department of Molecular, Cellular and Developmental Biology
+
+Carolina Arias Gonzalez, PhD
+Assistant Professor
+Department of Molecular, Cellular and Developmental Biology
+
+Charles E. Samuel, PhD
+C.A. Storke Professor and Distinguished Professor, Emeritus
+Department of Molecular, Cellular and Developmental Biology
+
+Ali Javanbakht, MD
+Medical Director and Interim Executive Director
+UCSB Student Health
+
+Alison Sir
+UCSB Student Body President
+Associated Students",https://chancellor.ucsb.edu/memos/2020-03-31-covid-19-update-confirmed-cases-our-community
+26-Mar-20,603,Santa Barbara,"Dear Members of Our Campus Community,
+
+This spring break, I find myself saddled with a sadness and a sense of loss regarding the sudden changes our community is being asked to bear. The disappearance of our community and the realization that we will miss all the opportunities to spend time with our students, staff, and faculty this spring quarter is still difficult to accept. As Dilling and I walk alone through the picturesque pathways of our once bustling campus, we are now feeling the silence and the absence of the commotion that characterize discovery and learning. 
+
+But we are also lifted by hope and the understanding that our community is dynamic, innovative, and compassionate, especially when facing a challenge. It is clear that much has already changed and that things will continue to change, but if we hold fast to our goals, we can achieve them, even if it means navigating frustrating detours or exploring unexpected new paths. 
+
+Following Governor Newsom’s recent stay-at-home order and following consultation with students, faculty, and our academic deans, we have made the difficult decision to postpone our annual commencement ceremonies, which were scheduled to take place in June. 
+
+Every year we eagerly await gathering for this time-honored tradition, and in light of this decision, we are committed to:
+
+• Holding an in-person ceremony when it is safe to do so — welcoming all of our 2020 graduates and their families back to our campus so that we can celebrate their numerous accomplishments together.
+
+• Holding a virtual ceremony on the second weekend of June that will allow us to recognize the achievements of our graduating students at the end of our spring quarter.
+
+We know that this decision is a tremendous disappointment to our graduates, who for years have devoted themselves to reaching this milestone and have looked forward with great anticipation to the celebration that would mark their academic accomplishment. And we know it is just as disappointing to the families and friends who have supported our students in their scholarly endeavors, and for whom commencement represents a shared and equally important achievement. 
+
+It is also a disappointment for us — the faculty and staff who have made the journeys of our students our own. We take pride in watching each and every graduate participate in all the pomp and circumstance of a commencement ceremony — walking across the stage in cap and gown as their names are read, to receive their diploma or to be hooded, and to be greeted by their faculty, mentors, and myself.    
+
+While some may believe our situation will abate within a few months, the public health information we are receiving suggests the rapid and evolving nature of COVID-19 makes the risk to our community too great to allow large gatherings such as our UC Santa Barbara Commencement.
+
+From our consultation with students and parents, and from the countless messages we have received, we are reminded just how important commencement is for our students and their families. It is just as important to us. Each of our graduates is special and carries a unique story of triumph. This is why we thought it necessary to share our current thinking with our community now, and to affirm our commitment to hosting an event on campus when the situation allows.
+
+Thank you again for standing alongside us as we take steps to respond to this unprecedented situation. We look forward to the time when our campus life can return to the vibrant experience we’ve all come to expect and love at UC Santa Barbara.   
+ 
+
+Sincerely,
+
+Henry T. Yang
+Chancellor",https://chancellor.ucsb.edu/memos/2020-03-26-covid-19-update-commencement
+19-Mar-20,380,Santa Barbara,"Dear Members of Our Campus Community,
+
+Tonight, Governor Gavin Newsom and the California State Public Health Officer and Director of the California Department of Public Health issued an order directing all residents of California to stay at home or their place of residence effective immediately and until further notice. According to the order, essential services (gas, grocery stores, pharmacies, banks, etc.) and state and local government functions, including the higher education sector, will remain open.  
+
+As an institution of higher education, our campus will remain open to provide essential services, but in order to comply with the order, we will need to further minimize the number of people on campus as much as possible while still maintaining the critical functions of the University, including offering remote instruction for the spring quarter. 
+
+• At this time, only those employees who must be on campus to maintain critical operations and functions should come to the campus. Those individuals who cannot work from home and are not designated as essential service providers by their managers or supervisors are eligible for paid administrative leave described in the recent executive order by UC President Janet Napolitano.
+• Any remaining in-person finals scheduled for Friday are canceled, and alternative arrangements for those finals will be made at a later date. 
+• Our campus housing and dining services will continue operations as planned in order to support those students who need to remain in campus housing. 
+• Student Health Services will continue to provide service to our students who remain in the area.
+
+Our campus has already taken a number of proactive actions to help protect the health and well-being of our community that are consistent with the new order, including:
+
+• Ending in-person instruction for the spring quarter;
+• Minimizing the number of people on campus through remote work arrangements;
+• Closing the UC Santa Barbara Library, UCen, RecCen, and the SRB;
+• Ending non-essential business-related travel.
+
+We are in the process of evaluating additional actions that may be required as a result of this statewide order, and will write again with additional updates as soon as possible. The health and well-being of our community is our top priority, and will continue to guide the steps we take to address these extraordinary circumstances. 
+
+Sincerely,
+
+Henry T. Yang
+Chancellor",https://chancellor.ucsb.edu/memos/2020-03-19-covid-19-update-statewide-stay-home-order
+18-Mar-20,452,Santa Barbara,"Dear Members of Our Campus Community,
+
+I am writing to provide an update on our campus’s response to slow the spread of COVID-19 in our community.
+
+Isla Vista COVID-19 Test and Social Distancing
+First, I want to share the news that all five of our students who were identified over the weekend in Isla Vista have tested negative for COVID-19, according to information just released by the Santa Barbara County Department of Public Health. Our students are no longer in mandatory quarantine, but were directed to self-quarantine by Health Officer Order and to practice social distancing.
+
+We strongly urge everyone – our students, staff, and faculty, especially those who remain on campus and in Isla Vista – to follow best practices related to social distancing and other health practices to help slow the spread of COVID-19 in our community. The situation is very serious, and it is up to all of us to take the necessary precautions to help keep ourselves and one another safe. 
+
+While our experts tell us that most people who acquire COVID-19 will not develop severe disease, the related health risks to those with underlying conditions and to our aging populations are extremely high. If any one of us becomes infected, it will pose a potentially life-threatening risk of infection to other people. The virus, our experts say, can be transmitted by asymptomatic patients, or days before symptoms begin. This makes social distancing and similar health practices vitally important to saving lives.
+
+Library Services 
+To protect the health and welfare of everyone who works in and uses our Library, and to be consistent with the directives of state public health officials and recommendations by health experts, we have made the difficult decision to close our UC Santa Barbara Library to patrons starting at 6 p.m. on Thursday, March 19, 2020. Our Music Library will be closing today, Wednesday, March 18, 2020, at 6 p.m.
+
+Our Library provides essential and important services for our students and faculty, and we know that closing the Library to patrons poses another significant challenge. Our dedicated Library staff will do everything possible, taking into consideration social distancing requirements and other health safety measures, in order to continue to provide services in support of remote instruction, learning, and research. Available Library services and updates will be posted on the Library’s website.  
+
+We will continue to send timely updates to our community regarding our campus response in order to provide as much information and clarity as soon as possible during this time of uncertainty. We remain deeply grateful for everyone’s community-mindedness and willingness to make self-sacrifices in support of the well-being of our entire community. 
+
+Sincerely,
+
+Henry T. Yang
+Chancellor",https://chancellor.ucsb.edu/memos/2020-03-18-covid-19-update-test-results-and-library-services
+17-Mar-20,428,Santa Barbara,"Dear Members of Our Campus Community,
+
+I am writing with additional updates on our campus’s response to slow the spread of COVID-19 in our community, and to share the results of the COVID-19 test our Student Health team conducted on our student in Isla Vista.
+
+Isla Vista COVID-19 Test
+The one student tested by Student Health, who had been in close contact with a confirmed COVID-19 case, has tested negative. While this is good news, Santa Barbara County Public Health has directed all five of the students in Isla Vista who Public Health identified over the weekend to remain in quarantine. We are in close coordination with county Public Health officials, and will share with our community any information the county releases as soon as it becomes available.
+
+We continue to strongly urge everyone, especially our students on campus and in Isla Vista, to follow best practices related to social distancing and other health practices to help slow the spread of COVID-19 in our community. All of us being community-minded, making sacrifices, and doing our part will ultimately help save lives.
+
+Updated Administrative Leave Guidance
+Finally, I want to share updated guidance regarding emergency and administrative leave. Yesterday evening, UC President Janet Napolitano issued an Executive Order allowing up to 128 hours of paid administrative leave for all employees, including student workers, to help them address the particular challenges they are facing as a result of COVID-19.  
+
+The new guidance stipulates that “the hours may be used at any time during the period of this Executive Order, including intermittently, either before or after the use of any accrued leave or other paid leave, at the request of the employee, in consultation with the supervisor, provided that such use shall not adversely affect the delivery of essential university service.”
+
+Additional details about the new policy, including the purposes for which the administrative leave may be used, were sent in an earlier message this afternoon to our staff. We are once again asking managers to exercise maximum flexibility to help our dedicated staff colleagues and student workers during this challenging time.
+
+We are extremely grateful to our community for all the hard work all of us are doing during this complex and difficult campus transition. We realize that many of us are overwhelmed and struggling. Please know we are working to provide services and support to those in need, and to provide as much timely information and clarity as possible in these times of uncertainty.    
+
+Sincerely,
+
+Henry T. Yang
+Chancellor",https://chancellor.ucsb.edu/memos/2020-03-17-covid-19-update-test-result-and-leave-policy
+15-Mar-20,284,Santa Barbara,"Dear Members of Our Campus Community,
+
+I am writing to share with you another update on the COVID-19 situation in our local community.
+
+While there are no confirmed COVID-19 cases on campus, there are several individuals from the UC Santa Barbara community who live off-campus who have self-reported possible contact with people who have tested positive for COVID-19 or self-reported travel to areas where COVID-19 cases have been confirmed.
+
+While none of these individuals or their close contacts have exhibited serious symptoms linked to COVID-19, out of an abundance of caution, Student Health contacted Santa Barbara County Public Health and administered a precautionary test for one individual. This individual and several others who had been in close contact with the individual were directed to self-isolate.
+
+Santa Barbara County Public Health has been working in Isla Vista to identify others in the community who may have had close contact with this individual. Public Health officials have notified the community that out of an abundance of caution, five UC Santa Barbara students who live off-campus have been placed in quarantine off-campus. We will update our community as soon as possible with information as it becomes available.
+
+Students with health questions should visit our Student Health website for up-to-date information and medical contact information.
+
+Please see my message from yesterday for updated information and guidance
+regarding plans for spring quarter instruction. Again, we urge all students who can safely leave campus for the spring quarter to do so.
+
+The health, safety, and well-being of our campus and local community is our top priority. We are working closely with our county officials, and doing all we can to protect our campus family.
+ 
+
+Sincerely,
+
+Henry T. Yang
+Chancellor",https://chancellor.ucsb.edu/memos/2020-03-15-covid-19-update-precautionary-measures-isla-vista
+14-Mar-20,1338,Santa Barbara,"Dear Members of Our Campus Community,
+
+I would like to acknowledge what a challenging time this has been for all of us. Together we have worked collaboratively and continuously to take precautions against the COVID-19 virus. The current situation is serious, and we need to make adjustments to our normal routine in order to prevent widespread transmission in our community. This communication will cover:
+
+Decision to end all in-person instruction and continue remote instruction for the entire spring quarter
+Decision to urge students who can safely leave to do so and to take all of their personal items from their university-owned housing
+Guidance for students and parents on housing and dining services
+More detailed guidance preparing for increasing social distancing through remote work for our staff colleagues
+COVID-19 Response Working Group rationale 
+Extending Remote Instruction 
+Our initial announcement to transition to remote instruction through April was made as a proactive step in order to protect our community and to give everyone as much clarity as possible at the time we made the decision. As the situation has continued to evolve, we have made the difficult decision, in consultation with many of our students, faculty, and staff, to extend remote instruction through the entire spring quarter and to end all in-person instruction. 
+
+We are asking instructors, who are faced with the daunting task of adjusting to remote instruction, to extend their planning through the spring quarter. We know that there will be specific courses that cannot be taught effectively in remote formats. Faculty and departments will have to exercise maximum flexibility in these unique circumstances. 
+
+We will continue to work to be as accommodating as possible in an attempt to make sure all of our students are able to receive the courses they need to fulfill requirements. However, given the extraordinary circumstances that we are facing, there will be individual challenges among students, faculty, and staff that must be addressed. We will share additional guidance as soon as it is developed. 
+
+While we know how disappointing this situation is, especially for our graduating students, social distancing and lowering the density on campus is the best way to mitigate the spread and impact of COVID-19, according to our health experts.
+
+Housing
+With these changes and in order to lower the density on campus, we are also urging students who can safely leave to do so and to take all of their personal items from their university-owned housing. We have a small window to take proactive steps to protect our community, and we are asking everyone to do their best and to be community-minded. Instructions related to moving out of campus housing will be forthcoming. 
+
+Housing and dining refunds have been addressed in guidance sent directly to students to help with decisions for the coming spring quarter. Related questions can be directed to housinginfo@housing.ucsb.edu or 805-893-4371.
+
+We are also reviewing options related to campus-based fees as well as financial aid considerations, and will be communicating separately by the end of next week with students and parents as new policy is developed. 
+
+Our campus remains open and operational in order to accommodate our students who need to stay and to continue with our research mission. We will do our best to continue to offer roles to our student employees, although the work may be modified based on campus needs. 
+
+Staff
+We continue to urge managers to exercise maximum flexibility in working with members of our staff, prioritizing the health and well-being of our employees. We know that the K-12 school closures across the region have only added to the pressure on our community. Our offices of Administrative Services and Human Resources yesterday issued more detailed guidance preparing for increasing social distancing through remote work. Staff should consult with their managers. 
+
+Our COVID-19 Response Working Group continues to convene daily to monitor the evolving situation. I have also spent many hours talking with and listening to our students, staff, and faculty across campus. Their invaluable thoughts and ideas have made a great impact on the decisions we have been making. We so value the input of each of our community members. 
+
+We greatly appreciate your flexibility and understanding as we navigate this challenging time together. Thank you for all you do to support and care for our UC Santa Barbara family. 
+
+Sincerely,
+
+Henry T. Yang
+Chancellor
+
+
+COVID-19 Response Working Group Rationale
+In explaining the basis for our recommendations, we ask that you understand the gravity of this threat and remain calm. Our recommendations are based on the evidence, and the evidence strongly suggests that we can get this pandemic under control if we follow the guidelines.
+
+To understand the gravity of the situation, consider how rapidly the virus spreads. An approximate rate of spread is doubling every two days. If one person is positive for the virus, that means in one month there will be thousands of cases if no measures are taken. If in the more likely case a group of people are infected at once, say 10 people, in one month we will have tens of thousands of cases. Here are some concrete examples:  
+
+Based on the current situation in other regions of the world, it is estimated that if drastic measures are not taken early to prevent transmission, 40-70% of the U.S. population will be infected within 12 to 18 months. In Italy, two weeks ago there were 300 cases, one week ago there were 2,500 cases, and today there are over 21,000 cases. In the U.S., two weeks ago we had fewer than 100 cases, one week ago we had over 400 cases, and today we have close to 2,500 cases and 51 confirmed deaths. If the infection continues as it is, next week we will have tens of thousands of cases and hundreds of deaths. The risk of severe disease and fatality is elevated in high-risk populations – individuals over 65 and those with underlying conditions. There are no vaccines or treatments available at this moment for the general population. If the infection continues unrestrained, the impact of COVID-19 in our healthcare system will be severe.
+
+The current situation is serious, and we need to make adjustments to our normal routines. We need to act fast. In other regions of the world, like Hong Kong and Singapore, where early precautionary measures were taken, the mortality rate is as low as 0.5%. In places where the measures were adopted later, the reported mortality rate is between 3-10%. Time is of the essence. The virus is transmitted by droplets and contact with contaminated surfaces. Symptoms appear between 2 to 14 days after exposure. There is an unknown fraction of the population that shows mild or no symptoms.
+
+Even if you do not develop severe disease or show symptoms, you can still transmit the virus to other people. We need to work together to prevent widespread transmission in our community. These are some of the measures we need to take as a community:
+
+PRACTICE SOCIAL DISTANCING IN THE COMMUNITY. Try to avoid crowded places and social gatherings (lots of people in small spaces). You can be most safe by minimizing unnecessary contact with others.
+Keep your distance from others. It is recommended to be about 6 feet from people in close spaces (cafes, elevators, library, etc.).
+Wash your hands for more than 20 seconds with soap and water.
+IF YOU ARE SICK, STAY HOME. Expect to be home for two weeks.
+Have a plan in case you get sick. Include the following items in your plan:
+How are you going to isolate yourself (how long, where)? 
+Who are you to contact if you have symptoms (doctor phone number, Student Health, friend, family member)? 
+If you are in isolation and have a need, who will you contact?
+Stay calm. We understand this is a stressful situation for everybody, but remember that we can work together to get this pandemic under control.",https://chancellor.ucsb.edu/memos/2020-03-14-covid-19-response-update-and-new-spring-quarter-guidance
+12-Mar-20,1226,Santa Barbara,"Dear Members of Our Campus Community,
+
+I write to follow up on my earlier message regarding the steps the University is taking to protect the health and well-being of our students, staff, and faculty, and to slow the spread and mitigate the impact of COVID-19. 
+
+The coronavirus pandemic we are facing needs an urgent response from our entire UC Santa Barbara community. As of today, we do not have any cases on campus or in Santa Barbara County. However, cases are rapidly spreading around the country. Undetected cases are likely to be present more widely than we can now detect. Once a case lands in a community, you can think of it as an ember that will start a new fire. We need to be prepared for the potential of COVID-19 transmission on our campus, and this requires the collective effort of our entire community. In these challenging times, we appreciate and thank everyone for taking a community-minded approach. 
+
+Our health experts advise that the COVID-19 pandemic should not be viewed as a regular cold, or even as a new kind of flu. The virus can cause severe disease, and presents a high risk of mortality, particularly among the aging and chronically ill. Even if a young adult gets a mild form of the disease, it can be transmitted to parents or grandparents or others in the community in whom the disease can be deadly. Many cases require hospitalization, and the system can rapidly become overwhelmed. We urgently ask everyone to carefully consider their own vulnerability and that of those around them. Please continue to be aware and keep informed. 
+
+By working together and being community minded, we can help mitigate the impact of COVID-19 in a way that will help our medical community in responding to this evolving crisis. Our sister UC campuses and numerous other universities across the country are taking similar action, which is in line with recommendations of many health experts regarding social distancing in order to slow the spread of COVID-19.
+
+To expand on the earlier guidance from the COVID-19 Response Working Group (members listed below), we want to be more clear: 
+
+• By not coming back to campus after travel, our students can play a significant and critical role in helping slow the spread of COVID-19 in our community. We are asking students who are traveling for spring break to stay away from campus for at least the month of April. We are asking those students who plan to stay on campus for April not to travel during spring break. 
+
+• No student will be required to attend in-person lectures or seminars during the month of April. We are asking our colleagues to be flexible in making accommodations at all levels.
+
+• Students who are planning to leave campus will receive the same education as those who stay and will not be disadvantaged for remaining away. We are continuing to work out issues related to work-study, financial aid, housing, and dining so that none of our students are disadvantaged by these changes. Please know that responding to all the different individual cases in order to make accommodations will take time. 
+
+• Due to the shift from in-person final exams to on-line and other alternatives, we are extending the deadline for winter grades by one week to 11:59PM, Tuesday, March 31, 2020. To minimize the impact on our students, we urge those who can, to please submit grades by the original deadline or as soon as possible.
+
+• The campus will remain open and operational in order to accommodate our students who need to stay on campus and to continue critical research activities. Keeping the campus operational and achieving the highest standards of remote instruction cannot be accomplished without our dedicated staff and faculty. We will follow UCOP’s guidance in order to protect their health and well-being while asking managers to exercise maximum flexibility.
+
+We understand how the decision to move toward remote instruction and limiting the presence of our students on campus has created a great deal of uncertainty not only for our students, but also for our faculty, staff, parents, and visitors to our campus. We deeply apologize for the hardships and the increased anxiety this disruption is causing for all of us. We did not make the decision lightly. It was driven by our responsibility to protect the health and well-being of our students and their families, as well as that of our dedicated staff and faculty. 
+
+We know this decision calls on many of us to sacrifice our own personal interests in service to the greater well-being of our campus community, as well as Isla Vista, Goleta, Santa Barbara, and the families of our students, faculty, and staff. 
+
+This transition will be difficult. It will take time. An institution as complex and decentralized as a university campus, especially one as committed to shared governance as UC Santa Barbara, cannot change in one day or even in one week. What we can do, however, is work tirelessly to implement the changes, to develop new policies, and to provide information and updates through this challenging transition. We will listen to and appreciate the concerns raised by our community so we can understand the hardships and disruptions, and find ways to address and mitigate them wherever possible. 
+
+To our faculty and teaching community, please know that we are working to support your efforts in rapidly adjusting to new instructional modalities. 
+
+For our students and parents, please know that our entire faculty, our instructors, and our staff are working around the clock to answer your questions (see FAQs here), address your concerns, and ensure that we can continue to maintain the highest educational standards despite the threat posed and disruption caused by COVID-19.
+
+For our staff, who provide the foundational support for our mission of education, research, and service, please know that we remain committed to keeping our community safe and to being as accommodating as possible, with maximum flexibility, during this unprecedented set of circumstances. 
+
+We have experienced the tremendous capacity of our community to overcome hardship, natural disaster, and tragedy. We know our community is compassionate, supportive, and resilient. We know our community embraces a challenge, and welcomes innovation and change. We are proud of the strengths of our UC Santa Barbara community. I am deeply grateful for the extraordinary efforts being made by our staff, our faculty, and our students.
+
+Sincerely,
+
+Henry T. Yang
+Chancellor",https://chancellor.ucsb.edu/memos/2020-03-12-covid-19-response-update
+12-Mar-20,472,Santa Barbara,"Dear Members of Our Campus Community,
+
+I am writing to share the news that Dean Carol Genetti of our Graduate Division has accepted the position of Vice Provost for Graduate and Postdoctoral Programs at New York University Abu Dhabi in the United Arab Emirates, beginning September 1, 2020. We will greatly miss Dean Genetti’s leadership and service to our campus, but we are excited for this opportunity for her and wish her all the best in her new position.
+
+As our inaugural Anne and Michael Towbes Graduate Dean, Dr. Genetti has done exceptional and innovative work to develop programs that enhance graduate education and the graduate student experience. For example, she has provided enriched support for career development for our campus, and implemented courses in university pedagogy and graduate writing. She created the award-winning Grad Slam, now a signature event for UC. She instituted UC Crossroads, which has funded twelve year-long interdisciplinary research and teaching projects. During her tenure, we have increased financial support for graduate students, including establishment of the International Doctoral Recruitment Fellowship. Especially notable, she has created programs that foster inclusiveness and support for students who have been traditionally underserved by the academy, such as the Graduate Scholars Program, the fall Diversity Matters series, and the Action Collaborative Steering Committee, which she co-chairs. We are deeply grateful for her accomplishments and her dedication to graduate education, diversity, and outreach.
+
+Beyond her eight years as Graduate Dean, Dr. Genetti has contributed to our campus in countless ways over the last three decades. She served as Associate Dean for Humanities and Fine Arts from 2005 to 2012, as Chair of our Department of Linguistics from 1999 to 2005, and as a distinguished member of our Linguistics faculty since 1990.
+
+Her research has focused on linguistic typology, and especially on the documentation and description of Himalayan languages. She is co-founder and managing editor of the online journal Himalayan Linguistics. Her monograph A Grammar of Dolakha Newar was awarded the inaugural von der Gabelentz Award from the Association for Linguistic Typology. She has been actively involved in efforts to preserve the world’s linguistic diversity; she founded a biennial institute on language documentation and revitalization, and is the former Chair of the LSA Committee on Endangered Languages and their Preservation.
+
+I will be consulting with our Executive Vice Chancellor, Vice Chancellor for Research, Academic Deans, Academic Senate, administrative colleagues, and members of our campus community on the appointment of an Acting Dean for our Graduate Division, and I look forward to announcing this appointment in the near future. We will also move quickly to form a search advisory committee to conduct a search for this important position.
+
+Please join me in extending our warmest thanks and congratulations to Carol.
+
+Sincerely,
+
+Henry T. Yang
+Chancellor",https://chancellor.ucsb.edu/memos/2020-03-12-graduate-dean-carol-genetti
+10-Mar-20,896,Santa Barbara,"Dear Members of Our Campus Community,
+
+I am writing to update you on a number of immediate actions our campus is taking to help protect the health and well-being of our campus community.
+
+Following the discussions with our COVID-19 Response Working Group and recommendations from public health experts, we are asking community members to assist us in taking proactive steps to mitigate the potential impact of COVID-19 here on campus, in IV, and in the broader Santa Barbara community. We know that many of these recommendations will be challenging to implement, but it is important that we take the necessary steps now to respond to the rapidly evolving situation, despite the fact that no cases have been reported on campus or in Santa Barbara County.
+
+Our campus will be transitioning to remote instruction for the remainder of Winter Quarter and the start of the Spring Quarter through at least the end of April. Given our campus’s transition to remote instruction and the possibility of additional travel disruptions and restrictions, we are recommending that all undergraduate students traveling for spring break be prepared for the possibility of remaining away from campus through the month of April. We understand that graduate students have different academic commitments and recommend that they consult with their advisors and departments.  
+
+The campus will remain open and operational, including Housing and Dining, which will continue normal operations.
+
+Based on advice from the leading health experts, the following actions are necessary to help mitigate the impact of COVID-19.
+
+Instruction
+• Effective March 11, 2020, for the remainder of Winter Quarter, we strongly recommend that instructors make alternative arrangements for in-person classes and for final exams. In addition to alternative assignments, such as remote exams, instructors may make use of Proctor U for online exams. Instructors will be communicating directly with their students with more specific details.
+• To the extent possible, instructors and departments should make plans to shift Spring Quarter classes from in-person formats to remote formats, using alternative modalities, at least through the month of April.
+• Students who remain on campus through the break and during the month of April will also be receiving instruction remotely, and must also be prepared for limited on-campus activities and services. More detailed guidance and information about services for students will follow in subsequent communications.
+• Additional guidelines and information will be sent to instructors to assist with this transition.
+
+Our COVID-19 Response Working Group will continue to consult and evaluate the evolving situation in the coming days and weeks in order to make additional recommendations related to instruction for the Spring Quarter. We know that this transition is not going to be easy and we will all need to be flexible.
+
+Travel
+We are recommending against all non-essential business travel, international and domestic, for UC Santa Barbara employees through the end of April. This guidance is in addition to current UC systemwide restrictions already in place to CDC Level 3 (widespread community transmission) and Level 2 (sustained community transmission) countries.
+
+With spring break approaching, we also encourage our faculty, staff, and students to carefully consider the risks associated with travel, both international and domestic. All personal international travel is strongly discouraged and we urge extreme caution and judgement for your personal domestic travel.
+
+Events
+While no UC systemwide restrictions on large events or mass gatherings have been implemented at this time, the COVID-19 Response Working Group recommends that campus groups strongly consider postponing, canceling, or rescheduling crowded on-campus events.
+
+The Athletics Department will be moving to “fan-less” events.
+
+The CDC provides guidance on mass gatherings and large events.  
+
+Working Remotely and Staff Leave Policy
+We urge managers to use maximum flexibility in working with members of our staff in order to address challenges caused by COVID-19.  
+
+The Office of the President has enacted temporary emergency leave policies in anticipation of potential scenarios. The Working Group recommends that managers work with employees to explore opportunities to work remotely when job duties permit.  Highlights of the policy are below and the full guidelines can be found online.  
+ 
+• Managers may designate certain employees to work from home. If employees are designated to work from home, it will be considered paid work status.
+• Employees unable to work due to their own or a family member’s COVID-19 illness should use available leave balances (e.g. sick leave, PTO-sick, or other accrued leave), and if there are no available leave balances, the University will provide up to 14 days paid administrative leave to cover the absence.
+• Employees unable to come to work due to a COVID-l9 day care or school closure that requires them to be home with their child may work remotely if operationally feasible; if remote work is not operationally feasible, employees may use available leave balances including sick leave.
+
+I would once again like to take this opportunity to express the great appreciation we all feel to be members of this dedicated community.
+
+Our most valuable resource at UC Santa Barbara is our people — our staff, our faculty, our students, and our alumni. I want to express my sincere thanks to all as we work together to protect and support our community and meet the challenges related to COVID-19.
+
+Sincerely,
+
+Henry T. Yang
+Chancellor",https://chancellor.ucsb.edu/memos/2020-03-10-covid-19-response-update-and-winterspring-quarter-guidance
+07-Mar-20,1052,Santa Barbara,"Dear Members of Our Campus Community,
+ 
+I would like to express my sincere gratitude to all of our colleagues across campus and throughout the UC who are working collaboratively and continuously to help us respond as a community to the evolving situation with the COVID-19 virus.
+ 
+As of March 7, there are no confirmed cases of COVID-19 on campus or anywhere in Santa Barbara County, and there are no recommendations by any public health agencies to suspend campus operations or modify any class schedules. However, with the increased availability of testing, we can expect that more people will be tested when displaying certain symptoms, and confirmed cases of COVID-19 are expected to continue to grow in California, and possibly in our region and/or university community. We are closely monitoring this fluid situation in our local community in collaboration with public health agencies, and we will work together to meet any challenges that may present themselves.
+ 
+The well-being of our community is our highest priority. We are vigilantly working with every area of our campus to monitor and respond to the situation as it continues to evolve. We are following the guidance of our local public health agencies and the CDC. We are working to adapt our robust response and continuity plans to this current threat, and to maintain a healthy and safe living, learning, and working environment for all of us.
+ 
+Many campus offices, including Instructional Development, COLLABORATE, the Center for Innovative, Teaching, Research and Learning (CITRAL), and the Office of the Chief Information Officer, have been working to enhance instructional technology and create an infrastructure that would maintain continuity of instruction and support both students and faculty who might be unable to participate face-to-face in classes or exams, should COVID-19 emerge locally and potentially disrupt academic operations. As we did during the Thomas Fire and road closures, a variety of strategies would be deployed should public health officials advise that the campus take additional steps, including on-line lectures and/or assignments, take-home finals, remotely proctored exams, and other alternative arrangements that would ensure that students could complete their coursework. We encourage instructors to ensure that GauchoSpace sites are active for each of their courses so they could communicate easily and efficiently with their students.
+
+We continue to follow the guidelines provided by the US Centers for Disease Control and Prevention (CDC) and the California Department of Public Health (CDPH), as well as the guidance of UC Office of the President. We have created a COVID-19 website, where you will find the most up-to-date information the campus has available as well as links to other important sites, including:
+• UC Santa Barbara Student Health
+• University of California Response to Coronavirus (COVID-19)
+• UCOP Travel Restriction Guidance
+• UCEAP Program Suspensions and Updates
+• California Department of Public Health (CDPH)
+• US Centers for Disease Control and Prevention (CDC)
+• US Department of State Travel Advisories
+ 
+We can all help to keep our community healthy and safe by using everyday preventive care, including the following:
+• Wash your hands frequently with soap and water for at least 20 seconds.
+• Avoid close contact with people who are sick.
+• Avoid touching your eyes, nose, and mouth.
+• Clean and disinfect frequently touched objects at home, work, and school.
+
+If you experience flu-like symptoms:
+• Stay home.
+• Students should contact Student Health Services at (805) 893-7129 to receive guidance from an advice nurse.
+• Faculty and staff members should contact their primary health care provider.
+
+For members of our staff, in situations involving self-quarantine or other circumstances that may warrant an employee's absence from work, we encourage managers to work with Human Resources & Labor Relations to make every effort possible to help in identifying available options. UC Santa Barbara employees have access to Academic & Staff Assistance Program (ASAP) services, which offers free counseling and referral assistance for employees and eligible family members and can help individuals coping with anxiety, stress, loss, and more. More information about ASAP services is available at https://www.hr.ucsb.edu/asap.  
+ 
+To enhance campus coordination and augment the efforts of our existing campus pandemic response team that have been underway since the initial reports of COVID-19, we have established a COVID-19 Response Working Group, coordinated out of the Office of the Chancellor. The Working Group, listed below, includes all of our vice chancellors, Academic Senate leadership, and individuals who have been involved in our campus-wide preparation efforts over the past two months, as well as faculty expertise in the area of virus-host interactions, health, and microbiology. The Working Group will meet daily in order to advise on policy decisions and implementation related to our ongoing COVID-19 response. We will also be consulting closely with our students and members of our staff to help inform our actions.
+ 
+We know that many in our community are understandably anxious about COVID-19 and the unknowns that it poses, but we have always been a strong community and pulled through whatever challenges have come our way. We would like to take this opportunity to reaffirm our shared commitment to treating all members of our community with respect, and to upholding our Principles of Community. It is unacceptable to discriminate against or profile any members of our community.
+ 
+I am deeply grateful to our community members for all of the efforts that have been and will be taken to keep our campus safe.  
+ 
+Sincerely,
+ 
+Henry T. Yang
+Chancellor",https://chancellor.ucsb.edu/memos/2020-03-07-covid-19-response-update
+07-Feb-20,684,Santa Barbara,"Dear Members of Our Campus Community,
+ 
+To date, there have not been any cases of the novel coronavirus (2019-nCoV) in Santa Barbara County or on our campus. We place the highest priority on the safety and well-being of our campus community, and we are continuing to work closely with our colleagues at the UC Office of the President and other campuses to monitor the global situation and to coordinate with state and local officials to ensure that we are following the guidelines recommended by public health officials.
+
+In accordance with guidance from the U.S. Department of State, UC President Janet Napolitano has also requested that all UC campuses temporarily “avoid all non-essential travel” to China. The UC Office of the President also asked all UC campuses to develop a review and approval processes to determine whether travel to China is essential or can be postponed. University of California restrictions do not apply to travel that is solely personal, but all travelers should be aware of travel risks and of federal government warnings on any type of travel to/from China.
+ 
+In light of UC’s directive, members of our campus community wishing to engage in essential business travel to China will need to obtain prior approval. Please see the appendix below regarding the campus approval process. In addition, any such travelers are urged to register their university business travel with UC Away, which provides benefits and protections in case an incident arises that requires medical care, evacuation, or other essential services.
+ 
+We would like to take this opportunity to reaffirm our shared commitment to treating all members of our community with respect, and to upholding our Principles of Community. It is unacceptable to discriminate against or profile any members of our community.
+
+To help provide our community with answers to questions that arise, our Student Health website is being updated regularly with the latest information available to the University, including links to the Centers for Disease Control and the California Department of Public Health. A Q&A with Student Health Service medical experts is also published on The Current.
+
+We recognize the stress and anxiety that this situation may cause, and we have resources available to help, including Counseling and Psychological Services (CAPS) and Mental Health Peers for students and the Academic & Staff Assistance Program (ASAP) for faculty and staff. More information and assistance are available at our Office of International Students and Scholars and our Student Health Service (SHS) as well.
+ 
+We will continue to update our campus community as new information becomes available. Our thoughts are with all those affected by this challenging public health situation.
+ 
+Sincerely,
+ 
+Henry T. Yang, Chancellor
+Henning Bohn, Chair, Academic Senate
+David Marshall, Executive Vice Chancellor
+Joe Incandela, Vice Chancellor for Research
+Margaret Klawunn, Vice Chancellor for Student Affairs
+Garry Mac Pherson, Vice Chancellor for Administrative Services",https://chancellor.ucsb.edu/memos/2020-02-07-coronavirus-update-and-guidance-travel-china
